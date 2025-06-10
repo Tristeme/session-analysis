@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# System
+.DS_Store
+
+# Output
+*.zip
+output_csvs/
+sentences_by_author.csv
