@@ -20,7 +20,7 @@ def process_file_for_collab_metrics(filepath):
                     H += 1
 
                 # Machine suggestion used (choose): suggestion-select by user
-                if name == 'suggestion-select' and source == 'user':
+                if name == 'suggestion-select' and source == 'user' or name == 'suggestion-close' and source == 'api':
                     M += 1
 
                 # Human-GPT interaction events
@@ -32,6 +32,7 @@ def process_file_for_collab_metrics(filepath):
                     for op in event.get('textDelta', {}).get('ops', []):
                         if 'insert' in op and isinstance(op['insert'], str):
                             I += len(op['insert'])
+                            M += len(op['insert'])
 
                 # Solo events
                 if name in ['text-delete', 'text-insert', 'suggestion-close'] and source == 'user':
