@@ -1,0 +1,183 @@
+{
+  "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author is transitioning from a successful career to focus on video game development and family responsibilities",
+    "\",\n    \"They plan to balance personal fulfillment with professional obligations by setting up a home office for game development",
+    "\",\n    \"The author intends to discuss their transition plans with their wife and enroll in an online refresher course on video game development",
+    "\",\n    \"A one-month notice will be given to their current employer once they are ready to pursue their hobby full-time",
+    "\",\n    \"The author is excited about the prospect of integrating their passions with family life, despite anticipating challenges"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "```json\n[\n    \"The author is transitioning from a successful career to focus on video game development and family responsibilities",
+      "keypoint_index": 1,
+      "best_match_sentence": "I want to focus on my hobby for making video games as this will allow me  more free time to attend to my aging parents, my family and personal issues.",
+      "best_match_score": 0.4943,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I want to focus on my hobby for making video games as this will allow me  more free time to attend t...",
+          "score": 0.4943,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.4371,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+          "score": 0.3588,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"They plan to balance personal fulfillment with professional obligations by setting up a home office for game development",
+      "keypoint_index": 2,
+      "best_match_sentence": "I'm considering setting up a home office dedicated to game development, where I can immerse myself in creativity while still being available for any family emergencies.\nBesides proper planning and setting up a home office, there are other important things that i need to do as well.",
+      "best_match_score": 0.6816,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I'm considering setting up a home office dedicated to game development, where I can immerse myself i...",
+          "score": 0.6816,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.4533,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I want to focus on my hobby for making video games as this will allow me  more free time to attend t...",
+          "score": 0.4095,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"The author intends to discuss their transition plans with their wife and enroll in an online refresher course on video game development",
+      "keypoint_index": 3,
+      "best_match_sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+      "best_match_score": 0.681,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+          "score": 0.681,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I want to focus on my hobby for making video games as this will allow me  more free time to attend t...",
+          "score": 0.5073,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.4632,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"A one-month notice will be given to their current employer once they are ready to pursue their hobby full-time",
+      "keypoint_index": 4,
+      "best_match_sentence": "The policy at my current  work place requires me to give a one month notice.",
+      "best_match_score": 0.6961,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The policy at my current  work place requires me to give a one month notice.",
+          "score": 0.6961,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Lastly, on the list of important things i need to do is giving a one month notice to my current empl...",
+          "score": 0.6298,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "This will also allow me more time with my wife and kids, something that i could only dream of in my ...",
+          "score": 0.3665,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"The author is excited about the prospect of integrating their passions with family life, despite anticipating challenges",
+      "keypoint_index": 5,
+      "best_match_sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while having the flexibility to support my elderly parents.",
+      "best_match_score": 0.4557,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.4557,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Having had a successful career and with the financial independence, i am now open to facing new life...",
+          "score": 0.4312,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I have always loved taking on challenges and i have always believed that life is about striking a ba...",
+          "score": 0.4234,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

@@ -1,0 +1,183 @@
+{
+  "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Judgment from family due to past drug use despite not using hard drugs",
+    "\",\n    \"Consistent negative treatment from family, being labeled as the black sheep",
+    "\",\n    \"Criticism about weight and eating habits, leading to unhealthy behaviors",
+    "\",\n    \"Blame for skin issues despite known medical conditions",
+    "\",\n    \"Insults and judgment based on political views and personal art"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "```json\n[\n    \"Judgment from family due to past drug use despite not using hard drugs",
+      "keypoint_index": 1,
+      "best_match_sentence": "However, I've had people judge me for a variety of other reasons such as...\n\n1) Past Drug Use\nI've had family practically shun me and stop talking to me all because of one person in my family portraying me as this terrible person due to my use of drugs.",
+      "best_match_score": 0.4825,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, I've had people judge me for a variety of other reasons such as...\n\n1) Past Drug Use\nI've h...",
+          "score": 0.4825,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I was always treated like a junkie and less of a person because of this, and to this day, even after...",
+          "score": 0.4498,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I never touched heroin, crack, coke, meth, or any of those substances, but I would smoke weed and ta...",
+          "score": 0.3519,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Consistent negative treatment from family, being labeled as the black sheep",
+      "keypoint_index": 2,
+      "best_match_sentence": "I was always treated like a junkie and less of a person because of this, and to this day, even after turning my life around and quitting the weed and the pills, my family are still standoffish about having anything to do with me.\n\n2) Family Drama\nMy whole life I have always been the black sheep in the family.",
+      "best_match_score": 0.5514,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I was always treated like a junkie and less of a person because of this, and to this day, even after...",
+          "score": 0.5514,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "My family has always had something negative about me to say, to the point of it being like a daily s...",
+          "score": 0.4546,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "Despite the fact that my family knows this, I get blamed for my bad skin because I \"wear makeup, tou...",
+          "score": 0.3538,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Criticism about weight and eating habits, leading to unhealthy behaviors",
+      "keypoint_index": 3,
+      "best_match_sentence": "When I actually was healthy (before becoming anorexic) I was always told I was too skinny and I needed to gain weight.",
+      "best_match_score": 0.4939,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "When I actually was healthy (before becoming anorexic) I was always told I was too skinny and I need...",
+          "score": 0.4939,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "When I finally did gain weight again, I was told I \"look good\" as if I didn't look good before that,...",
+          "score": 0.4545,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "Make too much food?",
+          "score": 0.3956,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Blame for skin issues despite known medical conditions",
+      "keypoint_index": 4,
+      "best_match_sentence": "Despite the fact that my family knows this, I get blamed for my bad skin because I \"wear makeup, touch my face, don't clean my face enough,\" etc.",
+      "best_match_score": 0.6211,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Despite the fact that my family knows this, I get blamed for my bad skin because I \"wear makeup, tou...",
+          "score": 0.6211,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "The thing is they know I have hormonal issues and high cortisol, in addition to thyroid problems, bu...",
+          "score": 0.5159,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "4) My Skin\nI always struggled with acne and acne scars since I was about 13 years old.",
+          "score": 0.4673,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Insults and judgment based on political views and personal art",
+      "keypoint_index": 5,
+      "best_match_sentence": "5) My Political Views\nI stopped posting my political views on social media circa 2017 when people started to insult me based on them.",
+      "best_match_score": 0.545,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "5) My Political Views\nI stopped posting my political views on social media circa 2017 when people st...",
+          "score": 0.545,
+          "author": "user",
+          "sentence_id": "19",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "To summarize, while I can't really recall being judged for work matters, I have been judged for othe...",
+          "score": 0.4388,
+          "author": "user",
+          "sentence_id": "23",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I find myself constantly questioning if the things that bring me joy and fulfillment are worth the c...",
+          "score": 0.3472,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

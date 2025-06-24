@@ -1,0 +1,20 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+7a84644b671144b29973ab0ffe23898a.csv,1,"```json
+[
+    ""Breaking the poverty cycle involves improving access to basic needs, healthcare, and education","Title; Break the Cycle of Poverty and Improve Health 
+Ever lie awake at night, your mind filled with thoughts on how to break the poverty cycle in the community by making everyone afford their basic needs and help them keep the health more strong by having the best medical care and educate them on eating healthy foods.",0.5406,USER,0,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,2,""",
+    ""An online donation platform was created to fund these initiatives, but initial funding was insufficient","Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.
+
+The other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",0.4621,USER,4,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,3,""",
+    ""Community efforts focused on health education, clean water access, and sanitation improvements","Luck of enough funds caused a lot of pushbacks from members of the community as they thought the progress would never happen in any time from then but that made me more motivated to prove them that anything is possible.
+On the health side which was was my priority, me and a group of my friends organized groups from the community to educate them on the importance of having clean water and eating healthy, we cleaned the waste systems, helped build modern toilets in schools to protect the children.",0.5694,USER,2,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,4,""",
+    ""Government and private organizations eventually supported the project with funding and resources","Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.
+
+The other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",0.6057,USER,4,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,5,""",
+    ""Education and skill development are crucial for economic improvement and breaking the poverty cycle","By prioritizing the best education, its the best way to cut poverty cycle and create best paths for financial stability and more self improvement.
+
+It was all a dream achieved but the challenges were many and the road was not always smooth.",0.6306,USER_AND_API,6,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert

@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+68cedfb070704463a4d9d4748052eef4.csv,1,"```json
+[
+    ""The author felt overwhelmed by social media and decided to take a break to see its effects on their life","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.4719,API,4,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,2,""",
+    ""Taking a step back from social media led to improved mental state and deeper real-life relationships","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.6505,API,4,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,3,""",
+    ""The author rediscovered hobbies and found fulfillment away from digital distractions","This newfound freedom allowed me to rediscover hobbies that had long been neglected, such as reading and painting, which brought a sense of fulfillment that no number of likes or comments could provide.",0.6084,API,9,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,4,""",
+    ""A balanced perspective on social media use emerged, focusing on intentional and meaningful interactions","That sparked real conversations about how we use technology and why.Now, I still use social media, but on my own terms.",0.6516,USER,21,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,5,""",
+    ""The author's change in social media habits sparked conversations about technology use among friends","That sparked real conversations about how we use technology and why.Now, I still use social media, but on my own terms.",0.7189,USER,21,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert

@@ -1,0 +1,177 @@
+{
+  "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"People often assume stereotypes about professions without understanding the full scope of an individual's identity",
+    "\",\n    \"Software development is a diverse field involving creativity, teamwork, and collaboration, not just solitary coding",
+    "\",\n    \"Judging others without evidence can lead to misunderstandings and undervaluation of individuals",
+    "\",\n    \"Society should focus on making the world a better place rather than competing and humiliating others",
+    "\",\n    \"Leaders and individuals alike should promote equality, fairness, and support for the needy to improve societal welfare"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "```json\n[\n    \"People often assume stereotypes about professions without understanding the full scope of an individual's identity",
+      "keypoint_index": 1,
+      "best_match_sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration, and creativity.",
+      "best_match_score": 0.1622,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration,...",
+          "score": 0.1622,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they kno...",
+          "score": 0.1538,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.1186,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Software development is a diverse field involving creativity, teamwork, and collaboration, not just solitary coding",
+      "keypoint_index": 2,
+      "best_match_sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration, and creativity.",
+      "best_match_score": 0.1714,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration,...",
+          "score": 0.1714,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and...",
+          "score": 0.1579,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "While it's true that I enjoy coding and solving complex problems, there's so much more to me.The tru...",
+          "score": 0.1538,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Judging others without evidence can lead to misunderstandings and undervaluation of individuals",
+      "keypoint_index": 3,
+      "best_match_sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and functional out of seemingly nothing.",
+      "best_match_score": 0.1714,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and...",
+          "score": 0.1714,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "The thrill I get from solving a challenging problem or building an application that can't compared t...",
+          "score": 0.1509,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.0885,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Society should focus on making the world a better place rather than competing and humiliating others",
+      "keypoint_index": 4,
+      "best_match_sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and functional out of seemingly nothing.",
+      "best_match_score": 0.1538,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and...",
+          "score": 0.1538,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "While it's true that I enjoy coding and solving complex problems, there's so much more to me.The tru...",
+          "score": 0.1132,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration,...",
+          "score": 0.1111,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Leaders and individuals alike should promote equality, fairness, and support for the needy to improve societal welfare",
+      "keypoint_index": 5,
+      "best_match_sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they know everything about me just because of the label attached to my profession, and it's incredibly irritating.",
+      "best_match_score": 0.0769,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they kno...",
+          "score": 0.0769,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "While it's true that I enjoy coding and solving complex problems, there's so much more to me.The tru...",
+          "score": 0.0741,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "The thrill I get from solving a challenging problem or building an application that can't compared t...",
+          "score": 0.069,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+9881a34b5dce45bcb93d9913bf050867.csv,1,""",
+    ""Balancing personal well-being with the care of aging parents is a significant challenge","Now that I've finally attained financial independence through my job, I find myself in a new phase of life where personal challenges and the responsibilities of aging parents weigh heavily on my mind.",0.701,USER_AND_API,1,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,2,"```json
+[
+    ""Financial independence raises new questions about life priorities and responsibilities","Financial independence has given me the luxury of choice, yet it also comes with the responsibility to make choices that align with my values and long-term.",0.5541,USER_AND_API,16,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,3,""",
+    ""Pursuing passions like making video games is appealing but raises concerns about career re-entry","One of those passions is making video games, a hobby that has always brought me immense joy and satisfaction.",0.6331,API,5,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,4,""",
+    ""The decision to leave the workforce involves weighing professional structure against personal fulfillment","Balancing this responsibility with my own well-being is no easy task, and it often leaves me contemplating the possibility of leaving the workforce.",0.6466,USER_AND_API,3,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,5,""",
+    ""Redefining success involves integrating personal growth, creativity, and family responsibilities","This could be an opportunity to redefine success beyond the confines of a traditional career path, embracing a holistic approach to life that integrates personal growth and creativity for myself This is anew opportunity to focus on what truly matters, beyond the constraints of a corporate job.",0.6192,USER_AND_API,18,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert

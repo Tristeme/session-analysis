@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+13bc94699c4c488cb18de53efde5c6cf.csv,1,"```json
+[
+    ""The author is a Democrat conflicted about the death penalty, believing it might be necessary in extreme cases","In my political party, there is a widespread belief that the death penalty is morally wrong.",0.2857,USER,1,13bc94699c4c488cb18de53efde5c6cf.csv
+13bc94699c4c488cb18de53efde5c6cf.csv,2,""",
+    ""The author argues that heinous crimes, like those committed by Timothy McVeigh, warrant the death penalty","That is that even if there is definitive proof that someone committed heinous crimes, they are still against the death penalty.",0.3243,USER,14,13bc94699c4c488cb18de53efde5c6cf.csv
+13bc94699c4c488cb18de53efde5c6cf.csv,3,""",
+    ""There is tension between the author's views and the Democratic Party's stance against the death penalty","That is that even if there is definitive proof that someone committed heinous crimes, they are still against the death penalty.",0.3077,USER,14,13bc94699c4c488cb18de53efde5c6cf.csv
+13bc94699c4c488cb18de53efde5c6cf.csv,4,""",
+    ""Discussions with peers and family highlight concerns about judicial errors and the irreversibility of the death penalty","I began reading extensively about the history and effectiveness of the death penalty, hoping to gain a broader perspective.",0.3333,API,19,13bc94699c4c488cb18de53efde5c6cf.csv
+13bc94699c4c488cb18de53efde5c6cf.csv,5,""",
+    ""The author seeks a balance between justice and morality, believing some criminals are too evil not to execute","Some people are just too evil to not execute, period.",0.4286,USER,21,13bc94699c4c488cb18de53efde5c6cf.csv

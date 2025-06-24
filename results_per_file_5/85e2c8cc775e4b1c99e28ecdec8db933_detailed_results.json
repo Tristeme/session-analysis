@@ -1,0 +1,177 @@
+{
+  "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Transitioning from a successful career to focus on video game development and family",
+    "\",\n    \"Balancing personal fulfillment with professional obligations, prioritizing family support",
+    "\",\n    \"Planning to set up a home office for game development and managing family emergencies",
+    "\",\n    \"Importance of discussing transition plans with spouse and enrolling in refresher courses",
+    "\",\n    \"Excitement and determination to pursue passions while supporting elderly parents"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "```json\n[\n    \"Transitioning from a successful career to focus on video game development and family",
+      "keypoint_index": 1,
+      "best_match_sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+      "best_match_score": 0.3571,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+          "score": 0.3571,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Having had a successful career and with the financial independence, i am now open to facing new life...",
+          "score": 0.2353,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I want to focus on my hobby for making video games as this will allow me  more free time to attend t...",
+          "score": 0.2273,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"Balancing personal fulfillment with professional obligations, prioritizing family support",
+      "keypoint_index": 2,
+      "best_match_sentence": "I have always loved taking on challenges and i have always believed that life is about striking a balance between personal fulfillment and professional obligations, but now it seems the scales are tipping towards the former.",
+      "best_match_score": 0.1778,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I have always loved taking on challenges and i have always believed that life is about striking a ba...",
+          "score": 0.1778,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.1176,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Come along with me and see where this new adventure takes us!",
+          "score": 0.0952,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"Planning to set up a home office for game development and managing family emergencies",
+      "keypoint_index": 3,
+      "best_match_sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+      "best_match_score": 0.2857,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Secondly, i need to enroll for an online refresher class on video game development.",
+          "score": 0.2857,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I'm considering setting up a home office dedicated to game development, where I can immerse myself i...",
+          "score": 0.2581,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The policy at my current  work place requires me to give a one month notice.",
+          "score": 0.1379,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"Importance of discussing transition plans with spouse and enrolling in refresher courses",
+      "keypoint_index": 4,
+      "best_match_sentence": "Come along with me and see where this new adventure takes us!",
+      "best_match_score": 0.1667,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Come along with me and see where this new adventure takes us!",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.1622,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "I am fully aware that this transition will not be without its challenges, but i  am prepared to face...",
+          "score": 0.1579,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "keypoint": "\",\n    \"Excitement and determination to pursue passions while supporting elderly parents",
+      "keypoint_index": 5,
+      "best_match_sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while having the flexibility to support my elderly parents.",
+      "best_match_score": 0.2286,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The prospect of waking up every morning with the freedom to create worlds in video games while havin...",
+          "score": 0.2286,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "Having had a successful career and with the financial independence, i am now open to facing new life...",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        },
+        {
+          "sentence": "First, i need to talk to my wife about my intention to transition, and explain to her the reasons th...",
+          "score": 0.1111,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "85e2c8cc775e4b1c99e28ecdec8db933.csv"
+        }
+      ]
+    }
+  ]
+}

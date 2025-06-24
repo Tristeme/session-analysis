@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+02798ce9059241f49fa8b1d68cd8f406.csv,1,"```json
+[
+    ""The author's dream is to become a published author whose stories resonate globally","For me, that dream is becoming a published author, someone whose stories resonates with people across the world.",0.4242,USER,2,02798ce9059241f49fa8b1d68cd8f406.csv
+02798ce9059241f49fa8b1d68cd8f406.csv,2,""",
+    ""Writing began as an escape and evolved into a serious pursuit involving study and practice",Writing for me started as an escape.,0.3636,USER,8,02798ce9059241f49fa8b1d68cd8f406.csv
+02798ce9059241f49fa8b1d68cd8f406.csv,3,""",
+    ""Rejection is viewed as an opportunity for growth and improvement in writing skills","I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft further.",0.303,API,16,02798ce9059241f49fa8b1d68cd8f406.csv
+02798ce9059241f49fa8b1d68cd8f406.csv,4,""",
+    ""Daily writing is a sanctuary and a way to explore creativity and imagination","Writing has become my sanctuary, a place where I can explore different worlds and perspectives without leaving the comfort of my own home.",0.2778,API,18,02798ce9059241f49fa8b1d68cd8f406.csv
+02798ce9059241f49fa8b1d68cd8f406.csv,5,""",
+    ""The author is motivated by the hope of inspiring others with their stories","It's a place where I can test the boundaries of my imagination and let my creativity run wild, unhindered by the constraints of reality.",0.2105,API,19,02798ce9059241f49fa8b1d68cd8f406.csv

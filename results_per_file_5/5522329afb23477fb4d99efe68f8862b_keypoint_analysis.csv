@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+5522329afb23477fb4d99efe68f8862b.csv,1,"```json
+[
+    ""Smartphones offer connectivity and convenience, allowing instant communication and access to information","It was my first smartphone, and it felt like a whole new world had opened up to me.",0.129,API,1,5522329afb23477fb4d99efe68f8862b.csv
+5522329afb23477fb4d99efe68f8862b.csv,2,""",
+    ""Over-reliance on smartphones can negatively impact attention span, social interactions, and productivity",It wasn't just my social interactions that suffered; my productivity took a hit as well.,0.2069,API,8,5522329afb23477fb4d99efe68f8862b.csv
+5522329afb23477fb4d99efe68f8862b.csv,3,""",
+    ""Smartphones provide productivity tools that help organize schedules and manage tasks efficiently","However, it wasn't all negative; there were undeniable benefits that made life more convenient.
+
+The good news was that the smartphone also introduced me to a host of productivity apps, which helped me organize my schedule and manage tasks more efficiently.",0.2222,USER_AND_API,13,5522329afb23477fb4d99efe68f8862b.csv
+5522329afb23477fb4d99efe68f8862b.csv,4,""",
+    ""The convenience of smartphones can diminish natural problem-solving skills and independent thinking","However, this reliance also meant that I started losing some of my natural problem-solving skills.
+
+Finally, I began to recognize that my dependence on technology was diminishing my ability to think independently and creatively.",0.25,USER_AND_API,19,5522329afb23477fb4d99efe68f8862b.csv
+5522329afb23477fb4d99efe68f8862b.csv,5,""",
+    ""Balancing smartphone use is essential to harness benefits while minimizing negative impacts on daily life","The bad on, I started noticing some negative impacts on my daily life.",0.3571,USER_AND_API,5,5522329afb23477fb4d99efe68f8862b.csv

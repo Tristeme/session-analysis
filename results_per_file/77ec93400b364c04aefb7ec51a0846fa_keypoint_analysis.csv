@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+77ec93400b364c04aefb7ec51a0846fa.csv,1,"```json
+[
+    ""The author is the only Democrat in a group of Trump supporters and feels validated in their vote for Kamala Harris",The rest are Trump supporters.,0.4197,USER,1,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,2,""",
+    ""Elon Musk's claim of helping Trump win the 2024 election has led to an unusual silence among the author's friends","However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",0.744,USER,3,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,3,""",
+    ""The friends may be experiencing introspection due to controversies around Trump's leadership and potential threats to personal freedoms","However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",0.5065,USER,3,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,4,""",
+    ""Issues like Project 2025 and the 'Big Beautiful Bill' are causing personal reflection among the friends due to their potential impact","What changed?
+
+Maybe it's the reality of Project 2025, with their individual freedoms being threatened.",0.4993,USER,13,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,5,""",
+    ""The author wonders if their friends regret their loyalty to Trump as they face the real-world consequences of his policies","It's as if the political has finally become personal, forcing them to confront the real-world implications of their beliefs.
+
+For myself, I feel like they were too accepting of Trump's wild behavior during his first time in office, and are now getting the shock of their lives, knowing it wasn't an act.",0.4231,USER_AND_API,17,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert

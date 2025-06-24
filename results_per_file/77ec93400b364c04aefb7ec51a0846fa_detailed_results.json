@@ -1,0 +1,183 @@
+{
+  "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author is the only Democrat in a group of Trump supporters and feels validated in their vote for Kamala Harris",
+    "\",\n    \"Elon Musk's claim of helping Trump win the 2024 election has led to an unusual silence among the author's friends",
+    "\",\n    \"The friends may be experiencing introspection due to controversies around Trump's leadership and potential threats to personal freedoms",
+    "\",\n    \"Issues like Project 2025 and the 'Big Beautiful Bill' are causing personal reflection among the friends due to their potential impact",
+    "\",\n    \"The author wonders if their friends regret their loyalty to Trump as they face the real-world consequences of his policies"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "keypoint": "```json\n[\n    \"The author is the only Democrat in a group of Trump supporters and feels validated in their vote for Kamala Harris",
+      "keypoint_index": 1,
+      "best_match_sentence": "The rest are Trump supporters.",
+      "best_match_score": 0.4197,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The rest are Trump supporters.",
+          "score": 0.4197,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "I feel as though I made the right decision in my vote for Kamala Harris, but they often treat me lik...",
+          "score": 0.3861,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "Trump really is this person.",
+          "score": 0.3558,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "keypoint": "\",\n    \"Elon Musk's claim of helping Trump win the 2024 election has led to an unusual silence among the author's friends",
+      "keypoint_index": 2,
+      "best_match_sentence": "However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",
+      "best_match_score": 0.744,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my fri...",
+          "score": 0.744,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "Not so much as an \"Elon Musk is lying!\".",
+          "score": 0.6538,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "They haven't said \"That's not true!\" They haven't even wondered aloud if Elon is possibly telling th...",
+          "score": 0.4327,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "keypoint": "\",\n    \"The friends may be experiencing introspection due to controversies around Trump's leadership and potential threats to personal freedoms",
+      "keypoint_index": 3,
+      "best_match_sentence": "However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",
+      "best_match_score": 0.5065,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my fri...",
+          "score": 0.5065,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "It's as if the political has finally become personal, forcing them to confront the real-world implic...",
+          "score": 0.4929,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "I can't help but wonder if they're experiencing a moment of introspection, reevaluating their belief...",
+          "score": 0.4847,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "keypoint": "\",\n    \"Issues like Project 2025 and the 'Big Beautiful Bill' are causing personal reflection among the friends due to their potential impact",
+      "keypoint_index": 4,
+      "best_match_sentence": "What changed?\n\nMaybe it's the reality of Project 2025, with their individual freedoms being threatened.",
+      "best_match_score": 0.4993,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "What changed?\n\nMaybe it's the reality of Project 2025, with their individual freedoms being threaten...",
+          "score": 0.4993,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "I've noticed that these issues have hit closer to home for some of them, leading to a more personal ...",
+          "score": 0.4761,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "Maybe it's the \"Big Beautiful Bill\", where they may lose their Medicaid, Supplemental Nutritional As...",
+          "score": 0.4339,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "keypoint": "\",\n    \"The author wonders if their friends regret their loyalty to Trump as they face the real-world consequences of his policies",
+      "keypoint_index": 5,
+      "best_match_sentence": "It's as if the political has finally become personal, forcing them to confront the real-world implications of their beliefs.\n\nFor myself, I feel like they were too accepting of Trump's wild behavior during his first time in office, and are now getting the shock of their lives, knowing it wasn't an act.",
+      "best_match_score": 0.4231,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "77ec93400b364c04aefb7ec51a0846fa.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "It's as if the political has finally become personal, forcing them to confront the real-world implic...",
+          "score": 0.4231,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "He really is this deranged, and is putting their families and their friends' lives at risk.",
+          "score": 0.4145,
+          "author": "user",
+          "sentence_id": "19",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        },
+        {
+          "sentence": "However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my fri...",
+          "score": 0.3824,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "77ec93400b364c04aefb7ec51a0846fa.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+5522329afb23477fb4d99efe68f8862b.csv,1,""",
+    ""Smartphones have become deeply integrated into daily routines, influencing habits and behaviors significantly","As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily routine, dictating my habits and behaviors more than I had anticipated.",0.827,API,11,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,2,"```json
+[
+    ""Smartphones offer unprecedented connectivity and convenience, allowing users to stay in touch with loved ones and access information easily","I was amazed by how easily I could connect with friends, access information, and entertain.
+
+My life My life quickly became intertwined with this little device, as it seemed to provide endless possibilities at my fingertips.",0.5324,USER_AND_API,2,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,3,""",
+    ""The constant use of smartphones can negatively impact attention span, social interactions, and productivity due to frequent digital distractions","Tasks that required deep concentration became increasingly difficult to complete, as the allure of digital distractions grew stronger.",0.6052,API,9,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,4,""",
+    ""Productivity apps on smartphones can help users organize tasks, set reminders, and achieve personal development goals","Through these apps, I discovered a newfound sense of accomplishment in ticking off tasks and making progress towards personal development.",0.6371,API,15,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,5,""",
+    ""Reliance on smartphones may diminish independent problem-solving skills and creative thinking","However, this reliance also meant that I started losing some of my natural problem-solving skills.
+
+Finally, I began to recognize that my dependence on technology was diminishing my ability to think independently and creatively.",0.6633,USER_AND_API,19,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert

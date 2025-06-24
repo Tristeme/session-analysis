@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+7a84644b671144b29973ab0ffe23898a.csv,1,""",
+    ""Despite challenges and resistance, community unity and effort led to significant progress for current and future generations",With the unity and effort we were able to add a crucial progress in the community for the current and future generation .,0.4615,USER,9,7a84644b671144b29973ab0ffe23898a.csv
+7a84644b671144b29973ab0ffe23898a.csv,2,"```json
+[
+    ""Breaking the cycle of poverty involves improving access to basic needs, healthcare, and education","Title; Break the Cycle of Poverty and Improve Health 
+Ever lie awake at night, your mind filled with thoughts on how to break the poverty cycle in the community by making everyone afford their basic needs and help them keep the health more strong by having the best medical care and educate them on eating healthy foods.",0.2222,USER,0,7a84644b671144b29973ab0ffe23898a.csv
+7a84644b671144b29973ab0ffe23898a.csv,3,""",
+    ""An online donation platform was created to support community health and education initiatives, but faced challenges due to insufficient funds",With the unity and effort we were able to add a crucial progress in the community for the current and future generation .,0.1429,USER,9,7a84644b671144b29973ab0ffe23898a.csv
+7a84644b671144b29973ab0ffe23898a.csv,4,""",
+    ""Community efforts focused on health education, clean water access, and sanitation improvements, leading to government and private sector support",With the unity and effort we were able to add a crucial progress in the community for the current and future generation .,0.1463,USER,9,7a84644b671144b29973ab0ffe23898a.csv
+7a84644b671144b29973ab0ffe23898a.csv,5,""",
+    ""Equipping individuals with knowledge, skills, and opportunities is essential for breaking the poverty cycle and improving economic prospects",With the unity and effort we were able to add a crucial progress in the community for the current and future generation .,0.25,USER,9,7a84644b671144b29973ab0ffe23898a.csv

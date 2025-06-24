@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+9881a34b5dce45bcb93d9913bf050867.csv,1,"```json
+[
+    ""Financial independence raises new questions about balancing personal aspirations and familial responsibilities",The decision isn't merely about leaving or staying it is about  finding a balance that honors both my personal aspirations and familial responsibilities.,0.3243,USER_AND_API,20,9881a34b5dce45bcb93d9913bf050867.csv
+9881a34b5dce45bcb93d9913bf050867.csv,2,""",
+    ""Supporting aging parents is a priority, but it conflicts with personal well-being and career considerations","Balancing this responsibility with my own well-being is no easy task, and it often leaves me contemplating the possibility of leaving the workforce.",0.2,USER_AND_API,3,9881a34b5dce45bcb93d9913bf050867.csv
+9881a34b5dce45bcb93d9913bf050867.csv,3,""",
+    ""Pursuing passions like making video games is appealing but risks career re-entry challenges","One of those passions is making video games, a hobby that has always brought me immense joy and satisfaction.",0.2424,API,5,9881a34b5dce45bcb93d9913bf050867.csv
+9881a34b5dce45bcb93d9913bf050867.csv,4,""",
+    ""The decision involves redefining success beyond a traditional career path to integrate personal growth and creativity","This could be an opportunity to redefine success beyond the confines of a traditional career path, embracing a holistic approach to life that integrates personal growth and creativity for myself This is anew opportunity to focus on what truly matters, beyond the constraints of a corporate job.",0.3492,USER_AND_API,18,9881a34b5dce45bcb93d9913bf050867.csv
+9881a34b5dce45bcb93d9913bf050867.csv,5,""",
+    ""Life's path is not static, and choices made now can evolve with changing priorities and circumstances","As I navigate this crossroads, I remind myself that life is not static, and the path I choose now doesn't have to be permanent.",0.2857,API,21,9881a34b5dce45bcb93d9913bf050867.csv

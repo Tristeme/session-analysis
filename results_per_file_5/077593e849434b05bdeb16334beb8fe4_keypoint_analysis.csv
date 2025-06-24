@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+077593e849434b05bdeb16334beb8fe4.csv,1,"```json
+[
+    ""The author has achieved financial independence but is at a crossroads regarding career and personal life choices","At last I've reached financial independence, only to reach a crossroad in my life.",0.2424,USER,0,077593e849434b05bdeb16334beb8fe4.csv
+077593e849434b05bdeb16334beb8fe4.csv,2,""",
+    ""There is a desire to focus on personal well-being and passion for video game development, despite the risks involved","On one hand, I have a deep desire to focus on my own well-being, to finally take a step to becoming emotionally and personally fulfilled, rather than simply striving to be financially fulfilled.",0.2963,USER_AND_API,3,077593e849434b05bdeb16334beb8fe4.csv
+077593e849434b05bdeb16334beb8fe4.csv,3,""",
+    ""The author is considering how to balance caring for aging parents with pursuing personal interests",That circles back to my parents.,0.1905,USER,28,077593e849434b05bdeb16334beb8fe4.csv
+077593e849434b05bdeb16334beb8fe4.csv,4,""",
+    ""Exploring part-time work or freelance projects might allow for balancing professional and personal responsibilities","To make this possible, I could consider working part-time or taking on freelance projects that allow me the flexibility to juggle both responsibilities.",0.359,API,18,077593e849434b05bdeb16334beb8fe4.csv
+077593e849434b05bdeb16334beb8fe4.csv,5,""",
+    ""The ultimate goal is to lead a fulfilling and balanced life, integrating personal passions and family commitments","After all, isn't the ultimate goal to lead a fulfilling and balanced life rather than overcommitting to just one aspect?",0.5263,API,25,077593e849434b05bdeb16334beb8fe4.csv

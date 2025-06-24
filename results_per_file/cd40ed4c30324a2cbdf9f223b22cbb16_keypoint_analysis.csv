@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,1,"```json
+[
+    ""The author dreams of traveling, financial freedom, and a fulfilling career","Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",0.5418,API,6,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,2,""",
+    ""Travel is a priority, with a focus on experiences over material possessions","To make this dream a reality, I have been diligently saving money and planning trips within my budget, all while ensuring I prioritize experiences over material possessions.",0.6247,API,5,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,3,""",
+    ""Financial freedom is pursued through saving, investing, and financial education","Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",0.6027,API,6,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,4,""",
+    ""Organizing a charity event brought satisfaction despite challenges","Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that are essential not just for financial success, but for achieving peace of mind as well.
+ Recently, I helped organize a charity event.",0.6023,USER_AND_API,9,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,5,""",
+    ""Personal growth is achieved through self-improvement practices like meditation and workshops","To reach this vision of the future, I am constantly working on improving myself—reading self-help books and attending workshops that build my skills and confidence.",0.6755,API,23,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert

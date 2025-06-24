@@ -1,0 +1,183 @@
+{
+  "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The initial excitement of owning a smartphone was driven by its features and connectivity",
+    "\",\n    \"Over time, smartphone use shifted from convenience to a source of distraction and control",
+    "\",\n    \"A pivotal moment occurred when technology interfered with real-world interactions, prompting self-reflection",
+    "\",\n    \"Setting boundaries with technology use, such as tech-free zones, helped regain control and improve relationships",
+    "\",\n    \"Prioritizing human connections over screen time led to more meaningful and fulfilling interactions"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "```json\n[\n    \"The initial excitement of owning a smartphone was driven by its features and connectivity",
+      "keypoint_index": 1,
+      "best_match_sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every aspect of my life.\n\nEverything was happiness  at first.",
+      "best_match_score": 0.5915,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every a...",
+          "score": 0.5915,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "Initially, it was incredible how this tiny device could organize my life, connect me to friends and ...",
+          "score": 0.5202,
+          "author": "api",
+          "sentence_id": "3",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "It all started when I got my first smartphone.",
+          "score": 0.4881,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Over time, smartphone use shifted from convenience to a source of distraction and control",
+      "keypoint_index": 2,
+      "best_match_sentence": "This habit slowly crept into other parts of my day, as I found myself reaching for my phone during meetings, meals, and even in the middle of conversations.",
+      "best_match_score": 0.5441,
+      "best_match_author": "API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "This habit slowly crept into other parts of my day, as I found myself reaching for my phone during m...",
+          "score": 0.5441,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "The constant barrage of alerts and notifications was hard to ignore, each ping demanding my attentio...",
+          "score": 0.534,
+          "author": "user_and_api",
+          "sentence_id": "12",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every a...",
+          "score": 0.533,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"A pivotal moment occurred when technology interfered with real-world interactions, prompting self-reflection",
+      "keypoint_index": 3,
+      "best_match_sentence": "Her disappointed tone cut through the haze of my digital distraction, making me realize that I had let technology overshadow the real-world connections that meant so much more.",
+      "best_match_score": 0.5509,
+      "best_match_author": "API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Her disappointed tone cut through the haze of my digital distraction, making me realize that I had l...",
+          "score": 0.5509,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "It was a wake-up call, reminding me of the importance of being present in the moment and valuing fac...",
+          "score": 0.5037,
+          "author": "user_and_api",
+          "sentence_id": "16",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "The constant barrage of alerts and notifications was hard to ignore, each ping demanding my attentio...",
+          "score": 0.4435,
+          "author": "user_and_api",
+          "sentence_id": "12",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Setting boundaries with technology use, such as tech-free zones, helped regain control and improve relationships",
+      "keypoint_index": 4,
+      "best_match_sentence": "One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom, where devices were not allowed.",
+      "best_match_score": 0.6048,
+      "best_match_author": "API",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom...",
+          "score": 0.6048,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "I decided to start by setting boundaries with my technology use, implementing small but impactful ch...",
+          "score": 0.5361,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "Her disappointed tone cut through the haze of my digital distraction, making me realize that I had l...",
+          "score": 0.3429,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Prioritizing human connections over screen time led to more meaningful and fulfilling interactions",
+      "keypoint_index": 5,
+      "best_match_sentence": "By consciously limiting my screen time and prioritizing human connections, I gradually discovered the joys of being more present and attentive to those around me.",
+      "best_match_score": 0.6147,
+      "best_match_author": "API",
+      "best_match_sentence_id": "20",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "By consciously limiting my screen time and prioritizing human connections, I gradually discovered th...",
+          "score": 0.6147,
+          "author": "api",
+          "sentence_id": "20",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "This encouraged more meaningful conversations during meals and improved the quality of my sleep, fre...",
+          "score": 0.5401,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "I started to notice the small details in conversations, the subtle shifts in tone, and the unspoken ...",
+          "score": 0.527,
+          "author": "api",
+          "sentence_id": "22",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

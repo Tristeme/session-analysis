@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+e27c2df5592e4c63a9ad10a04895734c.csv,1,"```json
+[
+    ""Nursing is often misunderstood and undervalued by those who don't see the full picture","They  dont see the full picture.
+The truth is i didnt grow up dreaming working in hospitals or working to know how to insert an iv.",0.1905,USER,3,e27c2df5592e4c63a9ad10a04895734c.csv
+e27c2df5592e4c63a9ad10a04895734c.csv,2,""",
+    ""A personal experience with a compassionate nurse inspired the author's career choice","this is me as a nurse for sure, real.",0.1818,USER,17,e27c2df5592e4c63a9ad10a04895734c.csv
+e27c2df5592e4c63a9ad10a04895734c.csv,3,""",
+    ""Nursing involves chaos, adrenaline, and emotional challenges, not just compassion","she was present and available all through the hard moments and times .she was gentle, present, human and just.",0.1379,USER,8,e27c2df5592e4c63a9ad10a04895734c.csv
+e27c2df5592e4c63a9ad10a04895734c.csv,4,""",
+    ""Despite the difficulties, the author chooses nursing because people and their stories matter",I wish that people would see what i see and appreciate it.,0.16,USER,15,e27c2df5592e4c63a9ad10a04895734c.csv
+e27c2df5592e4c63a9ad10a04895734c.csv,5,""",
+    ""The author wishes for greater appreciation of the emotional and human aspects of nursing",she is the person who gave me light in one of my darkest seasons of my life.,0.1935,USER,9,e27c2df5592e4c63a9ad10a04895734c.csv

@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+cbe893c894884bf3b577ed0c48d9e43a.csv,1,"```json
+[
+    ""Roller skating is a lifelong passion and source of joy for the narrator",Roller skating has been more than just a hobby for me.,0.32,USER_AND_API,4,cbe893c894884bf3b577ed0c48d9e43a.csv
+cbe893c894884bf3b577ed0c48d9e43a.csv,2,""",
+    ""The narrator feels judged by others who view roller skating as childish or unprofessional","Despite knowing how crucial roller skating has been in my life, I still face judgment from others who see it as childish or attaching an age limit to it.",0.2326,USER_AND_API,13,cbe893c894884bf3b577ed0c48d9e43a.csv
+cbe893c894884bf3b577ed0c48d9e43a.csv,3,""",
+    ""Skating has been a lifeline and a form of expression, offering freedom and a way to cope with life's pressures",Skating became an expression of freedom and creativity—a way for me to escape from the pressures of life in the literal meaning.,0.3636,USER_AND_API,8,cbe893c894884bf3b577ed0c48d9e43a.csv
+cbe893c894884bf3b577ed0c48d9e43a.csv,4,""",
+    ""A past experience showed how skating indirectly saved the narrator from a potential allergic reaction","Later, I learned that at the party the food served had traces of peanut which could have triggered a severe allergic reaction for me.",0.2051,USER_AND_API,11,cbe893c894884bf3b577ed0c48d9e43a.csv
+cbe893c894884bf3b577ed0c48d9e43a.csv,5,""",
+    ""The narrator emphasizes the importance of staying true to one's passions despite external judgments","The key is to stay true to yourself and embrace what brings you happiness, regardless of external judgments.",0.303,API,25,cbe893c894884bf3b577ed0c48d9e43a.csv

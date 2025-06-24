@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+077593e849434b05bdeb16334beb8fe4.csv,1,"```json
+[
+    ""Reached financial independence but facing a life crossroad","At last I've reached financial independence, only to reach a crossroad in my life.",0.4223,USER,0,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,2,""",
+    ""Considering leaving the workforce to pursue personal fulfillment","My parents are aging, I'm experiencing some challenges of my own, and to top it all off I'm seriously considering leaving the workforce.",0.5678,USER,1,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,3,""",
+    ""Balancing passion for video game development with family responsibilities","Maybe the key lies in finding a middle ground—where I can dedicate time to developing video games, while still having an adequate amount of time to also spend with my parents.",0.7115,USER_AND_API,17,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,4,""",
+    ""Exploring part-time work or freelance for flexibility","To make this possible, I could consider working part-time or taking on freelance projects that allow me the flexibility to juggle both responsibilities.",0.7327,API,18,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,5,""",
+    ""Seeking advice on balancing personal passions, family, and career","I'm eager to hear your experiences and advice, as I navigate these tough decisions about balancing my personal passions, family responsibilities, and professional life.",0.72,API,39,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert

@@ -1,0 +1,177 @@
+{
+  "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The pursuit of travel, financial freedom, and a fulfilling career are intertwined dreams",
+    "\",\n    \"Travel is prioritized by saving money and valuing experiences over material possessions",
+    "\",\n    \"Financial freedom is pursued through investing in stocks and learning personal finance",
+    "\",\n    \"Organizing a charity event was chaotic yet fulfilling, highlighting the importance of perseverance",
+    "\",\n    \"Self-improvement through meditation and workshops is essential for achieving long-term goals"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "```json\n[\n    \"The pursuit of travel, financial freedom, and a fulfilling career are intertwined dreams",
+      "keypoint_index": 1,
+      "best_match_sentence": "I want to travel, be financially free, have actual peace of mind, and pursue a career that brings me genuine joy.",
+      "best_match_score": 0.2286,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I want to travel, be financially free, have actual peace of mind, and pursue a career that brings me...",
+          "score": 0.2286,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "Every morning, I make it a point to meditate, even if just for ten minutes, to start the day with a ...",
+          "score": 0.15,
+          "author": "api",
+          "sentence_id": "24",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "In the end, things will get better and if they do not then that is not the end.",
+          "score": 0.125,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Travel is prioritized by saving money and valuing experiences over material possessions",
+      "keypoint_index": 2,
+      "best_match_sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budget, all while ensuring I prioritize experiences over material possessions.",
+      "best_match_score": 0.359,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budge...",
+          "score": 0.359,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "It is big and messy collage in my mind.",
+          "score": 0.1905,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "I want to travel, be financially free, have actual peace of mind, and pursue a career that brings me...",
+          "score": 0.1212,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Financial freedom is pursued through investing in stocks and learning personal finance",
+      "keypoint_index": 3,
+      "best_match_sentence": "To work towards this goal, I've been investing in stocks and educating myself about personal finance, gradually building a diverse portfolio that promises long-term wealth accumulation.",
+      "best_match_score": 0.3,
+      "best_match_author": "API",
+      "best_match_sentence_id": "7",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To work towards this goal, I've been investing in stocks and educating myself about personal finance...",
+          "score": 0.3,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "It is big and messy collage in my mind.",
+          "score": 0.1905,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to ex...",
+          "score": 0.1364,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Organizing a charity event was chaotic yet fulfilling, highlighting the importance of perseverance",
+      "keypoint_index": 4,
+      "best_match_sentence": "These dreams are interwoven like threads of a colorful tapestry, each strand contributing to the bigger picture of my ideal life.",
+      "best_match_score": 0.1765,
+      "best_match_author": "API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "top_3_matches": [
+        {
+          "sentence": "These dreams are interwoven like threads of a colorful tapestry, each strand contributing to the big...",
+          "score": 0.1765,
+          "author": "api",
+          "sentence_id": "3",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "I was extremely tired at the end of the day, but also very satisfied on how I had spent my day.",
+          "score": 0.1765,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "It was chaotic and very stressful and beautiful all at once.",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Self-improvement through meditation and workshops is essential for achieving long-term goals",
+      "keypoint_index": 5,
+      "best_match_sentence": "Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that are essential not just for financial success, but for achieving peace of mind as well.\n Recently, I helped organize a charity event.",
+      "best_match_score": 0.1633,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that ...",
+          "score": 0.1633,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "To reach this vision of the future, I am constantly working on improving myself—reading self-help bo...",
+          "score": 0.15,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "To work towards this goal, I've been investing in stocks and educating myself about personal finance...",
+          "score": 0.1463,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    }
+  ]
+}

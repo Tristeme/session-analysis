@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,1,"```json
+[
+    ""Instagram initially provided a creative outlet and connection with new people","Despite this, I still found myself drawn to Instagram's allure, now using it in a more intentional way to follow those who brought value to my inner world.",0.5459,USER_AND_API,19,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,2,""",
+    ""Running a meme page became stressful due to increased competition and algorithm changes","On top of the challenges of maintaining the meme page, it also became less satisfying, and more difficult to maintain the amount of likes we once received.",0.6548,USER,9,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,3,""",
+    ""The pressure for likes and validation negatively impacted mental health","Around the same time our engagement began to decline, my addiction to likes and comments and struggle to maintain them started to have a negative impact on my mental health.",0.5247,USER,12,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,4,""",
+    ""A shift to intentional use of Instagram improved mental well-being",This shift in how I used Instagram helped me regain control over my mental well-being and eventually most of my issues with instagram became less impactful.,0.7917,USER_AND_API,21,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,5,""",
+    ""Instagram now serves as a tool for self-improvement and community engagement","While Instagram remains a prominent part of my life, its role has evolved from a source of stress to a tool for self-improvement and learning.",0.7322,API,23,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert

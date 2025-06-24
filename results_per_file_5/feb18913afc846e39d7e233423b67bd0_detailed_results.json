@@ -1,0 +1,177 @@
+{
+  "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Judgment based on past drug use led to family estrangement despite personal recovery",
+    "\",\n    \"Consistent negative labeling and criticism from family created a sense of being the 'black sheep",
+    "'\",\n    \"Family criticism of weight led to unhealthy eating habits and body image issues",
+    "\",\n    \"Persistent blame for skin issues despite known medical conditions caused frustration",
+    "\",\n    \"Political views and artistic expression were met with harsh criticism, leading to self-doubt and isolation"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "```json\n[\n    \"Judgment based on past drug use led to family estrangement despite personal recovery",
+      "keypoint_index": 1,
+      "best_match_sentence": "I've never had someone judge me based on my job.",
+      "best_match_score": 0.16,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I've never had someone judge me based on my job.",
+          "score": 0.16,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "However, I've had people judge me for a variety of other reasons such as...\n\n1) Past Drug Use\nI've h...",
+          "score": 0.1538,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "To summarize, while I can't really recall being judged for work matters, I have been judged for othe...",
+          "score": 0.1111,
+          "author": "user",
+          "sentence_id": "23",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Consistent negative labeling and criticism from family created a sense of being the 'black sheep",
+      "keypoint_index": 2,
+      "best_match_sentence": "I was always treated like a junkie and less of a person because of this, and to this day, even after turning my life around and quitting the weed and the pills, my family are still standoffish about having anything to do with me.\n\n2) Family Drama\nMy whole life I have always been the black sheep in the family.",
+      "best_match_score": 0.16,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I was always treated like a junkie and less of a person because of this, and to this day, even after...",
+          "score": 0.16,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "My family has always had something negative about me to say, to the point of it being like a daily s...",
+          "score": 0.1463,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I would be called a \"dumb liberal\" among a bunch of other insulting words for this.",
+          "score": 0.129,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "'\",\n    \"Family criticism of weight led to unhealthy eating habits and body image issues",
+      "keypoint_index": 3,
+      "best_match_sentence": "I started to start myself, and was shamed for that too.",
+      "best_match_score": 0.1667,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I started to start myself, and was shamed for that too.",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "My family has always had something negative about me to say, to the point of it being like a daily s...",
+          "score": 0.1538,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "To summarize, while I can't really recall being judged for work matters, I have been judged for othe...",
+          "score": 0.1132,
+          "author": "user",
+          "sentence_id": "23",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Persistent blame for skin issues despite known medical conditions caused frustration",
+      "keypoint_index": 4,
+      "best_match_sentence": "The thing is they know I have hormonal issues and high cortisol, in addition to thyroid problems, but they still try to place blame on me for my skin issues.",
+      "best_match_score": 0.1951,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The thing is they know I have hormonal issues and high cortisol, in addition to thyroid problems, bu...",
+          "score": 0.1951,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "Despite the fact that my family knows this, I get blamed for my bad skin because I \"wear makeup, tou...",
+          "score": 0.1,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I started to start myself, and was shamed for that too.",
+          "score": 0.0909,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "feb18913afc846e39d7e233423b67bd0.csv",
+      "keypoint": "\",\n    \"Political views and artistic expression were met with harsh criticism, leading to self-doubt and isolation",
+      "keypoint_index": 5,
+      "best_match_sentence": "I find myself constantly questioning if the things that bring me joy and fulfillment are worth the criticism and judgment I often receive.",
+      "best_match_score": 0.1538,
+      "best_match_author": "API",
+      "best_match_sentence_id": "25",
+      "best_match_filename": "feb18913afc846e39d7e233423b67bd0.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I find myself constantly questioning if the things that bring me joy and fulfillment are worth the c...",
+          "score": 0.1538,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "5) My Political Views\nI stopped posting my political views on social media circa 2017 when people st...",
+          "score": 0.15,
+          "author": "user",
+          "sentence_id": "19",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        },
+        {
+          "sentence": "I started to start myself, and was shamed for that too.",
+          "score": 0.1481,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "feb18913afc846e39d7e233423b67bd0.csv"
+        }
+      ]
+    }
+  ]
+}

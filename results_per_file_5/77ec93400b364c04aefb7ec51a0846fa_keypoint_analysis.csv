@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+77ec93400b364c04aefb7ec51a0846fa.csv,1,"```json
+[
+    ""The author feels isolated as the only Democrat in a group of Trump supporters",I am the only  Democrat in my friend group.,0.4167,USER,0,77ec93400b364c04aefb7ec51a0846fa.csv
+77ec93400b364c04aefb7ec51a0846fa.csv,2,""",
+    ""Elon Musk's claim of helping Trump win the 2024 election has led to silence among the author's friends","However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",0.381,USER,3,77ec93400b364c04aefb7ec51a0846fa.csv
+77ec93400b364c04aefb7ec51a0846fa.csv,3,""",
+    ""Friends may be experiencing introspection due to controversies surrounding Trump's leadership","Maybe it's because they sense the growing controversies surrounding his leadership, or perhaps they're grappling with their own internal conflicts regarding political integrity.",0.1622,API,5,77ec93400b364c04aefb7ec51a0846fa.csv
+77ec93400b364c04aefb7ec51a0846fa.csv,4,""",
+    ""Concerns about Project 2025 and potential loss of social programs are causing personal reflection","I've noticed that these issues have hit closer to home for some of them, leading to a more personal reflection on the consequences of their supported policies.",0.1429,API,16,77ec93400b364c04aefb7ec51a0846fa.csv
+77ec93400b364c04aefb7ec51a0846fa.csv,5,""",
+    ""The author wonders if friends regret their past support for Trump due to negative impacts on their lives","He really is this deranged, and is putting their families and their friends' lives at risk.",0.1765,USER,19,77ec93400b364c04aefb7ec51a0846fa.csv

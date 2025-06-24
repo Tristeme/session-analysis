@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+8673f28f522c4ec7b47870a51d3073bf.csv,1,"```json
+[
+    ""Overcame stereotypes about size and endurance in marathon running","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.1026,API,5,8673f28f522c4ec7b47870a51d3073bf.csv
+8673f28f522c4ec7b47870a51d3073bf.csv,2,""",
+    ""Passion and dedication fueled daily training and personal growth","The passion I had for running was something that fueled me every day, pushing me to wake up before sunrise and hit the pavement while most of the world was still asleep.",0.1463,USER_AND_API,2,8673f28f522c4ec7b47870a51d3073bf.csv
+8673f28f522c4ec7b47870a51d3073bf.csv,3,""",
+    ""Running served as meditation and a source of balance and clarity","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.3,API,5,8673f28f522c4ec7b47870a51d3073bf.csv
+8673f28f522c4ec7b47870a51d3073bf.csv,4,""",
+    ""Marathon participation was a personal challenge and proof of capability",Each stride was a testament to the countless early mornings and late nights I had spent honing my skills.,0.2069,API,13,8673f28f522c4ec7b47870a51d3073bf.csv
+8673f28f522c4ec7b47870a51d3073bf.csv,5,""",
+    ""The experience highlighted resilience and the deceptive nature of appearances","The whistle blew, and we all surged forward, a collective wave of determination.",0.2609,API,9,8673f28f522c4ec7b47870a51d3073bf.csv

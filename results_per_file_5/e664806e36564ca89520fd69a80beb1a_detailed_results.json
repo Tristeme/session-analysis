@@ -1,0 +1,177 @@
+{
+  "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Standing up for personal beliefs requires courage, especially against societal and peer pressure",
+    "\",\n    \"The author expressed concerns about women officiating men's basketball games, focusing on safety and fairness",
+    "\",\n    \"Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues",
+    "\",\n    \"The decision sparked debate but ultimately proved successful, with most people understanding or indifferent",
+    "\",\n    \"Social media can amplify issues, but practical outcomes often matter more to people than perceived public opinion"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "```json\n[\n    \"Standing up for personal beliefs requires courage, especially against societal and peer pressure",
+      "keypoint_index": 1,
+      "best_match_sentence": "It takes courage to stand up for what you believe in even in the face of pressure from society, family and friends.",
+      "best_match_score": 0.1667,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It takes courage to stand up for what you believe in even in the face of pressure from society, fami...",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "I feel I was proven correct and was proud to have stood up for what I believed in and made things be...",
+          "score": 0.1463,
+          "author": "user",
+          "sentence_id": "24",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult f...",
+          "score": 0.1053,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"The author expressed concerns about women officiating men's basketball games, focusing on safety and fairness",
+      "keypoint_index": 2,
+      "best_match_sentence": "For me, there was a time at work where I felt it wasn't right that women should officiate men's basketball games.",
+      "best_match_score": 0.2564,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "For me, there was a time at work where I felt it wasn't right that women should officiate men's bask...",
+          "score": 0.2564,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "During a team meeting, I gathered the courage to express my viewpoint, emphasizing that my stance wa...",
+          "score": 0.2051,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "It was about being fair to both the men playing and the women officiating.",
+          "score": 0.2,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues",
+      "keypoint_index": 3,
+      "best_match_sentence": "I implemented a policy allowing women to officiate in youth leagues, believing that this was an appropriate step toward inclusivity while maintaining safety.",
+      "best_match_score": 0.4865,
+      "best_match_author": "API",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I implemented a policy allowing women to officiate in youth leagues, believing that this was an appr...",
+          "score": 0.4865,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "For me, there was a time at work where I felt it wasn't right that women should officiate men's bask...",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "In the weeks that followed, I made it a point to engage in open conversations with both supporters a...",
+          "score": 0.1463,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"The decision sparked debate but ultimately proved successful, with most people understanding or indifferent",
+      "keypoint_index": 4,
+      "best_match_sentence": "To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehemently supporting it, a few questioning it but I felt overall most people were understanding or didn't really see it as an issue.",
+      "best_match_score": 0.3333,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehe...",
+          "score": 0.3333,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "In the weeks that followed, I made it a point to engage in open conversations with both supporters a...",
+          "score": 0.1463,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult f...",
+          "score": 0.1053,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"Social media can amplify issues, but practical outcomes often matter more to people than perceived public opinion",
+      "keypoint_index": 5,
+      "best_match_sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult for people to hold onto their own beliefs.",
+      "best_match_score": 0.1951,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult f...",
+          "score": 0.1951,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "This is where social media makes things seem to be a bigger issue when in fact, most people aren't t...",
+          "score": 0.1951,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "The online world tends to amplify voices and opinions, causing us to overestimate the magnitude of c...",
+          "score": 0.1143,
+          "author": "api",
+          "sentence_id": "21",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    }
+  ]
+}

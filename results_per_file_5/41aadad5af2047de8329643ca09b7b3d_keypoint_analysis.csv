@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+41aadad5af2047de8329643ca09b7b3d.csv,1,"```json
+[
+    ""The author has a passion for helping others, which led them into medicine","For as long as i can remember, i've carried a passion for helping others.",0.3448,USER,2,41aadad5af2047de8329643ca09b7b3d.csv
+41aadad5af2047de8329643ca09b7b3d.csv,2,""",
+    ""They discovered travel entrepreneurship and the concept of wellness retreats as a way to combine their love for medicine and travel","It wasn't long before I stumbled upon the concept of wellness retreats—unique getaways designed to rejuvenate the mind, body, and soul.",0.3182,API,11,41aadad5af2047de8329643ca09b7b3d.csv
+41aadad5af2047de8329643ca09b7b3d.csv,3,""",
+    ""Wellness retreats offer a holistic approach to healing, aligning with the author's vision","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.35,API,13,41aadad5af2047de8329643ca09b7b3d.csv
+41aadad5af2047de8329643ca09b7b3d.csv,4,""",
+    ""Balancing work, family, and a new business venture is challenging but fuels the author's determination","Balancing work, school, family and this business can feel like juggling fire while walking a tightrope.
+ Yet, every morning, I wake up with a renewed sense of determination, fueled by the vision of what I hope to achieve.",0.2222,USER_AND_API,17,41aadad5af2047de8329643ca09b7b3d.csv
+41aadad5af2047de8329643ca09b7b3d.csv,5,""",
+    ""The dream represents financial freedom and setting an example for their children about pursuing dreams",it means financial freedom.,0.2105,USER,19,41aadad5af2047de8329643ca09b7b3d.csv

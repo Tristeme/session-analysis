@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+99087eb4d9b04c5a81d0b259f56c4df9.csv,1,""",
+    ""A pivotal moment highlighted the need to prioritize real-world connections","Her disappointed tone cut through the haze of my digital distraction, making me realize that I had let technology overshadow the real-world connections that meant so much more.",0.2,API,15,99087eb4d9b04c5a81d0b259f56c4df9.csv
+99087eb4d9b04c5a81d0b259f56c4df9.csv,2,"```json
+[
+    ""The excitement of owning a first smartphone and exploring its features","I remember the excitement of unboxing it, powering it on, and exploring all its features with a sense of wonder that only new technology can bring.",0.3684,API,1,99087eb4d9b04c5a81d0b259f56c4df9.csv
+99087eb4d9b04c5a81d0b259f56c4df9.csv,3,""",
+    ""Smartphones became integral to daily life, offering convenience and connectivity","The smartphone became an indispensable part of my daily routine, seamlessly integrating into every aspect of my life.
+
+Everything was happiness  at first.",0.1818,USER_AND_API,6,99087eb4d9b04c5a81d0b259f56c4df9.csv
+99087eb4d9b04c5a81d0b259f56c4df9.csv,4,""",
+    ""Over time, smartphone use led to behavioral changes and digital distractions","But as time went on, I started noticing subtle changes in my behavior.",0.1667,API,8,99087eb4d9b04c5a81d0b259f56c4df9.csv
+99087eb4d9b04c5a81d0b259f56c4df9.csv,5,""",
+    ""Implementing tech-free zones and setting boundaries improved life balance","One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom, where devices were not allowed.",0.2286,API,18,99087eb4d9b04c5a81d0b259f56c4df9.csv

@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,1,"```json
+[
+    ""Technology significantly changed my life, starting with my first smartphone",It all started when I got my first smartphone.,0.5059,API,1,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,2,""",
+    ""Social media expanded my social circle and sparked an interest in photography","I could share updates and photos instantly, which felt like a new way of expressing myself creatively.
+My first interaction with Instagram made me love taking photos of everything around me.",0.6201,USER_AND_API,5,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,3,""",
+    ""Excessive phone use led to less sleep and difficulty in face-to-face interactions","There were countless times when I would feel the urge to reach for my phone out of habit, only to remind myself of the commitment I'd made.",0.5286,API,18,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,4,""",
+    ""Conscious attention and reducing notifications helped regain control over technology use","Because of these little adjustments, I got my attention back.
+ But the journey to regaining control over my technology use wasn't straightforward.",0.6282,USER_AND_API,17,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,5,""",
+    ""A balanced relationship with technology requires awareness and effort","I’m trying to understand it better, but I believe a good relationship with tech can exist.",0.5937,USER,20,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert

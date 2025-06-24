@@ -1,0 +1,177 @@
+{
+  "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+  "extracted_keypoints": [
+    "\",\n    \"A pivotal moment highlighted the need to prioritize real-world connections",
+    "```json\n[\n    \"The excitement of owning a first smartphone and exploring its features",
+    "\",\n    \"Smartphones became integral to daily life, offering convenience and connectivity",
+    "\",\n    \"Over time, smartphone use led to behavioral changes and digital distractions",
+    "\",\n    \"Implementing tech-free zones and setting boundaries improved life balance"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"A pivotal moment highlighted the need to prioritize real-world connections",
+      "keypoint_index": 1,
+      "best_match_sentence": "Her disappointed tone cut through the haze of my digital distraction, making me realize that I had let technology overshadow the real-world connections that meant so much more.",
+      "best_match_score": 0.2,
+      "best_match_author": "API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Her disappointed tone cut through the haze of my digital distraction, making me realize that I had l...",
+          "score": 0.2,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "It was a wake-up call, reminding me of the importance of being present in the moment and valuing fac...",
+          "score": 0.16,
+          "author": "user_and_api",
+          "sentence_id": "16",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "It felt like an urgent need to be connected, to ensure I wasn't missing out on anything important ov...",
+          "score": 0.129,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "```json\n[\n    \"The excitement of owning a first smartphone and exploring its features",
+      "keypoint_index": 2,
+      "best_match_sentence": "I remember the excitement of unboxing it, powering it on, and exploring all its features with a sense of wonder that only new technology can bring.",
+      "best_match_score": 0.3684,
+      "best_match_author": "API",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I remember the excitement of unboxing it, powering it on, and exploring all its features with a sens...",
+          "score": 0.3684,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "It all started when I got my first smartphone.",
+          "score": 0.1905,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every a...",
+          "score": 0.1714,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Smartphones became integral to daily life, offering convenience and connectivity",
+      "keypoint_index": 3,
+      "best_match_sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every aspect of my life.\n\nEverything was happiness  at first.",
+      "best_match_score": 0.1818,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The smartphone became an indispensable part of my daily routine, seamlessly integrating into every a...",
+          "score": 0.1818,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "My relationships began to flourish as I focused on nurturing them with genuine interest and empathy.",
+          "score": 0.1538,
+          "author": "api",
+          "sentence_id": "21",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "I quickly became accustomed to the convenience it offered; everything was just a swipe or a click aw...",
+          "score": 0.125,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Over time, smartphone use led to behavioral changes and digital distractions",
+      "keypoint_index": 4,
+      "best_match_sentence": "But as time went on, I started noticing subtle changes in my behavior.",
+      "best_match_score": 0.1667,
+      "best_match_author": "API",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "But as time went on, I started noticing subtle changes in my behavior.",
+          "score": 0.1667,
+          "author": "api",
+          "sentence_id": "8",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "I decided to start by setting boundaries with my technology use, implementing small but impactful ch...",
+          "score": 0.1538,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "My relationships began to flourish as I focused on nurturing them with genuine interest and empathy.",
+          "score": 0.1481,
+          "author": "api",
+          "sentence_id": "21",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "keypoint": "\",\n    \"Implementing tech-free zones and setting boundaries improved life balance",
+      "keypoint_index": 5,
+      "best_match_sentence": "One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom, where devices were not allowed.",
+      "best_match_score": 0.2286,
+      "best_match_author": "API",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom...",
+          "score": 0.2286,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "This encouraged more meaningful conversations during meals and improved the quality of my sleep, fre...",
+          "score": 0.1277,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        },
+        {
+          "sentence": "I decided to start by setting boundaries with my technology use, implementing small but impactful ch...",
+          "score": 0.1053,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "99087eb4d9b04c5a81d0b259f56c4df9.csv"
+        }
+      ]
+    }
+  ]
+}

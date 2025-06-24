@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+99087eb4d9b04c5a81d0b259f56c4df9.csv,1,"```json
+[
+    ""The initial excitement of owning a smartphone was driven by its features and connectivity","The smartphone became an indispensable part of my daily routine, seamlessly integrating into every aspect of my life.
+
+Everything was happiness  at first.",0.5915,USER_AND_API,6,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,2,""",
+    ""Over time, smartphone use shifted from convenience to a source of distraction and control","This habit slowly crept into other parts of my day, as I found myself reaching for my phone during meetings, meals, and even in the middle of conversations.",0.5441,API,11,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,3,""",
+    ""A pivotal moment occurred when technology interfered with real-world interactions, prompting self-reflection","Her disappointed tone cut through the haze of my digital distraction, making me realize that I had let technology overshadow the real-world connections that meant so much more.",0.5509,API,15,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,4,""",
+    ""Setting boundaries with technology use, such as tech-free zones, helped regain control and improve relationships","One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom, where devices were not allowed.",0.6048,API,18,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,5,""",
+    ""Prioritizing human connections over screen time led to more meaningful and fulfilling interactions","By consciously limiting my screen time and prioritizing human connections, I gradually discovered the joys of being more present and attentive to those around me.",0.6147,API,20,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert

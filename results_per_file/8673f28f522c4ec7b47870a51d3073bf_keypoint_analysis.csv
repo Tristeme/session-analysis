@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+8673f28f522c4ec7b47870a51d3073bf.csv,1,"```json
+[
+    ""Overcoming stereotypes about size and endurance in marathon running","They thought I could not compete in the marathon because of my size , assuming that someone of my build couldn't possibly have the endurance or speed necessary to finish a race of such magnitude.",0.5838,USER_AND_API,0,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,2,""",
+    ""Passion and dedication to running fueled daily training and personal growth","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.7135,API,5,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,3,""",
+    ""Running served as meditation and a source of balance and clarity","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.6738,API,5,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,4,""",
+    ""The marathon was a personal challenge to prove determination over preconceived notions","One day  , I decided to sign up for a local marathon, not only to challenge myself but also to prove to others that determination and passion trumped any preconceived notions.",0.757,USER_AND_API,6,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,5,""",
+    ""The race taught that true strength lies within, beyond appearances","The finish line came into view, and a surge of emotion washed over me, knowing that I had defied expectations and proven that size was no barrier to success.
+Since that day , I've carried the lesson that appearances can be deceiving and that true strength lies within.",0.4824,USER_AND_API,18,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert

@@ -1,0 +1,183 @@
+{
+  "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+  "extracted_keypoints": [
+    "\",\n    \"The joy of seeing players engage with a game is a significant reward for game developers",
+    "```json\n[\n    \"Game development involves designing systems, writing code, and collaborating with artists and writers",
+    "\",\n    \"The passion for creating and storytelling drives a career in game development, not just playing games",
+    "\",\n    \"Stereotypes about jobs tied to 'fun' can trivialize the hard work and creativity involved",
+    "\",\n    \"Misunderstandings about one's work should be met with education rather than retreat"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"The joy of seeing players engage with a game is a significant reward for game developers",
+      "keypoint_index": 1,
+      "best_match_sentence": "But it’s the judgmental glances, the flippant comments, that stick with you longer than they should.\nStill, I wouldn’t trade my path for anything.- The joy of launching a game and seeing players engage with something I helped bring to life is indescribable.\nIt’s more than a job—it’s a way to tell stories, solve problems, and be endlessly creative.",
+      "best_match_score": 0.5341,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "But it’s the judgmental glances, the flippant comments, that stick with you longer than they should....",
+          "score": 0.5341,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "Title: “No, I Don’t Just Play Video Games All Day – The Real Story Behind Game Development”\nEver had...",
+          "score": 0.5335,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "I told them I was a game developer, and they immediately replied, “So… you just play video games all...",
+          "score": 0.4643,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "```json\n[\n    \"Game development involves designing systems, writing code, and collaborating with artists and writers",
+      "keypoint_index": 2,
+      "best_match_sentence": "I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple game-making tools like RPG Maker.",
+      "best_match_score": 0.5058,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple ga...",
+          "score": 0.5058,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "- “Well, not exactly,” I said, trying to explain, “it’s more about designing systems, writing code, ...",
+          "score": 0.4333,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "There was something magical about making a world where others could interact with your imagination.\n...",
+          "score": 0.422,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"The passion for creating and storytelling drives a career in game development, not just playing games",
+      "keypoint_index": 3,
+      "best_match_sentence": "It stung more than I thought it would, and I couldn’t shake the feeling that my work was being trivialized.\nIt’s funny how a single assumption can erase all the effort you’ve put into something.\n- I didn’t get into game development because I wanted to play; I got into it because I wanted to create.\nAs a kid, I was obsessed with storytelling.",
+      "best_match_score": 0.6396,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "It stung more than I thought it would, and I couldn’t shake the feeling that my work was being trivi...",
+          "score": 0.6396,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "Title: “No, I Don’t Just Play Video Games All Day – The Real Story Behind Game Development”\nEver had...",
+          "score": 0.6262,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "There was something magical about making a world where others could interact with your imagination.\n...",
+          "score": 0.5992,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"Stereotypes about jobs tied to 'fun' can trivialize the hard work and creativity involved",
+      "keypoint_index": 4,
+      "best_match_sentence": "It’s about building something meaningful within it.\nWhat frustrates me is how quickly people stereotype jobs tied to “fun.” If you say you’re a lawyer or a nurse, people immediately understand the value.",
+      "best_match_score": 0.7136,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "It’s about building something meaningful within it.\nWhat frustrates me is how quickly people stereot...",
+          "score": 0.7136,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "There was something magical about making a world where others could interact with your imagination.\n...",
+          "score": 0.5122,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "But say you’re a game designer, and suddenly you're seen as someone who never grew up.\n- It’s like s...",
+          "score": 0.4219,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"Misunderstandings about one's work should be met with education rather than retreat",
+      "keypoint_index": 5,
+      "best_match_sentence": "And for anyone out there who’s been judged for their work or passion, I just want to say: don’t let someone else’s misunderstanding diminish your purpose.\nWe all find meaning in different places.",
+      "best_match_score": 0.5328,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "And for anyone out there who’s been judged for their work or passion, I just want to say: don’t let ...",
+          "score": 0.5328,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "And when someone makes an assumption, use it as a chance to educate, not to retreat.\nBecause at the ...",
+          "score": 0.5256,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "Let your work speak for itself.",
+          "score": 0.4341,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

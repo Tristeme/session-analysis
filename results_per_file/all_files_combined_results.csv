@@ -1,0 +1,385 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+e27c2df5592e4c63a9ad10a04895734c.csv,1,"```json
+[
+    ""Nursing is often misunderstood and undervalued by those who don't see the full picture",But thre is this one nurse that stood out.,0.4096,USER,5,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,2,""",
+    ""A personal experience with a compassionate nurse inspired the author to pursue nursing","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.6318,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,3,""",
+    ""Nursing involves chaos, anxiety, and emotional challenges beyond just compassion","i wanted to be there for some one else as they did for me.
+nursing isnt just companssion and warm blankets , its chaos , its adrenaline, its pure anxiety and rush, its breathe taking, its something not just any one can handle with ease as it seems or thought to be.it is wiping tears it is having bad hard  conversations ,and sometimes seeking solace in the washrooms with tears rolling down cheeks for few min while trying to put one and yourself together.
+its literally not easy .",0.6523,USER,11,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,4,""",
+    ""The author continues nursing because people and their stories matter deeply","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.584,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,5,""",
+    ""Nursing is a demanding yet rewarding profession that requires humanity and grit","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.6688,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,1,"```json
+[
+    ""Questioning the necessity of college for success led to exploring alternative paths","However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",0.5208,USER_AND_API,3,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,2,""",
+    ""Stories of successful individuals without degrees inspired a focus on real-world skills","However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",0.6009,USER_AND_API,3,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,3,""",
+    ""Choosing an unconventional path fostered personal growth and self-discovery","As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",0.6748,API,26,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,4,""",
+    ""Mentors supporting nontraditional paths provided confidence and reassurance",Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance I needed to keep moving forward.,0.8282,USER_AND_API,17,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,5,""",
+    ""Embracing the unconventional led to opportunities aligned with passions and skills","As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",0.6578,API,26,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,1,"```json
+[
+    ""Breaking the poverty cycle involves improving access to basic needs, healthcare, and education","Title; Break the Cycle of Poverty and Improve Health 
+Ever lie awake at night, your mind filled with thoughts on how to break the poverty cycle in the community by making everyone afford their basic needs and help them keep the health more strong by having the best medical care and educate them on eating healthy foods.",0.5406,USER,0,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,2,""",
+    ""An online donation platform was created to fund these initiatives, but initial funding was insufficient","Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.
+
+The other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",0.4621,USER,4,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,3,""",
+    ""Community efforts focused on health education, clean water access, and sanitation improvements","Luck of enough funds caused a lot of pushbacks from members of the community as they thought the progress would never happen in any time from then but that made me more motivated to prove them that anything is possible.
+On the health side which was was my priority, me and a group of my friends organized groups from the community to educate them on the importance of having clean water and eating healthy, we cleaned the waste systems, helped build modern toilets in schools to protect the children.",0.5694,USER,2,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,4,""",
+    ""Government and private organizations eventually supported the project with funding and resources","Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.
+
+The other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",0.6057,USER,4,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+7a84644b671144b29973ab0ffe23898a.csv,5,""",
+    ""Education and skill development are crucial for economic improvement and breaking the poverty cycle","By prioritizing the best education, its the best way to cut poverty cycle and create best paths for financial stability and more self improvement.
+
+It was all a dream achieved but the challenges were many and the road was not always smooth.",0.6306,USER_AND_API,6,7a84644b671144b29973ab0ffe23898a.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,1,"```json
+[
+    ""Challenging universally accepted beliefs can lead to valuable insights",What this experience taught me is the importance of distinguishing between opinions and facts.,0.3701,USER,18,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,2,""",
+    ""Real estate is not always a guaranteed appreciating asset; renting can be a better option in some cases","In the end, my view on this issue is that, like so many other financial decisions, whether to rent or buy is an individual one.",0.6734,USER,25,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,3,""",
+    ""Financial decisions should be based on individual circumstances rather than broad assumptions",I also argued from the standpoint that financial decisions should always be based on individual circumstances rather than broad assumptions.,0.9114,USER,17,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,4,""",
+    ""Distinguishing between opinions and facts is crucial for making informed decisions",What this experience taught me is the importance of distinguishing between opinions and facts.,0.7159,USER,18,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,5,""",
+    ""Engaging in constructive conversations and being open-minded can lead to deeper understanding","Engaging in constructive conversations, where both parties are willing to listen and share insights, often leads to a deeper understanding.",0.759,USER_AND_API,32,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+728be0e074184b268c1a44a00ead8e4a.csv,1,"```json
+[
+    ""People often make assumptions about others based on stereotypes, leading to misunderstandings and undervaluation","I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",0.4671,USER_AND_API,1,728be0e074184b268c1a44a00ead8e4a.csv,sentence-bert
+728be0e074184b268c1a44a00ead8e4a.csv,2,""",
+    ""Software development is a diverse field that involves creativity, teamwork, and collaboration, not just solitary coding",The thrill I get from solving a challenging problem or building an application that can't compared to anything.My thoughts on this forum is that I wish people understood how diverse and multifaceted the world of software development truly is.,0.6596,USER_AND_API,4,728be0e074184b268c1a44a00ead8e4a.csv,sentence-bert
+728be0e074184b268c1a44a00ead8e4a.csv,3,""",
+    ""Judging others without full evidence reflects ignorance and can hurt feelings","I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",0.5399,USER_AND_API,1,728be0e074184b268c1a44a00ead8e4a.csv,sentence-bert
+728be0e074184b268c1a44a00ead8e4a.csv,4,""",
+    ""Individuals should reflect on their own lives and flaws to reduce judgment and promote understanding","I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",0.5391,USER_AND_API,1,728be0e074184b268c1a44a00ead8e4a.csv,sentence-bert
+728be0e074184b268c1a44a00ead8e4a.csv,5,""",
+    ""Leaders and individuals alike should focus on equality, fairness, and helping others to create a better world","I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty of each and everyone to reflect back to their own lives.Once each individual evaluates and analyzes his or her actions it will then be easier for them to stop judging others and having checked their lives and realise that on this world we all have flaws.Most humans tell themselves that they are good enough or think they are better than others because of the benefits they have at the moment.For example some people are born in rich families and others are born in poor families,the person born on rich family might think they are better and more hard working than those born in poor families,failing to realise no one chooses where to be born or choosing to be poor.Therefore I think the main concern for majority or simply the whole world should be making the world a better place and not a place for competing and humilating others.This also should get to our leaders and they should enhance equality and fairness for its citizens.Leaders should not embezzle public funds for personal selfish gains,but should appropriately use funds to provide social life of citizens so as to reduce the burden of the tax payers.This goes on to a personal level where everyone should take it as his or her responsibility regardless of the position in the society to make sure helping the needy neighbour as long as one has the resources or enough to share.Finally the world should be a better place this can be achieved by minimize judging and more helping.",0.635,USER_AND_API,6,728be0e074184b268c1a44a00ead8e4a.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,1,"```json
+[
+    ""Reached financial independence but facing a life crossroad","At last I've reached financial independence, only to reach a crossroad in my life.",0.4223,USER,0,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,2,""",
+    ""Considering leaving the workforce to pursue personal fulfillment","My parents are aging, I'm experiencing some challenges of my own, and to top it all off I'm seriously considering leaving the workforce.",0.5678,USER,1,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,3,""",
+    ""Balancing passion for video game development with family responsibilities","Maybe the key lies in finding a middle ground—where I can dedicate time to developing video games, while still having an adequate amount of time to also spend with my parents.",0.7115,USER_AND_API,17,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,4,""",
+    ""Exploring part-time work or freelance for flexibility","To make this possible, I could consider working part-time or taking on freelance projects that allow me the flexibility to juggle both responsibilities.",0.7327,API,18,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+077593e849434b05bdeb16334beb8fe4.csv,5,""",
+    ""Seeking advice on balancing personal passions, family, and career","I'm eager to hear your experiences and advice, as I navigate these tough decisions about balancing my personal passions, family responsibilities, and professional life.",0.72,API,39,077593e849434b05bdeb16334beb8fe4.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,1,"```json
+[
+    ""Judgment from family due to past drug use despite not using hard drugs","However, I've had people judge me for a variety of other reasons such as...
+
+1) Past Drug Use
+I've had family practically shun me and stop talking to me all because of one person in my family portraying me as this terrible person due to my use of drugs.",0.4825,USER,1,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,2,""",
+    ""Consistent negative treatment from family, being labeled as the black sheep","I was always treated like a junkie and less of a person because of this, and to this day, even after turning my life around and quitting the weed and the pills, my family are still standoffish about having anything to do with me.
+
+2) Family Drama
+My whole life I have always been the black sheep in the family.",0.5514,USER,3,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,3,""",
+    ""Criticism about weight and eating habits, leading to unhealthy behaviors",When I actually was healthy (before becoming anorexic) I was always told I was too skinny and I needed to gain weight.,0.4939,USER,12,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,4,""",
+    ""Blame for skin issues despite known medical conditions","Despite the fact that my family knows this, I get blamed for my bad skin because I ""wear makeup, touch my face, don't clean my face enough,"" etc.",0.6211,USER,17,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,5,""",
+    ""Insults and judgment based on political views and personal art","5) My Political Views
+I stopped posting my political views on social media circa 2017 when people started to insult me based on them.",0.545,USER,19,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,1,"```json
+[
+    ""The author is the only Democrat in a group of Trump supporters and feels validated in their vote for Kamala Harris",The rest are Trump supporters.,0.4197,USER,1,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,2,""",
+    ""Elon Musk's claim of helping Trump win the 2024 election has led to an unusual silence among the author's friends","However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",0.744,USER,3,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,3,""",
+    ""The friends may be experiencing introspection due to controversies around Trump's leadership and potential threats to personal freedoms","However, now that Elon Musk has alleged that he helped Trump win the 2024 election, I noticed my friends are oddly silent.",0.5065,USER,3,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,4,""",
+    ""Issues like Project 2025 and the 'Big Beautiful Bill' are causing personal reflection among the friends due to their potential impact","What changed?
+
+Maybe it's the reality of Project 2025, with their individual freedoms being threatened.",0.4993,USER,13,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+77ec93400b364c04aefb7ec51a0846fa.csv,5,""",
+    ""The author wonders if their friends regret their loyalty to Trump as they face the real-world consequences of his policies","It's as if the political has finally become personal, forcing them to confront the real-world implications of their beliefs.
+
+For myself, I feel like they were too accepting of Trump's wild behavior during his first time in office, and are now getting the shock of their lives, knowing it wasn't an act.",0.4231,USER_AND_API,17,77ec93400b364c04aefb7ec51a0846fa.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,1,"```json
+[
+    ""The author felt overwhelmed by social media and decided to take a break to see its effects on their life","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.4719,API,4,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,2,""",
+    ""Taking a step back from social media led to improved mental state and deeper real-life relationships","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.6505,API,4,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,3,""",
+    ""The author rediscovered hobbies and found fulfillment away from digital distractions","This newfound freedom allowed me to rediscover hobbies that had long been neglected, such as reading and painting, which brought a sense of fulfillment that no number of likes or comments could provide.",0.6084,API,9,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,4,""",
+    ""A balanced perspective on social media use emerged, focusing on intentional and meaningful interactions","That sparked real conversations about how we use technology and why.Now, I still use social media, but on my own terms.",0.6516,USER,21,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+68cedfb070704463a4d9d4748052eef4.csv,5,""",
+    ""The author's change in social media habits sparked conversations about technology use among friends","That sparked real conversations about how we use technology and why.Now, I still use social media, but on my own terms.",0.7189,USER,21,68cedfb070704463a4d9d4748052eef4.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,1,"```json
+[
+    ""The writer became obsessed with their first smartphone, a Samsung S10 Plus, which affected their daily life and academic performance","It was a very nice Samsung phone, the S10 plus.",0.5153,USER,2,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,2,""",
+    ""Social media apps like Instagram and Twitter were particularly addictive, leading to neglect of studies",At first I was overwhelmed by everything on social media that I even forgot my studies.,0.5858,USER,10,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,3,""",
+    ""The writer's parents intervened, teaching them to use the phone for educational purposes, which helped improve their grades","Eventually my parents found out, sat me down and we came to an understanding.
+ 
+My parents showed me how to use my phone for good, like setting reminders and using educational apps that could complement my studies.",0.6564,USER_AND_API,15,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,4,""",
+    ""Despite using the phone as a tool for good, the writer became isolated, focusing too much on digital content and neglecting real-life interactions",It was a game-changer for me; I began to see my phone as more than just a distraction but rather as a tool that could help me in various aspects of life.,0.5536,API,16,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,5,""",
+    ""The writer is currently trying to balance technology use with real-life experiences by socializing more and seeking advice from others","Title: how tech took over my life'
+Hi guys,
+I wanted to share a story and see who else has been through something similar.",0.5419,USER,0,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,1,"```json
+[
+    ""The author is a Democratic Party member conflicted about the death penalty","In my political party, there is a widespread belief that the death penalty is morally wrong.",0.42,USER,1,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,2,""",
+    ""The author believes the death penalty may be justified in extreme cases like Timothy McVeigh's","For example, when Timothy McVeigh killed so many people in the Oklahoma City bombing of 1995, he most definitely deserved the death penalty.",0.6753,USER,4,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,3,""",
+    ""There is tension between the author's views and the Democratic Party's stance against the death penalty","In my political party, there is a widespread belief that the death penalty is morally wrong.",0.6354,USER,1,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,4,""",
+    ""The author acknowledges the potential for errors in the justice system but argues for a balance between justice and morality","I've often found myself reflecting on the idea that while the judicial system is flawed, there must be some good things that come out of it, and some of those would be executing the worst of our criminals, as that can act as a deterrent to major crimes and stop potential extra attacks from other evil people who were inspired by these terrible acts.",0.5522,USER_AND_API,16,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,5,""",
+    ""Discussions on the death penalty have led the author to further explore and affirm their belief in its necessity for certain crimes","I began reading extensively about the history and effectiveness of the death penalty, hoping to gain a broader perspective.",0.7207,API,19,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,1,"```json
+[
+    ""The author dreams of traveling, financial freedom, and a fulfilling career","Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",0.5418,API,6,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,2,""",
+    ""Travel is a priority, with a focus on experiences over material possessions","To make this dream a reality, I have been diligently saving money and planning trips within my budget, all while ensuring I prioritize experiences over material possessions.",0.6247,API,5,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,3,""",
+    ""Financial freedom is pursued through saving, investing, and financial education","Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",0.6027,API,6,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,4,""",
+    ""Organizing a charity event brought satisfaction despite challenges","Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that are essential not just for financial success, but for achieving peace of mind as well.
+ Recently, I helped organize a charity event.",0.6023,USER_AND_API,9,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,5,""",
+    ""Personal growth is achieved through self-improvement practices like meditation and workshops","To reach this vision of the future, I am constantly working on improving myself—reading self-help books and attending workshops that build my skills and confidence.",0.6755,API,23,cd40ed4c30324a2cbdf9f223b22cbb16.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,1,"```json
+[
+    ""Staying active in a career provides financial independence and personal fulfillment",It’s important to consider the balance between personal fulfillment and professional responsibilities.,0.4399,API,4,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,2,""",
+    ""Maintaining a routine offers stability and purpose during challenging times","Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",0.9292,API,3,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,3,""",
+    ""Remote work can balance career aspirations with family obligations and reduce commuting costs","I could also explore flexible working options, such as remote work or part-time positions, which might offer a healthier balance between career aspirations and family obligations.
+
+As a matter of fact, I think remote working will serve me well because: I'll be working in the comfort of my home, I can have more than one online job provided I am flexible enough to finish my work in time and also, I would have cut off transport cost from my bills.",0.7825,USER_AND_API,6,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,4,""",
+    ""Prioritizing self-care and mental health is crucial to avoid burnout","Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time for activities that rejuvenate my spirit and keep me grounded.",0.7314,API,9,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,5,""",
+    ""Connecting with like-minded individuals can provide support and new opportunities","Online forums or local community groups might be valuable resources where I can exchange ideas, gain insights, and even find solace and feel free even if it's just for a few hours in a day.
+
+ Engaging with like-minded individuals could also offer new perspectives on managing life's complexities, and perhaps even lead to collaborations or opportunities in the gaming industry.",0.5638,USER_AND_API,11,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,1,"```json
+[
+    ""Overcoming stereotypes about size and endurance in marathon running","They thought I could not compete in the marathon because of my size , assuming that someone of my build couldn't possibly have the endurance or speed necessary to finish a race of such magnitude.",0.5838,USER_AND_API,0,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,2,""",
+    ""Passion and dedication to running fueled daily training and personal growth","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.7135,API,5,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,3,""",
+    ""Running served as meditation and a source of balance and clarity","Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",0.6738,API,5,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,4,""",
+    ""The marathon was a personal challenge to prove determination over preconceived notions","One day  , I decided to sign up for a local marathon, not only to challenge myself but also to prove to others that determination and passion trumped any preconceived notions.",0.757,USER_AND_API,6,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+8673f28f522c4ec7b47870a51d3073bf.csv,5,""",
+    ""The race taught that true strength lies within, beyond appearances","The finish line came into view, and a surge of emotion washed over me, knowing that I had defied expectations and proven that size was no barrier to success.
+Since that day , I've carried the lesson that appearances can be deceiving and that true strength lies within.",0.4824,USER_AND_API,18,8673f28f522c4ec7b47870a51d3073bf.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,1,"```json
+[
+    ""The speaker shares an experience of being amazed by AI technology that maps emotions","So you all know the world and the days we are living in , the generation of technology ,AI ,Blockchain and web3 and its quite fascinating especially for old men like us ,though really interesting as well huh, But yes ,Here goes my story  so I was at a bar on one fine Saturday and a group of really young students came and sat next to me and they were all talking about bitcoin ,web3.
+One of them looked at me with a proud face and said an AI product that does emotions mapping ,and I was sort of shocked about what technology can do but I was  all ears.",0.5898,USER,1,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,2,""",
+    ""The speaker reflects on the impact of technology on personal connections and presence","As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",0.5547,API,10,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,3,""",
+    ""Technology has woven itself into every aspect of life, reshaping interactions and perceptions","As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",0.7272,API,10,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,4,""",
+    ""The speaker expresses a longing for simpler times with genuine face-to-face interactions","Yet, despite its omnipresence, I found myself yearning for simpler times when face-to-face conversations weren't interrupted by buzzing notifications or the allure of scrolling through endless feeds.",0.4856,API,11,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,5,""",
+    ""Constant connectivity through technology can lead to loneliness and insecurity","I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",0.7177,API,13,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,1,"```json
+[
+    ""Instagram initially provided a creative outlet and connection with new people","Despite this, I still found myself drawn to Instagram's allure, now using it in a more intentional way to follow those who brought value to my inner world.",0.5459,USER_AND_API,19,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,2,""",
+    ""Running a meme page became stressful due to increased competition and algorithm changes","On top of the challenges of maintaining the meme page, it also became less satisfying, and more difficult to maintain the amount of likes we once received.",0.6548,USER,9,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,3,""",
+    ""The pressure for likes and validation negatively impacted mental health","Around the same time our engagement began to decline, my addiction to likes and comments and struggle to maintain them started to have a negative impact on my mental health.",0.5247,USER,12,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,4,""",
+    ""A shift to intentional use of Instagram improved mental well-being",This shift in how I used Instagram helped me regain control over my mental well-being and eventually most of my issues with instagram became less impactful.,0.7917,USER_AND_API,21,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,5,""",
+    ""Instagram now serves as a tool for self-improvement and community engagement","While Instagram remains a prominent part of my life, its role has evolved from a source of stress to a tool for self-improvement and learning.",0.7322,API,23,a49c735f8e2d47c9a30f5ec008e7d0a9.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,1,"```json
+[
+    ""The dream is to create a community learning center blending mentorship, career development, and mental wellness","The community learning center isn't just a dream—it's becoming a testament to resilience, cooperation, and the relentless pursuit of something meaningful.",0.6291,API,38,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,2,""",
+    ""Personal struggles and community observations fuel the vision to prevent others from feeling isolated or hopeless","I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.
+The journey so far?",0.5518,USER,10,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,3,""",
+    ""The journey involves overcoming financial challenges, burnout, and self-doubt while gaining experience and making connections","I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.
+The journey so far?",0.5246,USER,10,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,4,""",
+    ""Patience is crucial as every step and detour teaches valuable lessons, with the dream rooted in love, resilience, and empathy",Patience.,0.5662,USER,18,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,5,""",
+    ""The vision is communal, involving collaboration and collective action to create pathways and a sense of belonging for others","Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is also communal—it belongs to everyone who believes in a better future.",0.6605,API,35,7086f19b8538427298d19fca51447521.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,1,"```json
+[
+    ""Technology significantly changed my life, starting with my first smartphone",It all started when I got my first smartphone.,0.5059,API,1,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,2,""",
+    ""Social media expanded my social circle and sparked an interest in photography","I could share updates and photos instantly, which felt like a new way of expressing myself creatively.
+My first interaction with Instagram made me love taking photos of everything around me.",0.6201,USER_AND_API,5,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,3,""",
+    ""Excessive phone use led to less sleep and difficulty in face-to-face interactions","There were countless times when I would feel the urge to reach for my phone out of habit, only to remind myself of the commitment I'd made.",0.5286,API,18,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,4,""",
+    ""Conscious attention and reducing notifications helped regain control over technology use","Because of these little adjustments, I got my attention back.
+ But the journey to regaining control over my technology use wasn't straightforward.",0.6282,USER_AND_API,17,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,5,""",
+    ""A balanced relationship with technology requires awareness and effort","I’m trying to understand it better, but I believe a good relationship with tech can exist.",0.5937,USER,20,6e0b5951a39a42cbbbbd0457ba0ac149.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,1,"```json
+[
+    ""The author has a deep passion for helping others, which led them into medicine",it's what led me into medicine.,0.4218,USER,3,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,2,""",
+    ""They discovered travel entrepreneurship and the concept of wellness retreats as a way to combine their medical expertise with their love for travel","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.7388,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,3,""",
+    ""Wellness retreats offer a holistic approach to healing, merging medicine and travel","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.8962,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,4,""",
+    ""Balancing work, family, and a new business venture is challenging but fuels the author's determination","Balancing work, school, family and this business can feel like juggling fire while walking a tightrope.
+ Yet, every morning, I wake up with a renewed sense of determination, fueled by the vision of what I hope to achieve.",0.5357,USER_AND_API,17,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,5,""",
+    ""The dream of creating wellness retreats represents financial freedom and a life beyond current limitations","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.7394,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,1,""",
+    ""Smartphones have become deeply integrated into daily routines, influencing habits and behaviors significantly","As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily routine, dictating my habits and behaviors more than I had anticipated.",0.827,API,11,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,2,"```json
+[
+    ""Smartphones offer unprecedented connectivity and convenience, allowing users to stay in touch with loved ones and access information easily","I was amazed by how easily I could connect with friends, access information, and entertain.
+
+My life My life quickly became intertwined with this little device, as it seemed to provide endless possibilities at my fingertips.",0.5324,USER_AND_API,2,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,3,""",
+    ""The constant use of smartphones can negatively impact attention span, social interactions, and productivity due to frequent digital distractions","Tasks that required deep concentration became increasingly difficult to complete, as the allure of digital distractions grew stronger.",0.6052,API,9,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,4,""",
+    ""Productivity apps on smartphones can help users organize tasks, set reminders, and achieve personal development goals","Through these apps, I discovered a newfound sense of accomplishment in ticking off tasks and making progress towards personal development.",0.6371,API,15,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+5522329afb23477fb4d99efe68f8862b.csv,5,""",
+    ""Reliance on smartphones may diminish independent problem-solving skills and creative thinking","However, this reliance also meant that I started losing some of my natural problem-solving skills.
+
+Finally, I began to recognize that my dependence on technology was diminishing my ability to think independently and creatively.",0.6633,USER_AND_API,19,5522329afb23477fb4d99efe68f8862b.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,1,"```json
+[
+    ""Standing up for personal beliefs requires courage, especially against societal and peer pressure","It takes courage to stand up for what you believe in even in the face of pressure from society, family and friends.",0.6145,USER,0,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,2,""",
+    ""The author believed women should not officiate men's basketball games due to safety and fairness concerns","For me, there was a time at work where I felt it wasn't right that women should officiate men's basketball games.",0.761,USER,2,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,3,""",
+    ""Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues","I implemented a policy allowing women to officiate in youth leagues, believing that this was an appropriate step toward inclusivity while maintaining safety.",0.8481,API,14,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,4,""",
+    ""The decision sparked debate but was ultimately accepted, proving less controversial than expected","To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehemently supporting it, a few questioning it but I felt overall most people were understanding or didn't really see it as an issue.",0.5795,USER_AND_API,15,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,5,""",
+    ""Social media can amplify perceived issues, but practical outcomes often matter more to people","This is where social media makes things seem to be a bigger issue when in fact, most people aren't that worried about it.",0.6393,USER,20,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,1,"```json
+[
+    ""The dream of becoming a teacher is driven by a passion for helping others and sharing knowledge","Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",0.4864,API,23,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,2,""",
+    ""Perseverance and overcoming setbacks are essential to achieving the goal of becoming a teacher","The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",0.6508,API,6,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,3,""",
+    ""Learning from current teachers and reflecting on the desired teaching style helps maintain focus","Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",0.5857,API,23,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,4,""",
+    ""The aspiration to create a supportive and inspiring classroom environment motivates continued effort","I picture myself creating an environment where each student feels valued, heard, and understood—a place where their unique talents can flourish.",0.512,API,28,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,5,""",
+    ""Dedication, hard work, and support from family and friends are crucial in pursuing the teaching dream","The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",0.5707,API,6,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,1,""",
+    ""Balancing personal well-being with the care of aging parents is a significant challenge","Now that I've finally attained financial independence through my job, I find myself in a new phase of life where personal challenges and the responsibilities of aging parents weigh heavily on my mind.",0.701,USER_AND_API,1,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,2,"```json
+[
+    ""Financial independence raises new questions about life priorities and responsibilities","Financial independence has given me the luxury of choice, yet it also comes with the responsibility to make choices that align with my values and long-term.",0.5541,USER_AND_API,16,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,3,""",
+    ""Pursuing passions like making video games is appealing but raises concerns about career re-entry","One of those passions is making video games, a hobby that has always brought me immense joy and satisfaction.",0.6331,API,5,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,4,""",
+    ""The decision to leave the workforce involves weighing professional structure against personal fulfillment","Balancing this responsibility with my own well-being is no easy task, and it often leaves me contemplating the possibility of leaving the workforce.",0.6466,USER_AND_API,3,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+9881a34b5dce45bcb93d9913bf050867.csv,5,""",
+    ""Redefining success involves integrating personal growth, creativity, and family responsibilities","This could be an opportunity to redefine success beyond the confines of a traditional career path, embracing a holistic approach to life that integrates personal growth and creativity for myself This is anew opportunity to focus on what truly matters, beyond the constraints of a corporate job.",0.6192,USER_AND_API,18,9881a34b5dce45bcb93d9913bf050867.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,1,"```json
+[
+    ""The author is transitioning from a successful career to focus on video game development and family responsibilities","I want to focus on my hobby for making video games as this will allow me  more free time to attend to my aging parents, my family and personal issues.",0.4943,USER,1,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,2,""",
+    ""They plan to balance personal fulfillment with professional obligations by setting up a home office for game development","I'm considering setting up a home office dedicated to game development, where I can immerse myself in creativity while still being available for any family emergencies.
+Besides proper planning and setting up a home office, there are other important things that i need to do as well.",0.6816,USER_AND_API,6,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,3,""",
+    ""The author intends to discuss their transition plans with their wife and enroll in an online refresher course on video game development","Secondly, i need to enroll for an online refresher class on video game development.",0.681,USER,9,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,4,""",
+    ""A one-month notice will be given to their current employer once they are ready to pursue their hobby full-time",The policy at my current  work place requires me to give a one month notice.,0.6961,USER,12,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,5,""",
+    ""The author is excited about the prospect of integrating their passions with family life, despite anticipating challenges",The prospect of waking up every morning with the freedom to create worlds in video games while having the flexibility to support my elderly parents.,0.4557,USER_AND_API,14,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,1,"```json
+[
+    ""Roller skating is a deeply personal and meaningful hobby for the narrator, providing joy and a sense of freedom",Roller skating has been more than just a hobby for me.,0.6376,USER_AND_API,4,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,2,""",
+    ""The narrator feels judged by others who perceive roller skating as childish or unprofessional","Despite knowing how crucial roller skating has been in my life, I still face judgment from others who see it as childish or attaching an age limit to it.",0.7515,USER_AND_API,13,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,3,""",
+    ""Roller skating has been a lifelong passion, offering an escape from life's pressures and even saving the narrator's life once",Skating became an expression of freedom and creativity—a way for me to escape from the pressures of life in the literal meaning.,0.7126,USER_AND_API,8,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,4,""",
+    ""The narrator chooses to express the value of skating through action rather than confrontation, emphasizing its ageless nature",I am not going to let external opinions affect who I am and what skating means to me.,0.6176,USER,21,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,5,""",
+    ""Hobbies and passions are personal, and individuals should embrace what brings them happiness despite external judgments","It seems that society often forgets that hobbies and passions are deeply personal, and what may seem trivial to one person can hold profound meaning for someone else.",0.7955,API,23,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,1,"```json
+[
+    ""Achieving financial independence allows choices based on personal satisfaction rather than necessity","having achieved financial independence  through my job, I find myself in a unique position where I can make choices based on personal satisfaction rather than financial necessity.",0.6355,USER_AND_API,0,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,2,""",
+    ""Balancing family care and personal challenges is crucial, with a focus on supporting aging parents","My parents are aging, and their need for support has become more pronounced over the years.",0.658,API,4,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,3,""",
+    ""Exploring video game development as a creative outlet and potential income source","Apart from being a hobby, video games when monetized well can be a viable source of income, allowing me to maintain a level of  security without the pressures of a traditional job.",0.7014,USER_AND_API,11,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,4,""",
+    ""Leaving the workforce offers time to pursue interests and passions deeply","While the idea of leaving my career behind is daunting, I recognize that stepping away from the workforce may grant me the time and space to explore my interests and passions more deeply.",0.8384,API,8,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,5,""",
+    ""Skills and experience in tech provide a foundation for potential reintegration into the industry","Skills in the tech industry are often transferable, and staying engaged with my hobby of game development would help me remain relevant and up-to-date with industry trends.",0.6635,API,16,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,1,""",
+    ""The joy of seeing players engage with a game is a significant reward for game developers","But it’s the judgmental glances, the flippant comments, that stick with you longer than they should.
+Still, I wouldn’t trade my path for anything.- The joy of launching a game and seeing players engage with something I helped bring to life is indescribable.
+It’s more than a job—it’s a way to tell stories, solve problems, and be endlessly creative.",0.5341,USER,12,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,2,"```json
+[
+    ""Game development involves designing systems, writing code, and collaborating with artists and writers","I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple game-making tools like RPG Maker.",0.5058,USER,6,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,3,""",
+    ""The passion for creating and storytelling drives a career in game development, not just playing games","It stung more than I thought it would, and I couldn’t shake the feeling that my work was being trivialized.
+It’s funny how a single assumption can erase all the effort you’ve put into something.
+- I didn’t get into game development because I wanted to play; I got into it because I wanted to create.
+As a kid, I was obsessed with storytelling.",0.6396,USER,5,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,4,""",
+    ""Stereotypes about jobs tied to 'fun' can trivialize the hard work and creativity involved","It’s about building something meaningful within it.
+What frustrates me is how quickly people stereotype jobs tied to “fun.” If you say you’re a lawyer or a nurse, people immediately understand the value.",0.7136,USER,9,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,5,""",
+    ""Misunderstandings about one's work should be met with education rather than retreat","And for anyone out there who’s been judged for their work or passion, I just want to say: don’t let someone else’s misunderstanding diminish your purpose.
+We all find meaning in different places.",0.5328,USER,13,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,1,"```json
+[
+    ""The initial excitement of owning a smartphone was driven by its features and connectivity","The smartphone became an indispensable part of my daily routine, seamlessly integrating into every aspect of my life.
+
+Everything was happiness  at first.",0.5915,USER_AND_API,6,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,2,""",
+    ""Over time, smartphone use shifted from convenience to a source of distraction and control","This habit slowly crept into other parts of my day, as I found myself reaching for my phone during meetings, meals, and even in the middle of conversations.",0.5441,API,11,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,3,""",
+    ""A pivotal moment occurred when technology interfered with real-world interactions, prompting self-reflection","Her disappointed tone cut through the haze of my digital distraction, making me realize that I had let technology overshadow the real-world connections that meant so much more.",0.5509,API,15,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,4,""",
+    ""Setting boundaries with technology use, such as tech-free zones, helped regain control and improve relationships","One of the first steps was creating tech-free zones in my home, such as the dining table and bedroom, where devices were not allowed.",0.6048,API,18,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+99087eb4d9b04c5a81d0b259f56c4df9.csv,5,""",
+    ""Prioritizing human connections over screen time led to more meaningful and fulfilling interactions","By consciously limiting my screen time and prioritizing human connections, I gradually discovered the joys of being more present and attentive to those around me.",0.6147,API,20,99087eb4d9b04c5a81d0b259f56c4df9.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,1,"```json
+[
+    ""The author's dream is to become a published author whose stories resonate globally","For me, that dream is becoming a published author, someone whose stories resonates with people across the world.",0.6252,USER,2,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,2,""",
+    ""Writing began as an escape and evolved into a serious pursuit with the goal of sharing stories with others","I've been writing for as long as I can remember, starting with short stories scribbled in my notebook during class, evolving into more complex narratives as I grew older.",0.6983,USER_AND_API,6,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,3,""",
+    ""The author has faced numerous rejections but views them as opportunities to improve and persevere","I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft further.",0.5794,API,16,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,4,""",
+    ""Daily writing has become a sanctuary for creativity and exploration of different worlds","Writing has become my sanctuary, a place where I can explore different worlds and perspectives without leaving the comfort of my own home.",0.7623,API,18,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,5,""",
+    ""The author is motivated by the hope that their stories will inspire others, despite moments of doubt","what keeps me motivated  is the thought that my stories might one day inspire someone else, just as countless books have inspired me throughout my life.",0.6149,USER_AND_API,20,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,1,"```json
+[
+    ""Balancing personal life and career becomes challenging as we or our parents age",We need to tend to things in our personal lives that come before our careers.,0.5601,USER,1,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,2,""",
+    ""Retirement is often more stressful than expected due to emotional and financial concerns",Some think getting older and closer to retirement age should be LESS of a burden on our emotional and financial stability.,0.7276,USER,7,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,3,""",
+    ""Caring for aging parents raises questions about time, energy, and financial resources",Do I have the time to devote to care for an aging parent?,0.6611,USER,16,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,4,""",
+    ""Guilt arises from juggling caregiving responsibilities and personal needs","We question whether we are doing enough for our loved ones, yet feel guilty about neglecting our own needs and passions.",0.6393,API,27,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,5,""",
+    ""Self-care is crucial to maintain well-being while managing caregiving duties","However, it's important to remember that taking care of ourselves is just as important, if not more, than taking care of someone else's needs.",0.6886,USER_AND_API,29,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert

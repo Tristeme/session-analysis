@@ -1,0 +1,177 @@
+{
+  "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Maintaining a career provides financial independence and a sense of stability",
+    "\",\n    \"Exploring flexible work options like remote or part-time jobs can help balance career and family responsibilities",
+    "\",\n    \"Remote work offers benefits such as reduced commuting costs and more time for family care",
+    "\",\n    \"Prioritizing self-care and mental health is crucial to avoid burnout",
+    "\",\n    \"Engaging with like-minded individuals can provide support and new opportunities"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "keypoint": "```json\n[\n    \"Maintaining a career provides financial independence and a sense of stability",
+      "keypoint_index": 1,
+      "best_match_sentence": "Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",
+      "best_match_score": 0.4444,
+      "best_match_author": "API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Additionally, maintaining a routine can provide a sense of stability and purpose during challenging ...",
+          "score": 0.4444,
+          "author": "api",
+          "sentence_id": "3",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "While taking care of family is crucial, I believe that having financial independence allows me to co...",
+          "score": 0.1471,
+          "author": "user_and_api",
+          "sentence_id": "5",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "Perhaps setting aside specific days or hours dedicated to my hobbies could be beneficial in maintain...",
+          "score": 0.1404,
+          "author": "user_and_api",
+          "sentence_id": "10",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "keypoint": "\",\n    \"Exploring flexible work options like remote or part-time jobs can help balance career and family responsibilities",
+      "keypoint_index": 2,
+      "best_match_sentence": "I could also explore flexible working options, such as remote work or part-time positions, which might offer a healthier balance between career aspirations and family obligations.\n\nAs a matter of fact, I think remote working will serve me well because: I'll be working in the comfort of my home, I can have more than one online job provided I am flexible enough to finish my work in time and also, I would have cut off transport cost from my bills.",
+      "best_match_score": 0.202,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I could also explore flexible working options, such as remote work or part-time positions, which mig...",
+          "score": 0.202,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "It’s important to consider the balance between personal fulfillment and professional responsibilitie...",
+          "score": 0.2,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "The extra time I save from not commuting can be spent with my parents, ensuring they receive the att...",
+          "score": 0.1395,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "keypoint": "\",\n    \"Remote work offers benefits such as reduced commuting costs and more time for family care",
+      "keypoint_index": 3,
+      "best_match_sentence": "The extra time I save from not commuting can be spent with my parents, ensuring they receive the attention and care they need as they age.",
+      "best_match_score": 0.1463,
+      "best_match_author": "API",
+      "best_match_sentence_id": "7",
+      "best_match_filename": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The extra time I save from not commuting can be spent with my parents, ensuring they receive the att...",
+          "score": 0.1463,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time fo...",
+          "score": 0.1429,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "I'd stay active in my career because at laest I am making something of and for myself.",
+          "score": 0.1212,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "keypoint": "\",\n    \"Prioritizing self-care and mental health is crucial to avoid burnout",
+      "keypoint_index": 4,
+      "best_match_sentence": "Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time for activities that rejuvenate my spirit and keep me grounded.",
+      "best_match_score": 0.2632,
+      "best_match_author": "API",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time fo...",
+          "score": 0.2632,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "While taking care of family is crucial, I believe that having financial independence allows me to co...",
+          "score": 0.1194,
+          "author": "user_and_api",
+          "sentence_id": "5",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "It’s important to consider the balance between personal fulfillment and professional responsibilitie...",
+          "score": 0.0833,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "keypoint": "\",\n    \"Engaging with like-minded individuals can provide support and new opportunities",
+      "keypoint_index": 5,
+      "best_match_sentence": "Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",
+      "best_match_score": 0.2308,
+      "best_match_author": "API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "74b5eb1312864a87a3105f4f059c028e.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Additionally, maintaining a routine can provide a sense of stability and purpose during challenging ...",
+          "score": 0.2308,
+          "author": "api",
+          "sentence_id": "3",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "Online forums or local community groups might be valuable resources where I can exchange ideas, gain...",
+          "score": 0.1892,
+          "author": "user_and_api",
+          "sentence_id": "11",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        },
+        {
+          "sentence": "Perhaps setting aside specific days or hours dedicated to my hobbies could be beneficial in maintain...",
+          "score": 0.1786,
+          "author": "user_and_api",
+          "sentence_id": "10",
+          "filename": "74b5eb1312864a87a3105f4f059c028e.csv"
+        }
+      ]
+    }
+  ]
+}

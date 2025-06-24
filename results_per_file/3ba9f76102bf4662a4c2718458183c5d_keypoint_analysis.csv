@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+3ba9f76102bf4662a4c2718458183c5d.csv,1,"```json
+[
+    ""Questioning the necessity of college for success led to exploring alternative paths","However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",0.5208,USER_AND_API,3,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,2,""",
+    ""Stories of successful individuals without degrees inspired a focus on real-world skills","However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",0.6009,USER_AND_API,3,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,3,""",
+    ""Choosing an unconventional path fostered personal growth and self-discovery","As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",0.6748,API,26,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,4,""",
+    ""Mentors supporting nontraditional paths provided confidence and reassurance",Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance I needed to keep moving forward.,0.8282,USER_AND_API,17,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert
+3ba9f76102bf4662a4c2718458183c5d.csv,5,""",
+    ""Embracing the unconventional led to opportunities aligned with passions and skills","As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",0.6578,API,26,3ba9f76102bf4662a4c2718458183c5d.csv,sentence-bert

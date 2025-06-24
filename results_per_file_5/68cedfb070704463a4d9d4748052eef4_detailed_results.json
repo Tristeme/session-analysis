@@ -1,0 +1,177 @@
+{
+  "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author felt overwhelmed by social media and decided to take a break to find clarity and balance",
+    "\",\n    \"Disconnecting from social media led to improved mental state and deeper personal relationships",
+    "\",\n    \"The author rediscovered neglected hobbies and found fulfillment away from digital distractions",
+    "\",\n    \"The experience led to a balanced perspective on social media, emphasizing intentional use and setting boundaries",
+    "\",\n    \"Friends noticed positive changes, sparking discussions on technology use and personal well-being"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+      "keypoint": "```json\n[\n    \"The author felt overwhelmed by social media and decided to take a break to find clarity and balance",
+      "keypoint_index": 1,
+      "best_match_sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",
+      "best_match_score": 0.2927,
+      "best_match_author": "API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "68cedfb070704463a4d9d4748052eef4.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it w...",
+          "score": 0.2927,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "However, I couldn't help but feel overwhelmed by the constant barrage of notifications and the press...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "2",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "As time went on, my skepticism towards social media transformed into a more balanced perspective.",
+          "score": 0.1765,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+      "keypoint": "\",\n    \"Disconnecting from social media led to improved mental state and deeper personal relationships",
+      "keypoint_index": 2,
+      "best_match_sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",
+      "best_match_score": 0.2286,
+      "best_match_author": "API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "68cedfb070704463a4d9d4748052eef4.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it w...",
+          "score": 0.2286,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "As the days turned into weeks, I noticed a profound difference in my mental state; I felt more prese...",
+          "score": 0.1961,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "Instead of endlessly scrolling, I started using social media more intentionally.",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+      "keypoint": "\",\n    \"The author rediscovered neglected hobbies and found fulfillment away from digital distractions",
+      "keypoint_index": 3,
+      "best_match_sentence": "I started to appreciate the simplicity of life away from the screens, finding solace in morning walks and the quiet moments that often go unnoticed in the rush of digital life.",
+      "best_match_score": 0.186,
+      "best_match_author": "API",
+      "best_match_sentence_id": "10",
+      "best_match_filename": "68cedfb070704463a4d9d4748052eef4.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I started to appreciate the simplicity of life away from the screens, finding solace in morning walk...",
+          "score": 0.186,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "I was reconnecting with myself, with the people around me, and with the things I truly enjoyed.",
+          "score": 0.1379,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "This newfound freedom allowed me to rediscover hobbies that had long been neglected, such as reading...",
+          "score": 0.1333,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+      "keypoint": "\",\n    \"The experience led to a balanced perspective on social media, emphasizing intentional use and setting boundaries",
+      "keypoint_index": 4,
+      "best_match_sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",
+      "best_match_score": 0.3158,
+      "best_match_author": "API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "68cedfb070704463a4d9d4748052eef4.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Despite the prevailing opinion, I decided to take a step back from social media and observe how it w...",
+          "score": 0.3158,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "I remember vividly the time when I found myself at odds with a popular belief concerning social medi...",
+          "score": 0.2286,
+          "author": "api",
+          "sentence_id": "0",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "It's about finding a balance that works for each individual, and for me, it meant setting boundaries...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "68cedfb070704463a4d9d4748052eef4.csv",
+      "keypoint": "\",\n    \"Friends noticed positive changes, sparking discussions on technology use and personal well-being",
+      "keypoint_index": 5,
+      "best_match_sentence": "Initially, my decision was met with skepticism from friends and colleagues who couldn't imagine functioning without their digital networks.",
+      "best_match_score": 0.1212,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "68cedfb070704463a4d9d4748052eef4.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Initially, my decision was met with skepticism from friends and colleagues who couldn't imagine func...",
+          "score": 0.1212,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "The general consensus among my peers was that being constantly connected and active on these platfor...",
+          "score": 0.1143,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        },
+        {
+          "sentence": "That sparked real conversations about how we use technology and why.Now, I still use social media, b...",
+          "score": 0.1143,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "68cedfb070704463a4d9d4748052eef4.csv"
+        }
+      ]
+    }
+  ]
+}

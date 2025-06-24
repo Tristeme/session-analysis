@@ -1,0 +1,177 @@
+{
+  "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Nursing is often misunderstood and undervalued by those who don't see the full picture",
+    "\",\n    \"A personal experience with a compassionate nurse inspired the author's career choice",
+    "\",\n    \"Nursing involves chaos, adrenaline, and emotional challenges, not just compassion",
+    "\",\n    \"Despite the difficulties, the author chooses nursing because people and their stories matter",
+    "\",\n    \"The author wishes for greater appreciation of the emotional and human aspects of nursing"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "```json\n[\n    \"Nursing is often misunderstood and undervalued by those who don't see the full picture",
+      "keypoint_index": 1,
+      "best_match_sentence": "They  dont see the full picture.\nThe truth is i didnt grow up dreaming working in hospitals or working to know how to insert an iv.",
+      "best_match_score": 0.1905,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "top_3_matches": [
+        {
+          "sentence": "They  dont see the full picture.\nThe truth is i didnt grow up dreaming working in hospitals or worki...",
+          "score": 0.1905,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "she is the person who gave me light in one of my darkest seasons of my life.",
+          "score": 0.1212,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "she was present and available all through the hard moments and times .she was gentle, present, human...",
+          "score": 0.1143,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"A personal experience with a compassionate nurse inspired the author's career choice",
+      "keypoint_index": 2,
+      "best_match_sentence": "this is me as a nurse for sure, real.",
+      "best_match_score": 0.1818,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "top_3_matches": [
+        {
+          "sentence": "this is me as a nurse for sure, real.",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "I watched someone i loved fade on a hospital bed slowly at the hands of other nurses.",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "MORE THAN JUST A NURSE - REAL STORY BEHIND MY WHY.\nI am a nurse and the moment people here that, ass...",
+          "score": 0.125,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"Nursing involves chaos, adrenaline, and emotional challenges, not just compassion",
+      "keypoint_index": 3,
+      "best_match_sentence": "she was present and available all through the hard moments and times .she was gentle, present, human and just.",
+      "best_match_score": 0.1379,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "top_3_matches": [
+        {
+          "sentence": "she was present and available all through the hard moments and times .she was gentle, present, human...",
+          "score": 0.1379,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i wanted to be there for some one else as they did for me.\nnursing isnt just companssion and warm bl...",
+          "score": 0.1237,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "so there and then a dream was born.",
+          "score": 0.1111,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"Despite the difficulties, the author chooses nursing because people and their stories matter",
+      "keypoint_index": 4,
+      "best_match_sentence": "I wish that people would see what i see and appreciate it.",
+      "best_match_score": 0.16,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I wish that people would see what i see and appreciate it.",
+          "score": 0.16,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "when nothing did felt like enough, when i held them in my hands during their last breathe and had to...",
+          "score": 0.1351,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "she was present and available all through the hard moments and times .she was gentle, present, human...",
+          "score": 0.125,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"The author wishes for greater appreciation of the emotional and human aspects of nursing",
+      "keypoint_index": 5,
+      "best_match_sentence": "she is the person who gave me light in one of my darkest seasons of my life.",
+      "best_match_score": 0.1935,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "top_3_matches": [
+        {
+          "sentence": "she is the person who gave me light in one of my darkest seasons of my life.",
+          "score": 0.1935,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "she was present and available all through the hard moments and times .she was gentle, present, human...",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i have had moments when i have questioned everything in my life and why i chose the career and why i...",
+          "score": 0.1463,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    }
+  ]
+}

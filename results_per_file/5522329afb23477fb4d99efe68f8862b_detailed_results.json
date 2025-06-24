@@ -1,0 +1,183 @@
+{
+  "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+  "extracted_keypoints": [
+    "\",\n    \"Smartphones have become deeply integrated into daily routines, influencing habits and behaviors significantly",
+    "```json\n[\n    \"Smartphones offer unprecedented connectivity and convenience, allowing users to stay in touch with loved ones and access information easily",
+    "\",\n    \"The constant use of smartphones can negatively impact attention span, social interactions, and productivity due to frequent digital distractions",
+    "\",\n    \"Productivity apps on smartphones can help users organize tasks, set reminders, and achieve personal development goals",
+    "\",\n    \"Reliance on smartphones may diminish independent problem-solving skills and creative thinking"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Smartphones have become deeply integrated into daily routines, influencing habits and behaviors significantly",
+      "keypoint_index": 1,
+      "best_match_sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily routine, dictating my habits and behaviors more than I had anticipated.",
+      "best_match_score": 0.827,
+      "best_match_author": "API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.827,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "The convenience factor was undeniable; whether I was trying to find the quickest route to an appoint...",
+          "score": 0.6275,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "However, it wasn't all negative; there were undeniable benefits that made life more convenient.\n\nThe...",
+          "score": 0.5454,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "```json\n[\n    \"Smartphones offer unprecedented connectivity and convenience, allowing users to stay in touch with loved ones and access information easily",
+      "keypoint_index": 2,
+      "best_match_sentence": "I was amazed by how easily I could connect with friends, access information, and entertain.\n\nMy life My life quickly became intertwined with this little device, as it seemed to provide endless possibilities at my fingertips.",
+      "best_match_score": 0.5324,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I was amazed by how easily I could connect with friends, access information, and entertain.\n\nMy life...",
+          "score": 0.5324,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "The convenience factor was undeniable; whether I was trying to find the quickest route to an appoint...",
+          "score": 0.5277,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.4893,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"The constant use of smartphones can negatively impact attention span, social interactions, and productivity due to frequent digital distractions",
+      "keypoint_index": 3,
+      "best_match_sentence": "Tasks that required deep concentration became increasingly difficult to complete, as the allure of digital distractions grew stronger.",
+      "best_match_score": 0.6052,
+      "best_match_author": "API",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Tasks that required deep concentration became increasingly difficult to complete, as the allure of d...",
+          "score": 0.6052,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.5967,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "However, it wasn't all negative; there were undeniable benefits that made life more convenient.\n\nThe...",
+          "score": 0.5799,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Productivity apps on smartphones can help users organize tasks, set reminders, and achieve personal development goals",
+      "keypoint_index": 4,
+      "best_match_sentence": "Through these apps, I discovered a newfound sense of accomplishment in ticking off tasks and making progress towards personal development.",
+      "best_match_score": 0.6371,
+      "best_match_author": "API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Through these apps, I discovered a newfound sense of accomplishment in ticking off tasks and making ...",
+          "score": 0.6371,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "However, it wasn't all negative; there were undeniable benefits that made life more convenient.\n\nThe...",
+          "score": 0.5931,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.574,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Reliance on smartphones may diminish independent problem-solving skills and creative thinking",
+      "keypoint_index": 5,
+      "best_match_sentence": "However, this reliance also meant that I started losing some of my natural problem-solving skills.\n\nFinally, I began to recognize that my dependence on technology was diminishing my ability to think independently and creatively.",
+      "best_match_score": 0.6633,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, this reliance also meant that I started losing some of my natural problem-solving skills.\n\n...",
+          "score": 0.6633,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.5764,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "The convenience factor was undeniable; whether I was trying to find the quickest route to an appoint...",
+          "score": 0.5346,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

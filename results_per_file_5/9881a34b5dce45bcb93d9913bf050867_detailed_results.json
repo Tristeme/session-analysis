@@ -1,0 +1,177 @@
+{
+  "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Financial independence raises new questions about balancing personal aspirations and familial responsibilities",
+    "\",\n    \"Supporting aging parents is a priority, but it conflicts with personal well-being and career considerations",
+    "\",\n    \"Pursuing passions like making video games is appealing but risks career re-entry challenges",
+    "\",\n    \"The decision involves redefining success beyond a traditional career path to integrate personal growth and creativity",
+    "\",\n    \"Life's path is not static, and choices made now can evolve with changing priorities and circumstances"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "keypoint": "```json\n[\n    \"Financial independence raises new questions about balancing personal aspirations and familial responsibilities",
+      "keypoint_index": 1,
+      "best_match_sentence": "The decision isn't merely about leaving or staying it is about  finding a balance that honors both my personal aspirations and familial responsibilities.",
+      "best_match_score": 0.3243,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "20",
+      "best_match_filename": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The decision isn't merely about leaving or staying it is about  finding a balance that honors both m...",
+          "score": 0.3243,
+          "author": "user_and_api",
+          "sentence_id": "20",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "Now that I've finally attained financial independence through my job, I find myself in a new phase o...",
+          "score": 0.2553,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "Financial independence has given me the luxury of choice, yet it also comes with the responsibility ...",
+          "score": 0.15,
+          "author": "user_and_api",
+          "sentence_id": "16",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "keypoint": "\",\n    \"Supporting aging parents is a priority, but it conflicts with personal well-being and career considerations",
+      "keypoint_index": 2,
+      "best_match_sentence": "Balancing this responsibility with my own well-being is no easy task, and it often leaves me contemplating the possibility of leaving the workforce.",
+      "best_match_score": 0.2,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Balancing this responsibility with my own well-being is no easy task, and it often leaves me contemp...",
+          "score": 0.2,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "The decision isn't merely about leaving or staying it is about  finding a balance that honors both m...",
+          "score": 0.2,
+          "author": "user_and_api",
+          "sentence_id": "20",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "My love for my parents  compels me to prioritize their needs, but I also recognize the importance of...",
+          "score": 0.1951,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "keypoint": "\",\n    \"Pursuing passions like making video games is appealing but risks career re-entry challenges",
+      "keypoint_index": 3,
+      "best_match_sentence": "One of those passions is making video games, a hobby that has always brought me immense joy and satisfaction.",
+      "best_match_score": 0.2424,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "top_3_matches": [
+        {
+          "sentence": "One of those passions is making video games, a hobby that has always brought me immense joy and sati...",
+          "score": 0.2424,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "The thought of dedicating more time to this creative endeavor is incredibly appealing; however, ther...",
+          "score": 0.1569,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "Financial independence is supposed to be the goal and the dream, the finish line after decades of wo...",
+          "score": 0.087,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "keypoint": "\",\n    \"The decision involves redefining success beyond a traditional career path to integrate personal growth and creativity",
+      "keypoint_index": 4,
+      "best_match_sentence": "This could be an opportunity to redefine success beyond the confines of a traditional career path, embracing a holistic approach to life that integrates personal growth and creativity for myself This is anew opportunity to focus on what truly matters, beyond the constraints of a corporate job.",
+      "best_match_score": 0.3492,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "top_3_matches": [
+        {
+          "sentence": "This could be an opportunity to redefine success beyond the confines of a traditional career path, e...",
+          "score": 0.3492,
+          "author": "user_and_api",
+          "sentence_id": "18",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "It's about carving out a path that allows me to be present with my family, while also nurturing my o...",
+          "score": 0.25,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "The decision isn't merely about leaving or staying it is about  finding a balance that honors both m...",
+          "score": 0.25,
+          "author": "user_and_api",
+          "sentence_id": "20",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "keypoint": "\",\n    \"Life's path is not static, and choices made now can evolve with changing priorities and circumstances",
+      "keypoint_index": 5,
+      "best_match_sentence": "As I navigate this crossroads, I remind myself that life is not static, and the path I choose now doesn't have to be permanent.",
+      "best_match_score": 0.2857,
+      "best_match_author": "API",
+      "best_match_sentence_id": "21",
+      "best_match_filename": "9881a34b5dce45bcb93d9913bf050867.csv",
+      "top_3_matches": [
+        {
+          "sentence": "As I navigate this crossroads, I remind myself that life is not static, and the path I choose now do...",
+          "score": 0.2857,
+          "author": "api",
+          "sentence_id": "21",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "It's about carving out a path that allows me to be present with my family, while also nurturing my o...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        },
+        {
+          "sentence": "Setting aside time for myself would allow me to recharge and approach life's challenges with a renew...",
+          "score": 0.1667,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "9881a34b5dce45bcb93d9913bf050867.csv"
+        }
+      ]
+    }
+  ]
+}

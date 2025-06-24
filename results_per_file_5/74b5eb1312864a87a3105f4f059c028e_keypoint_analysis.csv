@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+74b5eb1312864a87a3105f4f059c028e.csv,1,"```json
+[
+    ""Maintaining a career provides financial independence and a sense of stability","Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",0.4444,API,3,74b5eb1312864a87a3105f4f059c028e.csv
+74b5eb1312864a87a3105f4f059c028e.csv,2,""",
+    ""Exploring flexible work options like remote or part-time jobs can help balance career and family responsibilities","I could also explore flexible working options, such as remote work or part-time positions, which might offer a healthier balance between career aspirations and family obligations.
+
+As a matter of fact, I think remote working will serve me well because: I'll be working in the comfort of my home, I can have more than one online job provided I am flexible enough to finish my work in time and also, I would have cut off transport cost from my bills.",0.202,USER_AND_API,6,74b5eb1312864a87a3105f4f059c028e.csv
+74b5eb1312864a87a3105f4f059c028e.csv,3,""",
+    ""Remote work offers benefits such as reduced commuting costs and more time for family care","The extra time I save from not commuting can be spent with my parents, ensuring they receive the attention and care they need as they age.",0.1463,API,7,74b5eb1312864a87a3105f4f059c028e.csv
+74b5eb1312864a87a3105f4f059c028e.csv,4,""",
+    ""Prioritizing self-care and mental health is crucial to avoid burnout","Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time for activities that rejuvenate my spirit and keep me grounded.",0.2632,API,9,74b5eb1312864a87a3105f4f059c028e.csv
+74b5eb1312864a87a3105f4f059c028e.csv,5,""",
+    ""Engaging with like-minded individuals can provide support and new opportunities","Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",0.2308,API,3,74b5eb1312864a87a3105f4f059c028e.csv

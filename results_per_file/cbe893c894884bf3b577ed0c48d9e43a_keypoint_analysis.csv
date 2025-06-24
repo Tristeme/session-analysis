@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+cbe893c894884bf3b577ed0c48d9e43a.csv,1,"```json
+[
+    ""Roller skating is a deeply personal and meaningful hobby for the narrator, providing joy and a sense of freedom",Roller skating has been more than just a hobby for me.,0.6376,USER_AND_API,4,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,2,""",
+    ""The narrator feels judged by others who perceive roller skating as childish or unprofessional","Despite knowing how crucial roller skating has been in my life, I still face judgment from others who see it as childish or attaching an age limit to it.",0.7515,USER_AND_API,13,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,3,""",
+    ""Roller skating has been a lifelong passion, offering an escape from life's pressures and even saving the narrator's life once",Skating became an expression of freedom and creativity—a way for me to escape from the pressures of life in the literal meaning.,0.7126,USER_AND_API,8,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,4,""",
+    ""The narrator chooses to express the value of skating through action rather than confrontation, emphasizing its ageless nature",I am not going to let external opinions affect who I am and what skating means to me.,0.6176,USER,21,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert
+cbe893c894884bf3b577ed0c48d9e43a.csv,5,""",
+    ""Hobbies and passions are personal, and individuals should embrace what brings them happiness despite external judgments","It seems that society often forgets that hobbies and passions are deeply personal, and what may seem trivial to one person can hold profound meaning for someone else.",0.7955,API,23,cbe893c894884bf3b577ed0c48d9e43a.csv,sentence-bert

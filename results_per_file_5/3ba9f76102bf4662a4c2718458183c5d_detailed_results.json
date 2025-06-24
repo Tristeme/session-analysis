@@ -1,0 +1,177 @@
+{
+  "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Questioning the necessity of college for success led to exploring alternative paths",
+    "\",\n    \"Stories of successful individuals without degrees inspired a shift in perspective",
+    "\",\n    \"Pursuing real-world skills and internships provided valuable learning experiences",
+    "\",\n    \"Mentors and nontraditional paths offered confidence and reassurance",
+    "\",\n    \"Resisting conformity led to personal growth and a fulfilling, purpose-driven life"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "```json\n[\n    \"Questioning the necessity of college for success led to exploring alternative paths",
+      "keypoint_index": 1,
+      "best_match_sentence": "I remember vividly the time when I found myself at odds with a commonly held belief about the necessity of attending college to be successful.",
+      "best_match_score": 0.2632,
+      "best_match_author": "API",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I remember vividly the time when I found myself at odds with a commonly held belief about the necess...",
+          "score": 0.2632,
+          "author": "api",
+          "sentence_id": "0",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "Despite the celebratory atmosphere, I remained steadfast in my decision to pursue an alternative pat...",
+          "score": 0.2143,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "I became more open to alternative learning paths and even started a small business during my gap yea...",
+          "score": 0.1765,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Stories of successful individuals without degrees inspired a shift in perspective",
+      "keypoint_index": 2,
+      "best_match_sentence": "I realized that questioning widely accepted beliefs is not a sign of rebellion, but a necessary step in finding one’s own direction.",
+      "best_match_score": 0.1765,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I realized that questioning widely accepted beliefs is not a sign of rebellion, but a necessary step...",
+          "score": 0.1765,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It led me to build a life rooted in curiosity, resilience, and self direction.",
+          "score": 0.16,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "I started exploring stories of people like Steve Jobs, Oprah Winfrey, and others who had carved thei...",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Pursuing real-world skills and internships provided valuable learning experiences",
+      "keypoint_index": 3,
+      "best_match_sentence": "This perspective shift encouraged me to focus more on developing real-world skills, pursuing internships, and learning through online platforms.",
+      "best_match_score": 0.3333,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "This perspective shift encouraged me to focus more on developing real-world skills, pursuing interns...",
+          "score": 0.3333,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "By stepping off the beaten path, I found clarity, confidence, and direction.",
+          "score": 0.0909,
+          "author": "user",
+          "sentence_id": "31",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It led me to build a life rooted in curiosity, resilience, and self direction.",
+          "score": 0.0833,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Mentors and nontraditional paths offered confidence and reassurance",
+      "keypoint_index": 4,
+      "best_match_sentence": "Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance I needed to keep moving forward.",
+      "best_match_score": 0.4444,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance...",
+          "score": 0.4444,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "By stepping off the beaten path, I found clarity, confidence, and direction.",
+          "score": 0.2,
+          "author": "user",
+          "sentence_id": "31",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "I have learned to trust my instincts, think critically about popular beliefs, and remain open to unc...",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "23",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Resisting conformity led to personal growth and a fulfilling, purpose-driven life",
+      "keypoint_index": 5,
+      "best_match_sentence": "It led me to build a life rooted in curiosity, resilience, and self direction.",
+      "best_match_score": 0.3077,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "21",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It led me to build a life rooted in curiosity, resilience, and self direction.",
+          "score": 0.3077,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It taught me that the courage to pursue one's unique path can lead to a richer, more fulfilling life...",
+          "score": 0.25,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "Looking back, resisting the pressure to conform was not just a choice, it was a defining moment of g...",
+          "score": 0.1935,
+          "author": "user",
+          "sentence_id": "24",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    }
+  ]
+}

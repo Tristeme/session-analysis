@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+02798ce9059241f49fa8b1d68cd8f406.csv,1,"```json
+[
+    ""The author's dream is to become a published author whose stories resonate globally","For me, that dream is becoming a published author, someone whose stories resonates with people across the world.",0.6252,USER,2,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,2,""",
+    ""Writing began as an escape and evolved into a serious pursuit with the goal of sharing stories with others","I've been writing for as long as I can remember, starting with short stories scribbled in my notebook during class, evolving into more complex narratives as I grew older.",0.6983,USER_AND_API,6,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,3,""",
+    ""The author has faced numerous rejections but views them as opportunities to improve and persevere","I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft further.",0.5794,API,16,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,4,""",
+    ""Daily writing has become a sanctuary for creativity and exploration of different worlds","Writing has become my sanctuary, a place where I can explore different worlds and perspectives without leaving the comfort of my own home.",0.7623,API,18,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert
+02798ce9059241f49fa8b1d68cd8f406.csv,5,""",
+    ""The author is motivated by the hope that their stories will inspire others, despite moments of doubt","what keeps me motivated  is the thought that my stories might one day inspire someone else, just as countless books have inspired me throughout my life.",0.6149,USER_AND_API,20,02798ce9059241f49fa8b1d68cd8f406.csv,sentence-bert

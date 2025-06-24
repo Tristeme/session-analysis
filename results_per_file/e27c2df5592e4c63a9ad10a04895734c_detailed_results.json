@@ -1,0 +1,183 @@
+{
+  "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Nursing is often misunderstood and undervalued by those who don't see the full picture",
+    "\",\n    \"A personal experience with a compassionate nurse inspired the author to pursue nursing",
+    "\",\n    \"Nursing involves chaos, anxiety, and emotional challenges beyond just compassion",
+    "\",\n    \"The author continues nursing because people and their stories matter deeply",
+    "\",\n    \"Nursing is a demanding yet rewarding profession that requires humanity and grit"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "```json\n[\n    \"Nursing is often misunderstood and undervalued by those who don't see the full picture",
+      "keypoint_index": 1,
+      "best_match_sentence": "But thre is this one nurse that stood out.",
+      "best_match_score": 0.4096,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "But thre is this one nurse that stood out.",
+          "score": 0.4096,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how...",
+          "score": 0.3714,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "this is me as a nurse for sure, real.",
+          "score": 0.3651,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"A personal experience with a compassionate nurse inspired the author to pursue nursing",
+      "keypoint_index": 2,
+      "best_match_sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .\nso yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",
+      "best_match_score": 0.6318,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how...",
+          "score": 0.6318,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "MORE THAN JUST A NURSE - REAL STORY BEHIND MY WHY.\nI am a nurse and the moment people here that, ass...",
+          "score": 0.5802,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i wanted to be there for some one else as they did for me.\nnursing isnt just companssion and warm bl...",
+          "score": 0.5664,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"Nursing involves chaos, anxiety, and emotional challenges beyond just compassion",
+      "keypoint_index": 3,
+      "best_match_sentence": "i wanted to be there for some one else as they did for me.\nnursing isnt just companssion and warm blankets , its chaos , its adrenaline, its pure anxiety and rush, its breathe taking, its something not just any one can handle with ease as it seems or thought to be.it is wiping tears it is having bad hard  conversations ,and sometimes seeking solace in the washrooms with tears rolling down cheeks for few min while trying to put one and yourself together.\nits literally not easy .",
+      "best_match_score": 0.6523,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "i wanted to be there for some one else as they did for me.\nnursing isnt just companssion and warm bl...",
+          "score": 0.6523,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how...",
+          "score": 0.594,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "MORE THAN JUST A NURSE - REAL STORY BEHIND MY WHY.\nI am a nurse and the moment people here that, ass...",
+          "score": 0.5581,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"The author continues nursing because people and their stories matter deeply",
+      "keypoint_index": 4,
+      "best_match_sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .\nso yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",
+      "best_match_score": 0.584,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how...",
+          "score": 0.584,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "But thre is this one nurse that stood out.",
+          "score": 0.5258,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "MORE THAN JUST A NURSE - REAL STORY BEHIND MY WHY.\nI am a nurse and the moment people here that, ass...",
+          "score": 0.5102,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "keypoint": "\",\n    \"Nursing is a demanding yet rewarding profession that requires humanity and grit",
+      "keypoint_index": 5,
+      "best_match_sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .\nso yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",
+      "best_match_score": 0.6688,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "e27c2df5592e4c63a9ad10a04895734c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how...",
+          "score": 0.6688,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "i wanted to be there for some one else as they did for me.\nnursing isnt just companssion and warm bl...",
+          "score": 0.5612,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        },
+        {
+          "sentence": "MORE THAN JUST A NURSE - REAL STORY BEHIND MY WHY.\nI am a nurse and the moment people here that, ass...",
+          "score": 0.5105,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e27c2df5592e4c63a9ad10a04895734c.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

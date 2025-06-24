@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+9008171846a64bddb019c06cfc482c35.csv,1,"```json
+[
+    ""The writer became obsessed with their first smartphone, a Samsung S10 Plus, which affected their daily life and academic performance","It was a very nice Samsung phone, the S10 plus.",0.5153,USER,2,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,2,""",
+    ""Social media apps like Instagram and Twitter were particularly addictive, leading to neglect of studies",At first I was overwhelmed by everything on social media that I even forgot my studies.,0.5858,USER,10,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,3,""",
+    ""The writer's parents intervened, teaching them to use the phone for educational purposes, which helped improve their grades","Eventually my parents found out, sat me down and we came to an understanding.
+ 
+My parents showed me how to use my phone for good, like setting reminders and using educational apps that could complement my studies.",0.6564,USER_AND_API,15,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,4,""",
+    ""Despite using the phone as a tool for good, the writer became isolated, focusing too much on digital content and neglecting real-life interactions",It was a game-changer for me; I began to see my phone as more than just a distraction but rather as a tool that could help me in various aspects of life.,0.5536,API,16,9008171846a64bddb019c06cfc482c35.csv,sentence-bert
+9008171846a64bddb019c06cfc482c35.csv,5,""",
+    ""The writer is currently trying to balance technology use with real-life experiences by socializing more and seeking advice from others","Title: how tech took over my life'
+Hi guys,
+I wanted to share a story and see who else has been through something similar.",0.5419,USER,0,9008171846a64bddb019c06cfc482c35.csv,sentence-bert

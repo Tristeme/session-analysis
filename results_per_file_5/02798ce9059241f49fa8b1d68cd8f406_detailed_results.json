@@ -1,0 +1,177 @@
+{
+  "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author's dream is to become a published author whose stories resonate globally",
+    "\",\n    \"Writing began as an escape and evolved into a serious pursuit involving study and practice",
+    "\",\n    \"Rejection is viewed as an opportunity for growth and improvement in writing skills",
+    "\",\n    \"Daily writing is a sanctuary and a way to explore creativity and imagination",
+    "\",\n    \"The author is motivated by the hope of inspiring others with their stories"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "keypoint": "```json\n[\n    \"The author's dream is to become a published author whose stories resonate globally",
+      "keypoint_index": 1,
+      "best_match_sentence": "For me, that dream is becoming a published author, someone whose stories resonates with people across the world.",
+      "best_match_score": 0.4242,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "top_3_matches": [
+        {
+          "sentence": "For me, that dream is becoming a published author, someone whose stories resonates with people acros...",
+          "score": 0.4242,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I imagine of getting into a bookstore and seeing someone flip through a copy of my books completely ...",
+          "score": 0.1633,
+          "author": "user_and_api",
+          "sentence_id": "21",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "That's the dream that  keeps me motivated, even when the path seems unclear and the rejections pile ...",
+          "score": 0.1176,
+          "author": "user_and_api",
+          "sentence_id": "5",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "keypoint": "\",\n    \"Writing began as an escape and evolved into a serious pursuit involving study and practice",
+      "keypoint_index": 2,
+      "best_match_sentence": "Writing for me started as an escape.",
+      "best_match_score": 0.3636,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Writing for me started as an escape.",
+          "score": 0.3636,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft fur...",
+          "score": 0.1714,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "Writing has become my sanctuary, a place where I can explore different worlds and perspectives witho...",
+          "score": 0.1579,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "keypoint": "\",\n    \"Rejection is viewed as an opportunity for growth and improvement in writing skills",
+      "keypoint_index": 3,
+      "best_match_sentence": "I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft further.",
+      "best_match_score": 0.303,
+      "best_match_author": "API",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft fur...",
+          "score": 0.303,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "Writing for me started as an escape.",
+          "score": 0.2,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I was the quite kid in school, the one who always had a notebook in their backpack and ideas bouncin...",
+          "score": 0.1081,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "keypoint": "\",\n    \"Daily writing is a sanctuary and a way to explore creativity and imagination",
+      "keypoint_index": 4,
+      "best_match_sentence": "Writing has become my sanctuary, a place where I can explore different worlds and perspectives without leaving the comfort of my own home.",
+      "best_match_score": 0.2778,
+      "best_match_author": "API",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Writing has become my sanctuary, a place where I can explore different worlds and perspectives witho...",
+          "score": 0.2778,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I learned to view rejection not as a failure, but as an opportunity to improve and hone my craft fur...",
+          "score": 0.1818,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I would write during lunchbreaks, after school and sometimes under the covers with a flashlight when...",
+          "score": 0.1714,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "keypoint": "\",\n    \"The author is motivated by the hope of inspiring others with their stories",
+      "keypoint_index": 5,
+      "best_match_sentence": "It's a place where I can test the boundaries of my imagination and let my creativity run wild, unhindered by the constraints of reality.",
+      "best_match_score": 0.2105,
+      "best_match_author": "API",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "02798ce9059241f49fa8b1d68cd8f406.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It's a place where I can test the boundaries of my imagination and let my creativity run wild, unhin...",
+          "score": 0.2105,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "That's the dream that  keeps me motivated, even when the path seems unclear and the rejections pile ...",
+          "score": 0.1875,
+          "author": "user_and_api",
+          "sentence_id": "5",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        },
+        {
+          "sentence": "I imagine of getting into a bookstore and seeing someone flip through a copy of my books completely ...",
+          "score": 0.1702,
+          "author": "user_and_api",
+          "sentence_id": "21",
+          "filename": "02798ce9059241f49fa8b1d68cd8f406.csv"
+        }
+      ]
+    }
+  ]
+}

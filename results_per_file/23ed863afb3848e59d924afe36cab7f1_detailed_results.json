@@ -1,0 +1,183 @@
+{
+  "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The speaker shares an experience of being amazed by AI technology that maps emotions",
+    "\",\n    \"The speaker reflects on the impact of technology on personal connections and presence",
+    "\",\n    \"Technology has woven itself into every aspect of life, reshaping interactions and perceptions",
+    "\",\n    \"The speaker expresses a longing for simpler times with genuine face-to-face interactions",
+    "\",\n    \"Constant connectivity through technology can lead to loneliness and insecurity"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "```json\n[\n    \"The speaker shares an experience of being amazed by AI technology that maps emotions",
+      "keypoint_index": 1,
+      "best_match_sentence": "So you all know the world and the days we are living in , the generation of technology ,AI ,Blockchain and web3 and its quite fascinating especially for old men like us ,though really interesting as well huh, But yes ,Here goes my story  so I was at a bar on one fine Saturday and a group of really young students came and sat next to me and they were all talking about bitcoin ,web3.\nOne of them looked at me with a proud face and said an AI product that does emotions mapping ,and I was sort of shocked about what technology can do but I was  all ears.",
+      "best_match_score": 0.5898,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "So you all know the world and the days we are living in , the generation of technology ,AI ,Blockcha...",
+          "score": 0.5898,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "This young man continues to say that the AI tool listens to your tones and gives a result on the typ...",
+          "score": 0.5878,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every asp...",
+          "score": 0.3946,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"The speaker reflects on the impact of technology on personal connections and presence",
+      "keypoint_index": 2,
+      "best_match_sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",
+      "best_match_score": 0.5547,
+      "best_match_author": "API",
+      "best_match_sentence_id": "10",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every asp...",
+          "score": 0.5547,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "Now I'm more mindful of how I use it, trying to strike a balance between the convenience it offers a...",
+          "score": 0.5328,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "It's as if the more connected we are through screens, the more disconnected we feel in reality.",
+          "score": 0.5071,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"Technology has woven itself into every aspect of life, reshaping interactions and perceptions",
+      "keypoint_index": 3,
+      "best_match_sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",
+      "best_match_score": 0.7272,
+      "best_match_author": "API",
+      "best_match_sentence_id": "10",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every asp...",
+          "score": 0.7272,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "So you all know the world and the days we are living in , the generation of technology ,AI ,Blockcha...",
+          "score": 0.4785,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "It's as if the more connected we are through screens, the more disconnected we feel in reality.",
+          "score": 0.4486,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"The speaker expresses a longing for simpler times with genuine face-to-face interactions",
+      "keypoint_index": 4,
+      "best_match_sentence": "Yet, despite its omnipresence, I found myself yearning for simpler times when face-to-face conversations weren't interrupted by buzzing notifications or the allure of scrolling through endless feeds.",
+      "best_match_score": 0.4856,
+      "best_match_author": "API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Yet, despite its omnipresence, I found myself yearning for simpler times when face-to-face conversat...",
+          "score": 0.4856,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "One of the students chimed in, sharing their own experience of feeling pressured to maintain a perfe...",
+          "score": 0.3937,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.388,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"Constant connectivity through technology can lead to loneliness and insecurity",
+      "keypoint_index": 5,
+      "best_match_sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",
+      "best_match_score": 0.7177,
+      "best_match_author": "API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.7177,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "It's as if the more connected we are through screens, the more disconnected we feel in reality.",
+          "score": 0.553,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "As I sat there sharing my story, I realized just how much technology had woven itself into every asp...",
+          "score": 0.4418,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

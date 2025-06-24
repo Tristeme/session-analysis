@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+74b5eb1312864a87a3105f4f059c028e.csv,1,"```json
+[
+    ""Staying active in a career provides financial independence and personal fulfillment",It’s important to consider the balance between personal fulfillment and professional responsibilities.,0.4399,API,4,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,2,""",
+    ""Maintaining a routine offers stability and purpose during challenging times","Additionally, maintaining a routine can provide a sense of stability and purpose during challenging times.",0.9292,API,3,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,3,""",
+    ""Remote work can balance career aspirations with family obligations and reduce commuting costs","I could also explore flexible working options, such as remote work or part-time positions, which might offer a healthier balance between career aspirations and family obligations.
+
+As a matter of fact, I think remote working will serve me well because: I'll be working in the comfort of my home, I can have more than one online job provided I am flexible enough to finish my work in time and also, I would have cut off transport cost from my bills.",0.7825,USER_AND_API,6,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,4,""",
+    ""Prioritizing self-care and mental health is crucial to avoid burnout","Therefore, it's crucial to prioritize self-care and mental health, ensuring that I carve out time for activities that rejuvenate my spirit and keep me grounded.",0.7314,API,9,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert
+74b5eb1312864a87a3105f4f059c028e.csv,5,""",
+    ""Connecting with like-minded individuals can provide support and new opportunities","Online forums or local community groups might be valuable resources where I can exchange ideas, gain insights, and even find solace and feel free even if it's just for a few hours in a day.
+
+ Engaging with like-minded individuals could also offer new perspectives on managing life's complexities, and perhaps even lead to collaborations or opportunities in the gaming industry.",0.5638,USER_AND_API,11,74b5eb1312864a87a3105f4f059c028e.csv,sentence-bert

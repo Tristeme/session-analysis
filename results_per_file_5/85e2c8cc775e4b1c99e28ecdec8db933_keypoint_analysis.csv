@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+85e2c8cc775e4b1c99e28ecdec8db933.csv,1,"```json
+[
+    ""Transitioning from a successful career to focus on video game development and family","Secondly, i need to enroll for an online refresher class on video game development.",0.3571,USER,9,85e2c8cc775e4b1c99e28ecdec8db933.csv
+85e2c8cc775e4b1c99e28ecdec8db933.csv,2,""",
+    ""Balancing personal fulfillment with professional obligations, prioritizing family support","I have always loved taking on challenges and i have always believed that life is about striking a balance between personal fulfillment and professional obligations, but now it seems the scales are tipping towards the former.",0.1778,USER_AND_API,4,85e2c8cc775e4b1c99e28ecdec8db933.csv
+85e2c8cc775e4b1c99e28ecdec8db933.csv,3,""",
+    ""Planning to set up a home office for game development and managing family emergencies","Secondly, i need to enroll for an online refresher class on video game development.",0.2857,USER,9,85e2c8cc775e4b1c99e28ecdec8db933.csv
+85e2c8cc775e4b1c99e28ecdec8db933.csv,4,""",
+    ""Importance of discussing transition plans with spouse and enrolling in refresher courses",Come along with me and see where this new adventure takes us!,0.1667,USER,3,85e2c8cc775e4b1c99e28ecdec8db933.csv
+85e2c8cc775e4b1c99e28ecdec8db933.csv,5,""",
+    ""Excitement and determination to pursue passions while supporting elderly parents",The prospect of waking up every morning with the freedom to create worlds in video games while having the flexibility to support my elderly parents.,0.2286,USER_AND_API,14,85e2c8cc775e4b1c99e28ecdec8db933.csv

@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,1,"```json
+[
+    ""The dream of becoming a teacher is driven by a passion for helping others and sharing knowledge","Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",0.4864,API,23,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,2,""",
+    ""Perseverance and overcoming setbacks are essential to achieving the goal of becoming a teacher","The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",0.6508,API,6,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,3,""",
+    ""Learning from current teachers and reflecting on the desired teaching style helps maintain focus","Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",0.5857,API,23,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,4,""",
+    ""The aspiration to create a supportive and inspiring classroom environment motivates continued effort","I picture myself creating an environment where each student feels valued, heard, and understood—a place where their unique talents can flourish.",0.512,API,28,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,5,""",
+    ""Dedication, hard work, and support from family and friends are crucial in pursuing the teaching dream","The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",0.5707,API,6,ba2fb5ac4f7c49329aac1a02beb8f56f.csv,sentence-bert

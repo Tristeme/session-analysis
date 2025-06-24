@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+404584fca7644259b171a932c5fd397c.csv,1,"```json
+[
+    ""Achieving financial independence allows choices based on personal satisfaction rather than necessity","having achieved financial independence  through my job, I find myself in a unique position where I can make choices based on personal satisfaction rather than financial necessity.",0.6355,USER_AND_API,0,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,2,""",
+    ""Balancing family care and personal challenges is crucial, with a focus on supporting aging parents","My parents are aging, and their need for support has become more pronounced over the years.",0.658,API,4,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,3,""",
+    ""Exploring video game development as a creative outlet and potential income source","Apart from being a hobby, video games when monetized well can be a viable source of income, allowing me to maintain a level of  security without the pressures of a traditional job.",0.7014,USER_AND_API,11,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,4,""",
+    ""Leaving the workforce offers time to pursue interests and passions deeply","While the idea of leaving my career behind is daunting, I recognize that stepping away from the workforce may grant me the time and space to explore my interests and passions more deeply.",0.8384,API,8,404584fca7644259b171a932c5fd397c.csv,sentence-bert
+404584fca7644259b171a932c5fd397c.csv,5,""",
+    ""Skills and experience in tech provide a foundation for potential reintegration into the industry","Skills in the tech industry are often transferable, and staying engaged with my hobby of game development would help me remain relevant and up-to-date with industry trends.",0.6635,API,16,404584fca7644259b171a932c5fd397c.csv,sentence-bert

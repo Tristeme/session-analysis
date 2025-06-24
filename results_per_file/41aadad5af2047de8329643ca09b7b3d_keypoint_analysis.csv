@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+41aadad5af2047de8329643ca09b7b3d.csv,1,"```json
+[
+    ""The author has a deep passion for helping others, which led them into medicine",it's what led me into medicine.,0.4218,USER,3,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,2,""",
+    ""They discovered travel entrepreneurship and the concept of wellness retreats as a way to combine their medical expertise with their love for travel","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.7388,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,3,""",
+    ""Wellness retreats offer a holistic approach to healing, merging medicine and travel","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.8962,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,4,""",
+    ""Balancing work, family, and a new business venture is challenging but fuels the author's determination","Balancing work, school, family and this business can feel like juggling fire while walking a tightrope.
+ Yet, every morning, I wake up with a renewed sense of determination, fueled by the vision of what I hope to achieve.",0.5357,USER_AND_API,17,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert
+41aadad5af2047de8329643ca09b7b3d.csv,5,""",
+    ""The dream of creating wellness retreats represents financial freedom and a life beyond current limitations","Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",0.7394,API,13,41aadad5af2047de8329643ca09b7b3d.csv,sentence-bert

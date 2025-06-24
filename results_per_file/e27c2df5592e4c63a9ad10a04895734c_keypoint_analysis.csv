@@ -1,0 +1,17 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+e27c2df5592e4c63a9ad10a04895734c.csv,1,"```json
+[
+    ""Nursing is often misunderstood and undervalued by those who don't see the full picture",But thre is this one nurse that stood out.,0.4096,USER,5,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,2,""",
+    ""A personal experience with a compassionate nurse inspired the author to pursue nursing","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.6318,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,3,""",
+    ""Nursing involves chaos, anxiety, and emotional challenges beyond just compassion","i wanted to be there for some one else as they did for me.
+nursing isnt just companssion and warm blankets , its chaos , its adrenaline, its pure anxiety and rush, its breathe taking, its something not just any one can handle with ease as it seems or thought to be.it is wiping tears it is having bad hard  conversations ,and sometimes seeking solace in the washrooms with tears rolling down cheeks for few min while trying to put one and yourself together.
+its literally not easy .",0.6523,USER,11,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,4,""",
+    ""The author continues nursing because people and their stories matter deeply","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.584,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert
+e27c2df5592e4c63a9ad10a04895734c.csv,5,""",
+    ""Nursing is a demanding yet rewarding profession that requires humanity and grit","i wish  people woiuld see this part of nursing,not just the helping part,but the hurt behind it, how it hurts to see all we see , the heart being it, the art behind it,the grit the humanity and what it takes to be one .
+so yeah am a certified nurse but also a sister a friend a flawed messy funny person who found purpose in a profession that asks a lot but gives a lot too.",0.6688,USER,16,e27c2df5592e4c63a9ad10a04895734c.csv,sentence-bert

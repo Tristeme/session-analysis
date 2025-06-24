@@ -1,0 +1,183 @@
+{
+  "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Balancing personal life and career becomes challenging as we or our parents age",
+    "\",\n    \"Retirement is often more stressful than expected due to emotional and financial concerns",
+    "\",\n    \"Caring for aging parents raises questions about time, energy, and financial resources",
+    "\",\n    \"Guilt arises from juggling caregiving responsibilities and personal needs",
+    "\",\n    \"Self-care is crucial to maintain well-being while managing caregiving duties"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "keypoint": "```json\n[\n    \"Balancing personal life and career becomes challenging as we or our parents age",
+      "keypoint_index": 1,
+      "best_match_sentence": "We need to tend to things in our personal lives that come before our careers.",
+      "best_match_score": 0.5601,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "We need to tend to things in our personal lives that come before our careers.",
+          "score": 0.5601,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "We need to take care of ourselves and practice diligent self-care as we age.",
+          "score": 0.4017,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "As our parents get older, or in some cases as WE ourselves get older, there are decisions to be made...",
+          "score": 0.4006,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "keypoint": "\",\n    \"Retirement is often more stressful than expected due to emotional and financial concerns",
+      "keypoint_index": 2,
+      "best_match_sentence": "Some think getting older and closer to retirement age should be LESS of a burden on our emotional and financial stability.",
+      "best_match_score": 0.7276,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "7",
+      "best_match_filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Some think getting older and closer to retirement age should be LESS of a burden on our emotional an...",
+          "score": 0.7276,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "The idea of retirement isn't a carefree time at all.",
+          "score": 0.5745,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "In addition to the emotional strain, there's a huge financial component to consider.",
+          "score": 0.5532,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "keypoint": "\",\n    \"Caring for aging parents raises questions about time, energy, and financial resources",
+      "keypoint_index": 3,
+      "best_match_sentence": "Do I have the time to devote to care for an aging parent?",
+      "best_match_score": 0.6611,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Do I have the time to devote to care for an aging parent?",
+          "score": 0.6611,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "Would I have to sacrifice my free time with my grandchildren to care for my mother or father?",
+          "score": 0.576,
+          "author": "user",
+          "sentence_id": "22",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "We are MORE stressed about the care required for our health needs and those of older family members.",
+          "score": 0.5513,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "keypoint": "\",\n    \"Guilt arises from juggling caregiving responsibilities and personal needs",
+      "keypoint_index": 4,
+      "best_match_sentence": "We question whether we are doing enough for our loved ones, yet feel guilty about neglecting our own needs and passions.",
+      "best_match_score": 0.6393,
+      "best_match_author": "API",
+      "best_match_sentence_id": "27",
+      "best_match_filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "We question whether we are doing enough for our loved ones, yet feel guilty about neglecting our own...",
+          "score": 0.6393,
+          "author": "api",
+          "sentence_id": "27",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "Guilt Becomes an issue at this point.",
+          "score": 0.5852,
+          "author": "user",
+          "sentence_id": "26",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "However, it's important to remember that taking care of ourselves is just as important, if not more,...",
+          "score": 0.5208,
+          "author": "user_and_api",
+          "sentence_id": "29",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "keypoint": "\",\n    \"Self-care is crucial to maintain well-being while managing caregiving duties",
+      "keypoint_index": 5,
+      "best_match_sentence": "However, it's important to remember that taking care of ourselves is just as important, if not more, than taking care of someone else's needs.",
+      "best_match_score": 0.6886,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "29",
+      "best_match_filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, it's important to remember that taking care of ourselves is just as important, if not more,...",
+          "score": 0.6886,
+          "author": "user_and_api",
+          "sentence_id": "29",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "We need to take care of ourselves and practice diligent self-care as we age.",
+          "score": 0.5717,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        },
+        {
+          "sentence": "I am at the age where my parents are both gone and my own children will have to deal with some of th...",
+          "score": 0.511,
+          "author": "user",
+          "sentence_id": "32",
+          "filename": "f2f5a3fa40e7481586f194f9f1697ae4.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

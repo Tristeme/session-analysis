@@ -1,0 +1,183 @@
+{
+  "source_file": "7086f19b8538427298d19fca51447521.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The dream is to create a community learning center blending mentorship, career development, and mental wellness",
+    "\",\n    \"Personal struggles and community observations fuel the vision to prevent others from feeling isolated or hopeless",
+    "\",\n    \"The journey involves overcoming financial challenges, burnout, and self-doubt while gaining experience and making connections",
+    "\",\n    \"Patience is crucial as every step and detour teaches valuable lessons, with the dream rooted in love, resilience, and empathy",
+    "\",\n    \"The vision is communal, involving collaboration and collective action to create pathways and a sense of belonging for others"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "```json\n[\n    \"The dream is to create a community learning center blending mentorship, career development, and mental wellness",
+      "keypoint_index": 1,
+      "best_match_sentence": "The community learning center isn't just a dream—it's becoming a testament to resilience, cooperation, and the relentless pursuit of something meaningful.",
+      "best_match_score": 0.6291,
+      "best_match_author": "API",
+      "best_match_sentence_id": "38",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The community learning center isn't just a dream—it's becoming a testament to resilience, cooperatio...",
+          "score": 0.6291,
+          "author": "api",
+          "sentence_id": "38",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "To create a community learning center that blenda mentorship, career development, and mental wellnes...",
+          "score": 0.6073,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Even when progress is slow, I hold onto the vision of the learning center bustling with life and lau...",
+          "score": 0.4543,
+          "author": "api",
+          "sentence_id": "42",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"Personal struggles and community observations fuel the vision to prevent others from feeling isolated or hopeless",
+      "keypoint_index": 2,
+      "best_match_sentence": "I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.\nThe journey so far?",
+      "best_match_score": 0.5518,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "10",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I dont want others to feel that kind of isolation or hopelessness when their potential is limitless....",
+          "score": 0.5518,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is a...",
+          "score": 0.5268,
+          "author": "api",
+          "sentence_id": "35",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "These gatherings have not only strengthened my resolve but have also shown me the power of collectiv...",
+          "score": 0.5023,
+          "author": "api",
+          "sentence_id": "34",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The journey involves overcoming financial challenges, burnout, and self-doubt while gaining experience and making connections",
+      "keypoint_index": 3,
+      "best_match_sentence": "I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.\nThe journey so far?",
+      "best_match_score": 0.5246,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "10",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I dont want others to feel that kind of isolation or hopelessness when their potential is limitless....",
+          "score": 0.5246,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "With every hurdle faced and every barrier broken , I feel a renewed sense of purpose, knowing that w...",
+          "score": 0.5236,
+          "author": "api",
+          "sentence_id": "39",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "My early life was marked by instability, self doubt, and limited guidance.",
+          "score": 0.4917,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"Patience is crucial as every step and detour teaches valuable lessons, with the dream rooted in love, resilience, and empathy",
+      "keypoint_index": 4,
+      "best_match_sentence": "Patience.",
+      "best_match_score": 0.5662,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Patience.",
+          "score": 0.5662,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Even when progress is slow, I hold onto the vision of the learning center bustling with life and lau...",
+          "score": 0.4751,
+          "author": "api",
+          "sentence_id": "42",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "But I've come to realize that every step, every detour, teaches me something valuable.",
+          "score": 0.4294,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The vision is communal, involving collaboration and collective action to create pathways and a sense of belonging for others",
+      "keypoint_index": 5,
+      "best_match_sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is also communal—it belongs to everyone who believes in a better future.",
+      "best_match_score": 0.6605,
+      "best_match_author": "API",
+      "best_match_sentence_id": "35",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is a...",
+          "score": 0.6605,
+          "author": "api",
+          "sentence_id": "35",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "These gatherings have not only strengthened my resolve but have also shown me the power of collectiv...",
+          "score": 0.5626,
+          "author": "api",
+          "sentence_id": "34",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "We've organized community events, bringing together diverse voices to discuss the challenges and dre...",
+          "score": 0.5464,
+          "author": "api",
+          "sentence_id": "33",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

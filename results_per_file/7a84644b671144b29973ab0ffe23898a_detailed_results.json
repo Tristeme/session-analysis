@@ -1,0 +1,183 @@
+{
+  "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Breaking the poverty cycle involves improving access to basic needs, healthcare, and education",
+    "\",\n    \"An online donation platform was created to fund these initiatives, but initial funding was insufficient",
+    "\",\n    \"Community efforts focused on health education, clean water access, and sanitation improvements",
+    "\",\n    \"Government and private organizations eventually supported the project with funding and resources",
+    "\",\n    \"Education and skill development are crucial for economic improvement and breaking the poverty cycle"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "```json\n[\n    \"Breaking the poverty cycle involves improving access to basic needs, healthcare, and education",
+      "keypoint_index": 1,
+      "best_match_sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with thoughts on how to break the poverty cycle in the community by making everyone afford their basic needs and help them keep the health more strong by having the best medical care and educate them on eating healthy foods.",
+      "best_match_score": 0.5406,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with...",
+          "score": 0.5406,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "By beating the poverty in the community means a bright future for the next generation thus reducing ...",
+          "score": 0.5137,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.4476,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"An online donation platform was created to fund these initiatives, but initial funding was insufficient",
+      "keypoint_index": 2,
+      "best_match_sentence": "Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.\n\nThe other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",
+      "best_match_score": 0.4621,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.4621,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "By beating the poverty in the community means a bright future for the next generation thus reducing ...",
+          "score": 0.4529,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "I remember one particularly frustrating period when our well-intended initiatives seemed to have lit...",
+          "score": 0.4216,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Community efforts focused on health education, clean water access, and sanitation improvements",
+      "keypoint_index": 3,
+      "best_match_sentence": "Luck of enough funds caused a lot of pushbacks from members of the community as they thought the progress would never happen in any time from then but that made me more motivated to prove them that anything is possible.\nOn the health side which was was my priority, me and a group of my friends organized groups from the community to educate them on the importance of having clean water and eating healthy, we cleaned the waste systems, helped build modern toilets in schools to protect the children.",
+      "best_match_score": 0.5694,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Luck of enough funds caused a lot of pushbacks from members of the community as they thought the pro...",
+          "score": 0.5694,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "After the hard work, one of the local leaders helped us dig a well to provide clean water to most fa...",
+          "score": 0.5444,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.479,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Government and private organizations eventually supported the project with funding and resources",
+      "keypoint_index": 4,
+      "best_match_sentence": "Seeing that my project was moving in the right direction, government, private education and health organization moved in to help my dream come true, they  donated money to push the movement forward.\n\nThe other main idea was to break the poverty cycle by at least equipping individuals with the right knowledge, skills and opportunity to  improve their economic prospective and for this to be achieved resources like important books , modern technology access with high qualified teachers must the available in schools.",
+      "best_match_score": 0.6057,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.6057,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Government officials volunteered to provide all that and also help most people have access to higher...",
+          "score": 0.4904,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Luck of enough funds caused a lot of pushbacks from members of the community as they thought the pro...",
+          "score": 0.4581,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Education and skill development are crucial for economic improvement and breaking the poverty cycle",
+      "keypoint_index": 5,
+      "best_match_sentence": "By prioritizing the best education, its the best way to cut poverty cycle and create best paths for financial stability and more self improvement.\n\nIt was all a dream achieved but the challenges were many and the road was not always smooth.",
+      "best_match_score": 0.6306,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "By prioritizing the best education, its the best way to cut poverty cycle and create best paths for ...",
+          "score": 0.6306,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.5253,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with...",
+          "score": 0.5215,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

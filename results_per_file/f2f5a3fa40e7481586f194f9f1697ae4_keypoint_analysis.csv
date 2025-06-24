@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+f2f5a3fa40e7481586f194f9f1697ae4.csv,1,"```json
+[
+    ""Balancing personal life and career becomes challenging as we or our parents age",We need to tend to things in our personal lives that come before our careers.,0.5601,USER,1,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,2,""",
+    ""Retirement is often more stressful than expected due to emotional and financial concerns",Some think getting older and closer to retirement age should be LESS of a burden on our emotional and financial stability.,0.7276,USER,7,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,3,""",
+    ""Caring for aging parents raises questions about time, energy, and financial resources",Do I have the time to devote to care for an aging parent?,0.6611,USER,16,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,4,""",
+    ""Guilt arises from juggling caregiving responsibilities and personal needs","We question whether we are doing enough for our loved ones, yet feel guilty about neglecting our own needs and passions.",0.6393,API,27,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert
+f2f5a3fa40e7481586f194f9f1697ae4.csv,5,""",
+    ""Self-care is crucial to maintain well-being while managing caregiving duties","However, it's important to remember that taking care of ourselves is just as important, if not more, than taking care of someone else's needs.",0.6886,USER_AND_API,29,f2f5a3fa40e7481586f194f9f1697ae4.csv,sentence-bert

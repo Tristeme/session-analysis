@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+23ed863afb3848e59d924afe36cab7f1.csv,1,"```json
+[
+    ""Technology, including AI and blockchain, fascinates older generations but also raises concerns",The students were quiet for a minute and I told them that technology gave me the world sure but it took pieces of my presence.,0.1053,USER,8,23ed863afb3848e59d924afe36cab7f1.csv
+23ed863afb3848e59d924afe36cab7f1.csv,2,""",
+    ""AI tools can map emotions by analyzing tones, sparking discussions about privacy and technology's impact",This young man continues to say that the AI tool listens to your tones and gives a result on the type of emotion someone might be encountering.,0.1395,USER,2,23ed863afb3848e59d924afe36cab7f1.csv
+23ed863afb3848e59d924afe36cab7f1.csv,3,""",
+    ""Technology offers convenience but can lead to a loss of genuine human connections","I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",0.2857,API,13,23ed863afb3848e59d924afe36cab7f1.csv
+23ed863afb3848e59d924afe36cab7f1.csv,4,""",
+    ""Constant connectivity can result in loneliness and a sense of disconnection from reality","I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",0.3429,API,13,23ed863afb3848e59d924afe36cab7f1.csv
+23ed863afb3848e59d924afe36cab7f1.csv,5,""",
+    ""Online comparison can cause insecurity and pressure to maintain a perfect persona","One of the students chimed in, sharing their own experience of feeling pressured to maintain a perfect online persona, which often left them feeling exhausted and inauthentic.",0.2564,API,16,23ed863afb3848e59d924afe36cab7f1.csv

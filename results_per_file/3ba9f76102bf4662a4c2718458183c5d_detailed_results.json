@@ -1,0 +1,183 @@
+{
+  "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Questioning the necessity of college for success led to exploring alternative paths",
+    "\",\n    \"Stories of successful individuals without degrees inspired a focus on real-world skills",
+    "\",\n    \"Choosing an unconventional path fostered personal growth and self-discovery",
+    "\",\n    \"Mentors supporting nontraditional paths provided confidence and reassurance",
+    "\",\n    \"Embracing the unconventional led to opportunities aligned with passions and skills"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "```json\n[\n    \"Questioning the necessity of college for success led to exploring alternative paths",
+      "keypoint_index": 1,
+      "best_match_sentence": "However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",
+      "best_match_score": 0.5208,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and ...",
+          "score": 0.5208,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "I remember vividly the time when I found myself at odds with a commonly held belief about the necess...",
+          "score": 0.504,
+          "author": "api",
+          "sentence_id": "0",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "The pressure to conform was immense, and teachers as well as peers seemed to emphasize that college ...",
+          "score": 0.4469,
+          "author": "api",
+          "sentence_id": "2",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Stories of successful individuals without degrees inspired a focus on real-world skills",
+      "keypoint_index": 2,
+      "best_match_sentence": "However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and innovators achieved success without a traditional achieved success without a traditional college degree?",
+      "best_match_score": 0.6009,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "However, I couldn't help but question this narrative; after all, hadn't countless entrepreneurs and ...",
+          "score": 0.6009,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "This perspective shift encouraged me to focus more on developing real-world skills, pursuing interns...",
+          "score": 0.5244,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "They reminded me that growth often happens outside of comfort zones and that success is deeply perso...",
+          "score": 0.5097,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Choosing an unconventional path fostered personal growth and self-discovery",
+      "keypoint_index": 3,
+      "best_match_sentence": "As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",
+      "best_match_score": 0.6748,
+      "best_match_author": "API",
+      "best_match_sentence_id": "26",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "As I continued on my unconventional journey, I discovered niches and opportunities that aligned with...",
+          "score": 0.6748,
+          "author": "api",
+          "sentence_id": "26",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It led me to build a life rooted in curiosity, resilience, and self direction.",
+          "score": 0.5918,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It taught me that the courage to pursue one's unique path can lead to a richer, more fulfilling life...",
+          "score": 0.5715,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Mentors supporting nontraditional paths provided confidence and reassurance",
+      "keypoint_index": 4,
+      "best_match_sentence": "Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance I needed to keep moving forward.",
+      "best_match_score": 0.8282,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance...",
+          "score": 0.8282,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It taught me that the courage to pursue one's unique path can lead to a richer, more fulfilling life...",
+          "score": 0.5189,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "This journey reaffirmed that fulfillment lies not in following expectations, but in forging a path t...",
+          "score": 0.4915,
+          "author": "user",
+          "sentence_id": "32",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "keypoint": "\",\n    \"Embracing the unconventional led to opportunities aligned with passions and skills",
+      "keypoint_index": 5,
+      "best_match_sentence": "As I continued on my unconventional journey, I discovered niches and opportunities that aligned with my passions and skills, which might have gone unnoticed if I had followed the conventional route.",
+      "best_match_score": 0.6578,
+      "best_match_author": "API",
+      "best_match_sentence_id": "26",
+      "best_match_filename": "3ba9f76102bf4662a4c2718458183c5d.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "As I continued on my unconventional journey, I discovered niches and opportunities that aligned with...",
+          "score": 0.6578,
+          "author": "api",
+          "sentence_id": "26",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "They reminded me that growth often happens outside of comfort zones and that success is deeply perso...",
+          "score": 0.5493,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        },
+        {
+          "sentence": "It taught me that the courage to pursue one's unique path can lead to a richer, more fulfilling life...",
+          "score": 0.5442,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "3ba9f76102bf4662a4c2718458183c5d.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

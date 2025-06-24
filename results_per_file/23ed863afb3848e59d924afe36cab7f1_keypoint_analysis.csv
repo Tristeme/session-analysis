@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+23ed863afb3848e59d924afe36cab7f1.csv,1,"```json
+[
+    ""The speaker shares an experience of being amazed by AI technology that maps emotions","So you all know the world and the days we are living in , the generation of technology ,AI ,Blockchain and web3 and its quite fascinating especially for old men like us ,though really interesting as well huh, But yes ,Here goes my story  so I was at a bar on one fine Saturday and a group of really young students came and sat next to me and they were all talking about bitcoin ,web3.
+One of them looked at me with a proud face and said an AI product that does emotions mapping ,and I was sort of shocked about what technology can do but I was  all ears.",0.5898,USER,1,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,2,""",
+    ""The speaker reflects on the impact of technology on personal connections and presence","As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",0.5547,API,10,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,3,""",
+    ""Technology has woven itself into every aspect of life, reshaping interactions and perceptions","As I sat there sharing my story, I realized just how much technology had woven itself into every aspect of our lives, quietly reshaping the way we interact with one another and perceive the world around us.",0.7272,API,10,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,4,""",
+    ""The speaker expresses a longing for simpler times with genuine face-to-face interactions","Yet, despite its omnipresence, I found myself yearning for simpler times when face-to-face conversations weren't interrupted by buzzing notifications or the allure of scrolling through endless feeds.",0.4856,API,11,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert
+23ed863afb3848e59d924afe36cab7f1.csv,5,""",
+    ""Constant connectivity through technology can lead to loneliness and insecurity","I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",0.7177,API,13,23ed863afb3848e59d924afe36cab7f1.csv,sentence-bert

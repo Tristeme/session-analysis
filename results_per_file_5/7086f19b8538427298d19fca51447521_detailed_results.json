@@ -1,0 +1,177 @@
+{
+  "source_file": "7086f19b8538427298d19fca51447521.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The dream is to create a community learning center that combines mentorship, career development, and mental wellness",
+    "\",\n    \"The vision is driven by personal struggles and a desire to prevent others from feeling isolated or hopeless",
+    "\",\n    \"The journey involves overcoming financial challenges, burnout, and self-doubt, while gaining experience and making connections",
+    "\",\n    \"The mission is deeply personal, rooted in healing, empathy, and creating access to opportunities",
+    "\",\n    \"The dream is communal, involving collaboration and collective action to achieve a better future"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "```json\n[\n    \"The dream is to create a community learning center that combines mentorship, career development, and mental wellness",
+      "keypoint_index": 1,
+      "best_match_sentence": "To create a community learning center that blenda mentorship, career development, and mental wellness, a safe space where people, especially young adults, feel seen, supported, and empowered to grow.",
+      "best_match_score": 0.5532,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "top_3_matches": [
+        {
+          "sentence": "To create a community learning center that blenda mentorship, career development, and mental wellnes...",
+          "score": 0.5532,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "I went back to school for community development and mental health counselling.",
+          "score": 0.3333,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "The community learning center isn't just a dream—it's becoming a testament to resilience, cooperatio...",
+          "score": 0.2381,
+          "author": "api",
+          "sentence_id": "38",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The vision is driven by personal struggles and a desire to prevent others from feeling isolated or hopeless",
+      "keypoint_index": 2,
+      "best_match_sentence": "And yes, sometimes that dream keeps me wide awake at 2a.m.\nThe vision has een with me for years, shaped by personal struggles and community obseravations.",
+      "best_match_score": 0.2667,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "top_3_matches": [
+        {
+          "sentence": "And yes, sometimes that dream keeps me wide awake at 2a.m.\nThe vision has een with me for years, sha...",
+          "score": 0.2667,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Along the way, I've met incredible mentors and allies who share the vision and remind me that even t...",
+          "score": 0.1739,
+          "author": "api",
+          "sentence_id": "32",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Even when progress is slow, I hold onto the vision of the learning center bustling with life and lau...",
+          "score": 0.1702,
+          "author": "api",
+          "sentence_id": "42",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The journey involves overcoming financial challenges, burnout, and self-doubt, while gaining experience and making connections",
+      "keypoint_index": 3,
+      "best_match_sentence": "I network constantly, pitch my idea wherever i can, and  volunteer with nonprofits to gain experience and make connections.",
+      "best_match_score": 0.2286,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I network constantly, pitch my idea wherever i can, and  volunteer with nonprofits to gain experienc...",
+          "score": 0.2286,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "My early life was marked by instability, self doubt, and limited guidance.",
+          "score": 0.2143,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "We've organized community events, bringing together diverse voices to discuss the challenges and dre...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "33",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The mission is deeply personal, rooted in healing, empathy, and creating access to opportunities",
+      "keypoint_index": 4,
+      "best_match_sentence": "This mission is rooted in love, reselience, and the unshakable belief that change begins with empathy.\n So yeah, I lie awake alot.",
+      "best_match_score": 0.2778,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "26",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "top_3_matches": [
+        {
+          "sentence": "This mission is rooted in love, reselience, and the unshakable belief that change begins with empath...",
+          "score": 0.2778,
+          "author": "user",
+          "sentence_id": "26",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Its about healing old wounds, creating access, and being the person i once needed.",
+          "score": 0.2143,
+          "author": "user",
+          "sentence_id": "22",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is a...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "35",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7086f19b8538427298d19fca51447521.csv",
+      "keypoint": "\",\n    \"The dream is communal, involving collaboration and collective action to achieve a better future",
+      "keypoint_index": 5,
+      "best_match_sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is also communal—it belongs to everyone who believes in a better future.",
+      "best_match_score": 0.3902,
+      "best_match_author": "API",
+      "best_match_sentence_id": "35",
+      "best_match_filename": "7086f19b8538427298d19fca51447521.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is a...",
+          "score": 0.3902,
+          "author": "api",
+          "sentence_id": "35",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "I think we all carry the power to impact others, and this is how i hope to do it.",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "23",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        },
+        {
+          "sentence": "I save what i can to eventually lease a space.",
+          "score": 0.1667,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "7086f19b8538427298d19fca51447521.csv"
+        }
+      ]
+    }
+  ]
+}

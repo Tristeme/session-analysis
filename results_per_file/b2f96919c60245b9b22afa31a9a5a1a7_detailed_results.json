@@ -1,0 +1,183 @@
+{
+  "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Challenging universally accepted beliefs can lead to valuable insights",
+    "\",\n    \"Real estate is not always a guaranteed appreciating asset; renting can be a better option in some cases",
+    "\",\n    \"Financial decisions should be based on individual circumstances rather than broad assumptions",
+    "\",\n    \"Distinguishing between opinions and facts is crucial for making informed decisions",
+    "\",\n    \"Engaging in constructive conversations and being open-minded can lead to deeper understanding"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "```json\n[\n    \"Challenging universally accepted beliefs can lead to valuable insights",
+      "keypoint_index": 1,
+      "best_match_sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+      "best_match_score": 0.3701,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+          "score": 0.3701,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "I remember a time when I found myself completely in opposition to a universally cast opinion, and th...",
+          "score": 0.3531,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "But, as Robert Kiyosaki and other finance instructors stress, facts, such as numbers and evidence on...",
+          "score": 0.3329,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Real estate is not always a guaranteed appreciating asset; renting can be a better option in some cases",
+      "keypoint_index": 2,
+      "best_match_sentence": "In the end, my view on this issue is that, like so many other financial decisions, whether to rent or buy is an individual one.",
+      "best_match_score": 0.6734,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "25",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "In the end, my view on this issue is that, like so many other financial decisions, whether to rent o...",
+          "score": 0.6734,
+          "author": "user",
+          "sentence_id": "25",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "I concurred with the fact that in some instances paying rent might be a better alternative, combinin...",
+          "score": 0.6286,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "I stood up there and said, \"No, that's not true, and here's why.\"\nFlipped by my own research and exp...",
+          "score": 0.5918,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Financial decisions should be based on individual circumstances rather than broad assumptions",
+      "keypoint_index": 3,
+      "best_match_sentence": "I also argued from the standpoint that financial decisions should always be based on individual circumstances rather than broad assumptions.",
+      "best_match_score": 0.9114,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I also argued from the standpoint that financial decisions should always be based on individual circ...",
+          "score": 0.9114,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "In the end, my view on this issue is that, like so many other financial decisions, whether to rent o...",
+          "score": 0.5126,
+          "author": "user",
+          "sentence_id": "25",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Making decisions based on well-researched information, rather than merely following the beaten path,...",
+          "score": 0.4694,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Distinguishing between opinions and facts is crucial for making informed decisions",
+      "keypoint_index": 4,
+      "best_match_sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+      "best_match_score": 0.7159,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+          "score": 0.7159,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Making decisions based on well-researched information, rather than merely following the beaten path,...",
+          "score": 0.5222,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "But, as Robert Kiyosaki and other finance instructors stress, facts, such as numbers and evidence on...",
+          "score": 0.5137,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Engaging in constructive conversations and being open-minded can lead to deeper understanding",
+      "keypoint_index": 5,
+      "best_match_sentence": "Engaging in constructive conversations, where both parties are willing to listen and share insights, often leads to a deeper understanding.",
+      "best_match_score": 0.759,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "32",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Engaging in constructive conversations, where both parties are willing to listen and share insights,...",
+          "score": 0.759,
+          "author": "user_and_api",
+          "sentence_id": "32",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "This experience also taught me the value of being open-minded and receptive to learning from others,...",
+          "score": 0.5985,
+          "author": "api",
+          "sentence_id": "31",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Making decisions based on well-researched information, rather than merely following the beaten path,...",
+          "score": 0.4569,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

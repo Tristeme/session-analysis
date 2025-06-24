@@ -1,0 +1,177 @@
+{
+  "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author is a Democrat conflicted about the death penalty, believing it might be necessary in extreme cases",
+    "\",\n    \"The author argues that heinous crimes, like those committed by Timothy McVeigh, warrant the death penalty",
+    "\",\n    \"There is tension between the author's views and the Democratic Party's stance against the death penalty",
+    "\",\n    \"Discussions with peers and family highlight concerns about judicial errors and the irreversibility of the death penalty",
+    "\",\n    \"The author seeks a balance between justice and morality, believing some criminals are too evil not to execute"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "keypoint": "```json\n[\n    \"The author is a Democrat conflicted about the death penalty, believing it might be necessary in extreme cases",
+      "keypoint_index": 1,
+      "best_match_sentence": "In my political party, there is a widespread belief that the death penalty is morally wrong.",
+      "best_match_score": 0.2857,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "In my political party, there is a widespread belief that the death penalty is morally wrong.",
+          "score": 0.2857,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I began reading extensively about the history and effectiveness of the death penalty, hoping to gain...",
+          "score": 0.2105,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I respect their stance and the values they hold, but I can't help but feel that there has to be a ba...",
+          "score": 0.2041,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "keypoint": "\",\n    \"The author argues that heinous crimes, like those committed by Timothy McVeigh, warrant the death penalty",
+      "keypoint_index": 2,
+      "best_match_sentence": "That is that even if there is definitive proof that someone committed heinous crimes, they are still against the death penalty.",
+      "best_match_score": 0.3243,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "That is that even if there is definitive proof that someone committed heinous crimes, they are still...",
+          "score": 0.3243,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "For example, when Timothy McVeigh killed so many people in the Oklahoma City bombing of 1995, he mos...",
+          "score": 0.2564,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "In my political party, there is a widespread belief that the death penalty is morally wrong.",
+          "score": 0.25,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "keypoint": "\",\n    \"There is tension between the author's views and the Democratic Party's stance against the death penalty",
+      "keypoint_index": 3,
+      "best_match_sentence": "That is that even if there is definitive proof that someone committed heinous crimes, they are still against the death penalty.",
+      "best_match_score": 0.3077,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "That is that even if there is definitive proof that someone committed heinous crimes, they are still...",
+          "score": 0.3077,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "In my political party, there is a widespread belief that the death penalty is morally wrong.",
+          "score": 0.2941,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I began reading extensively about the history and effectiveness of the death penalty, hoping to gain...",
+          "score": 0.2703,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "keypoint": "\",\n    \"Discussions with peers and family highlight concerns about judicial errors and the irreversibility of the death penalty",
+      "keypoint_index": 4,
+      "best_match_sentence": "I began reading extensively about the history and effectiveness of the death penalty, hoping to gain a broader perspective.",
+      "best_match_score": 0.3333,
+      "best_match_author": "API",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I began reading extensively about the history and effectiveness of the death penalty, hoping to gain...",
+          "score": 0.3333,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I got into an argument with several family members because I said that they both deserved the death ...",
+          "score": 0.2778,
+          "author": "user",
+          "sentence_id": "10",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "For example, when Timothy McVeigh killed so many people in the Oklahoma City bombing of 1995, he mos...",
+          "score": 0.25,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "keypoint": "\",\n    \"The author seeks a balance between justice and morality, believing some criminals are too evil not to execute",
+      "keypoint_index": 5,
+      "best_match_sentence": "Some people are just too evil to not execute, period.",
+      "best_match_score": 0.4286,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "21",
+      "best_match_filename": "13bc94699c4c488cb18de53efde5c6cf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Some people are just too evil to not execute, period.",
+          "score": 0.4286,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I respect their stance and the values they hold, but I can't help but feel that there has to be a ba...",
+          "score": 0.2917,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        },
+        {
+          "sentence": "I began reading extensively about the history and effectiveness of the death penalty, hoping to gain...",
+          "score": 0.1622,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "13bc94699c4c488cb18de53efde5c6cf.csv"
+        }
+      ]
+    }
+  ]
+}

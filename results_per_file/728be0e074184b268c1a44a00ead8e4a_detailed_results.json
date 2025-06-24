@@ -1,0 +1,183 @@
+{
+  "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"People often make assumptions about others based on stereotypes, leading to misunderstandings and undervaluation",
+    "\",\n    \"Software development is a diverse field that involves creativity, teamwork, and collaboration, not just solitary coding",
+    "\",\n    \"Judging others without full evidence reflects ignorance and can hurt feelings",
+    "\",\n    \"Individuals should reflect on their own lives and flaws to reduce judgment and promote understanding",
+    "\",\n    \"Leaders and individuals alike should focus on equality, fairness, and helping others to create a better world"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "```json\n[\n    \"People often make assumptions about others based on stereotypes, leading to misunderstandings and undervaluation",
+      "keypoint_index": 1,
+      "best_match_sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",
+      "best_match_score": 0.4671,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.4671,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they kno...",
+          "score": 0.3509,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty ...",
+          "score": 0.225,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Software development is a diverse field that involves creativity, teamwork, and collaboration, not just solitary coding",
+      "keypoint_index": 2,
+      "best_match_sentence": "The thrill I get from solving a challenging problem or building an application that can't compared to anything.My thoughts on this forum is that I wish people understood how diverse and multifaceted the world of software development truly is.",
+      "best_match_score": 0.6596,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "The thrill I get from solving a challenging problem or building an application that can't compared t...",
+          "score": 0.6596,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and...",
+          "score": 0.6104,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration,...",
+          "score": 0.5558,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Judging others without full evidence reflects ignorance and can hurt feelings",
+      "keypoint_index": 3,
+      "best_match_sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",
+      "best_match_score": 0.5399,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.5399,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty ...",
+          "score": 0.303,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they kno...",
+          "score": 0.285,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Individuals should reflect on their own lives and flaws to reduce judgment and promote understanding",
+      "keypoint_index": 4,
+      "best_match_sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek who spends all day immersed in code.I think this is a bad character that most of people tend to develop of criticizing others without full evidence.This shows a significant amount of ignorance and carelessness cause this may cause a hurt on someones feeling because of bieng misjudged.Bieng judged wrongly made me feel misunderstood and undervalued, as if my entire identity could be boiled down to a simplistic stereotype that doesn't capture the full scope of who I am.",
+      "best_match_score": 0.5391,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.5391,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty ...",
+          "score": 0.4212,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they kno...",
+          "score": 0.3407,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "keypoint": "\",\n    \"Leaders and individuals alike should focus on equality, fairness, and helping others to create a better world",
+      "keypoint_index": 5,
+      "best_match_sentence": "I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty of each and everyone to reflect back to their own lives.Once each individual evaluates and analyzes his or her actions it will then be easier for them to stop judging others and having checked their lives and realise that on this world we all have flaws.Most humans tell themselves that they are good enough or think they are better than others because of the benefits they have at the moment.For example some people are born in rich families and others are born in poor families,the person born on rich family might think they are better and more hard working than those born in poor families,failing to realise no one chooses where to be born or choosing to be poor.Therefore I think the main concern for majority or simply the whole world should be making the world a better place and not a place for competing and humilating others.This also should get to our leaders and they should enhance equality and fairness for its citizens.Leaders should not embezzle public funds for personal selfish gains,but should appropriately use funds to provide social life of citizens so as to reduce the burden of the tax payers.This goes on to a personal level where everyone should take it as his or her responsibility regardless of the position in the society to make sure helping the needy neighbour as long as one has the resources or enough to share.Finally the world should be a better place this can be achieved by minimize judging and more helping.",
+      "best_match_score": 0.635,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "728be0e074184b268c1a44a00ead8e4a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I've had the pleasure of working with some incredibly talented.So generally it is the responsibilty ...",
+          "score": 0.635,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "The thrill I get from solving a challenging problem or building an application that can't compared t...",
+          "score": 0.22,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        },
+        {
+          "sentence": "I work as a software developer, and often people assume that I'm some sort of antisocial tech geek w...",
+          "score": 0.2069,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "728be0e074184b268c1a44a00ead8e4a.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

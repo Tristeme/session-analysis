@@ -1,0 +1,177 @@
+{
+  "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author became obsessed with their first smartphone, a Samsung S10 plus, during high school",
+    "\",\n    \"Their phone addiction led to a decline in academic performance, causing concern for their parents",
+    "\",\n    \"Parents intervened and taught the author to use the phone as a tool for productivity and education",
+    "\",\n    \"Despite improvements in academics, the author became isolated due to excessive phone use",
+    "\",\n    \"The author is currently seeking to balance phone use with real-life interactions and experiences"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+      "keypoint": "```json\n[\n    \"The author became obsessed with their first smartphone, a Samsung S10 plus, during high school",
+      "keypoint_index": 1,
+      "best_match_sentence": "It was a very nice Samsung phone, the S10 plus.",
+      "best_match_score": 0.3077,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "9008171846a64bddb019c06cfc482c35.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It was a very nice Samsung phone, the S10 plus.",
+          "score": 0.3077,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "I finally got my spark back, i was back among the academic elite in school.",
+          "score": 0.129,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "The story is about the first time I got hooked on a piece of tech and how it affected how I went abo...",
+          "score": 0.1154,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+      "keypoint": "\",\n    \"Their phone addiction led to a decline in academic performance, causing concern for their parents",
+      "keypoint_index": 2,
+      "best_match_sentence": "After i got the phone my grades started deteriorating to the point my parents got concerned.",
+      "best_match_score": 0.1935,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "9008171846a64bddb019c06cfc482c35.csv",
+      "top_3_matches": [
+        {
+          "sentence": "After i got the phone my grades started deteriorating to the point my parents got concerned.",
+          "score": 0.1935,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "i was back to being a robot.",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "It was a game-changer for me; I began to see my phone as more than just a distraction but rather as ...",
+          "score": 0.125,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+      "keypoint": "\",\n    \"Parents intervened and taught the author to use the phone as a tool for productivity and education",
+      "keypoint_index": 3,
+      "best_match_sentence": "Eventually my parents found out, sat me down and we came to an understanding.\n \nMy parents showed me how to use my phone for good, like setting reminders and using educational apps that could complement my studies.",
+      "best_match_score": 0.2593,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "9008171846a64bddb019c06cfc482c35.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Eventually my parents found out, sat me down and we came to an understanding.\n \nMy parents showed me...",
+          "score": 0.2593,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "It was a game-changer for me; I began to see my phone as more than just a distraction but rather as ...",
+          "score": 0.2,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "After i got the phone my grades started deteriorating to the point my parents got concerned.",
+          "score": 0.1818,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+      "keypoint": "\",\n    \"Despite improvements in academics, the author became isolated due to excessive phone use",
+      "keypoint_index": 4,
+      "best_match_sentence": "After i got the phone my grades started deteriorating to the point my parents got concerned.",
+      "best_match_score": 0.1379,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "9008171846a64bddb019c06cfc482c35.csv",
+      "top_3_matches": [
+        {
+          "sentence": "After i got the phone my grades started deteriorating to the point my parents got concerned.",
+          "score": 0.1379,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "I knew the problem was that I had started spending too much time on my phone instead of reading, but...",
+          "score": 0.12,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "i was super excited, from the moment I got the phone my eyes did not wander anywhere else but that p...",
+          "score": 0.1176,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "9008171846a64bddb019c06cfc482c35.csv",
+      "keypoint": "\",\n    \"The author is currently seeking to balance phone use with real-life interactions and experiences",
+      "keypoint_index": 5,
+      "best_match_sentence": "I would like to hear your experiences with the same and maybe pick a few solutions from there.\n \ncheers!",
+      "best_match_score": 0.1765,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "24",
+      "best_match_filename": "9008171846a64bddb019c06cfc482c35.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I would like to hear your experiences with the same and maybe pick a few solutions from there.\n \nche...",
+          "score": 0.1765,
+          "author": "user",
+          "sentence_id": "24",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "The irony was that while I had a world of knowledge at my fingertips, I was missing out on real-life...",
+          "score": 0.1667,
+          "author": "user_and_api",
+          "sentence_id": "22",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        },
+        {
+          "sentence": "For the first few weeks, I was completely absorbed by the endless possibilities it offered – from so...",
+          "score": 0.1538,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "9008171846a64bddb019c06cfc482c35.csv"
+        }
+      ]
+    }
+  ]
+}

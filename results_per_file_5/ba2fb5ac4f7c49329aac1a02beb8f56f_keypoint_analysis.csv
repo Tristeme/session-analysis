@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,1,"```json
+[
+    ""The dream of becoming a teacher is driven by a passion for helping others and sharing knowledge",I've always loved helping others and sharing what I know.,0.2759,USER,2,ba2fb5ac4f7c49329aac1a02beb8f56f.csv
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,2,""",
+    ""Perseverance and learning from setbacks are essential in overcoming the challenges of the teaching path",The prospect of influencing young minds and fostering a love for learning drives me to push through the challenges I encounter.,0.2222,API,29,ba2fb5ac4f7c49329aac1a02beb8f56f.csv
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,3,""",
+    ""Support from family and friends provides motivation to continue pursuing the teaching dream","My family and friends support me and tell me not to quit.
+
+This dreams means the world to me.",0.3125,USER,22,ba2fb5ac4f7c49329aac1a02beb8f56f.csv
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,4,""",
+    ""Being a teacher is about making a difference in students' lives and fostering a love for learning","Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",0.4255,API,23,ba2fb5ac4f7c49329aac1a02beb8f56f.csv
+ba2fb5ac4f7c49329aac1a02beb8f56f.csv,5,""",
+    ""Dedication, hard work, and continuous learning are crucial to turning the dream of teaching into reality","Along the way, I've discovered that passion alone isn't enough; it takes dedication and hard work to turn dreams into reality.",0.3077,API,30,ba2fb5ac4f7c49329aac1a02beb8f56f.csv

@@ -1,0 +1,177 @@
+{
+  "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Challenging the belief that homeownership is always better than renting",
+    "\",\n    \"Importance of basing financial decisions on individual circumstances rather than broad assumptions",
+    "\",\n    \"Distinguishing between opinions and facts in financial debates",
+    "\",\n    \"Value of engaging in open-minded and constructive conversations",
+    "\",\n    \"Making informed decisions by questioning popular wisdom and considering well-researched information"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "```json\n[\n    \"Challenging the belief that homeownership is always better than renting",
+      "keypoint_index": 1,
+      "best_match_sentence": "Many people feel strongly about it, latching on to deeply entrenched beliefs—the one universally accepted in the group was that being a homeowner is better than renting.",
+      "best_match_score": 0.3077,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Many people feel strongly about it, latching on to deeply entrenched beliefs—the one universally acc...",
+          "score": 0.3077,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "I also argued from the standpoint that financial decisions should always be based on individual circ...",
+          "score": 0.2581,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "For example, evidence does exist that, in some areas, rent is cheaper than owning when all expenses ...",
+          "score": 0.1875,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Importance of basing financial decisions on individual circumstances rather than broad assumptions",
+      "keypoint_index": 2,
+      "best_match_sentence": "I also argued from the standpoint that financial decisions should always be based on individual circumstances rather than broad assumptions.",
+      "best_match_score": 0.5625,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I also argued from the standpoint that financial decisions should always be based on individual circ...",
+          "score": 0.5625,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Making decisions based on well-researched information, rather than merely following the beaten path,...",
+          "score": 0.2,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "In the end, my view on this issue is that, like so many other financial decisions, whether to rent o...",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "25",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Distinguishing between opinions and facts in financial debates",
+      "keypoint_index": 3,
+      "best_match_sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+      "best_match_score": 0.4545,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "top_3_matches": [
+        {
+          "sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+          "score": 0.4545,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "One ought to evaluate one's uniqueness, objectives, and facts rather than gape at so-called popular ...",
+          "score": 0.1538,
+          "author": "user",
+          "sentence_id": "27",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "In the end, my view on this issue is that, like so many other financial decisions, whether to rent o...",
+          "score": 0.1212,
+          "author": "user",
+          "sentence_id": "25",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Value of engaging in open-minded and constructive conversations",
+      "keypoint_index": 4,
+      "best_match_sentence": "This experience also taught me the value of being open-minded and receptive to learning from others, even if their views differ from my own.",
+      "best_match_score": 0.2941,
+      "best_match_author": "API",
+      "best_match_sentence_id": "31",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "top_3_matches": [
+        {
+          "sentence": "This experience also taught me the value of being open-minded and receptive to learning from others,...",
+          "score": 0.2941,
+          "author": "api",
+          "sentence_id": "31",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Engaging in constructive conversations, where both parties are willing to listen and share insights,...",
+          "score": 0.2759,
+          "author": "user_and_api",
+          "sentence_id": "32",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "What this experience taught me is the importance of distinguishing between opinions and facts.",
+          "score": 0.1739,
+          "author": "user",
+          "sentence_id": "18",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "keypoint": "\",\n    \"Making informed decisions by questioning popular wisdom and considering well-researched information",
+      "keypoint_index": 5,
+      "best_match_sentence": "Making decisions based on well-researched information, rather than merely following the beaten path, can lead to more enlightened choices that align closely with personal goals and situations.",
+      "best_match_score": 0.25,
+      "best_match_author": "API",
+      "best_match_sentence_id": "30",
+      "best_match_filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Making decisions based on well-researched information, rather than merely following the beaten path,...",
+          "score": 0.25,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "Ruminating on this, I avoided tit-for-tat exchanges by listening carefully and reacting calmly.",
+          "score": 0.1481,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        },
+        {
+          "sentence": "One ought to evaluate one's uniqueness, objectives, and facts rather than gape at so-called popular ...",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "27",
+          "filename": "b2f96919c60245b9b22afa31a9a5a1a7.csv"
+        }
+      ]
+    }
+  ]
+}

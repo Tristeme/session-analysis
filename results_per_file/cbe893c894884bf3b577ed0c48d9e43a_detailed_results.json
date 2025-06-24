@@ -1,0 +1,183 @@
+{
+  "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Roller skating is a deeply personal and meaningful hobby for the narrator, providing joy and a sense of freedom",
+    "\",\n    \"The narrator feels judged by others who perceive roller skating as childish or unprofessional",
+    "\",\n    \"Roller skating has been a lifelong passion, offering an escape from life's pressures and even saving the narrator's life once",
+    "\",\n    \"The narrator chooses to express the value of skating through action rather than confrontation, emphasizing its ageless nature",
+    "\",\n    \"Hobbies and passions are personal, and individuals should embrace what brings them happiness despite external judgments"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "```json\n[\n    \"Roller skating is a deeply personal and meaningful hobby for the narrator, providing joy and a sense of freedom",
+      "keypoint_index": 1,
+      "best_match_sentence": "Roller skating has been more than just a hobby for me.",
+      "best_match_score": 0.6376,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.6376,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of ...",
+          "score": 0.5687,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Last Tuesday morning I went roller skating at the local park, something I've been passionate about f...",
+          "score": 0.5655,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"The narrator feels judged by others who perceive roller skating as childish or unprofessional",
+      "keypoint_index": 2,
+      "best_match_sentence": "Despite knowing how crucial roller skating has been in my life, I still face judgment from others who see it as childish or attaching an age limit to it.",
+      "best_match_score": 0.7515,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Despite knowing how crucial roller skating has been in my life, I still face judgment from others wh...",
+          "score": 0.7515,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "I am not going to let external opinions affect who I am and what skating means to me.",
+          "score": 0.6288,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "I felt the urge to engage  them in conversation and explain why roller skating means so much to me, ...",
+          "score": 0.6142,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"Roller skating has been a lifelong passion, offering an escape from life's pressures and even saving the narrator's life once",
+      "keypoint_index": 3,
+      "best_match_sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of life in the literal meaning.",
+      "best_match_score": 0.7126,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of ...",
+          "score": 0.7126,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.6982,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Last Tuesday morning I went roller skating at the local park, something I've been passionate about f...",
+          "score": 0.597,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"The narrator chooses to express the value of skating through action rather than confrontation, emphasizing its ageless nature",
+      "keypoint_index": 4,
+      "best_match_sentence": "I am not going to let external opinions affect who I am and what skating means to me.",
+      "best_match_score": 0.6176,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "21",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I am not going to let external opinions affect who I am and what skating means to me.",
+          "score": 0.6176,
+          "author": "user",
+          "sentence_id": "21",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of ...",
+          "score": 0.6141,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Despite knowing how crucial roller skating has been in my life, I still face judgment from others wh...",
+          "score": 0.5828,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"Hobbies and passions are personal, and individuals should embrace what brings them happiness despite external judgments",
+      "keypoint_index": 5,
+      "best_match_sentence": "It seems that society often forgets that hobbies and passions are deeply personal, and what may seem trivial to one person can hold profound meaning for someone else.",
+      "best_match_score": 0.7955,
+      "best_match_author": "API",
+      "best_match_sentence_id": "23",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "It seems that society often forgets that hobbies and passions are deeply personal, and what may seem...",
+          "score": 0.7955,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "So to anyone out there feeling  judged for their  interests, remember that your passions are valid a...",
+          "score": 0.683,
+          "author": "user_and_api",
+          "sentence_id": "24",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "The key is to stay true to yourself and embrace what brings you happiness, regardless of external ju...",
+          "score": 0.6108,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

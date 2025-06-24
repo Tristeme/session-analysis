@@ -1,0 +1,177 @@
+{
+  "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The dream of becoming a teacher is driven by a passion for helping others and sharing knowledge",
+    "\",\n    \"Perseverance and learning from setbacks are essential in overcoming the challenges of the teaching path",
+    "\",\n    \"Support from family and friends provides motivation to continue pursuing the teaching dream",
+    "\",\n    \"Being a teacher is about making a difference in students' lives and fostering a love for learning",
+    "\",\n    \"Dedication, hard work, and continuous learning are crucial to turning the dream of teaching into reality"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "keypoint": "```json\n[\n    \"The dream of becoming a teacher is driven by a passion for helping others and sharing knowledge",
+      "keypoint_index": 1,
+      "best_match_sentence": "I've always loved helping others and sharing what I know.",
+      "best_match_score": 0.2759,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I've always loved helping others and sharing what I know.",
+          "score": 0.2759,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",
+          "score": 0.2632,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The feeling of guiding someone through a new concept and watching their eyes light up in understandi...",
+          "score": 0.2105,
+          "author": "api",
+          "sentence_id": "3",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "keypoint": "\",\n    \"Perseverance and learning from setbacks are essential in overcoming the challenges of the teaching path",
+      "keypoint_index": 2,
+      "best_match_sentence": "The prospect of influencing young minds and fostering a love for learning drives me to push through the challenges I encounter.",
+      "best_match_score": 0.2222,
+      "best_match_author": "API",
+      "best_match_sentence_id": "29",
+      "best_match_filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The prospect of influencing young minds and fostering a love for learning drives me to push through ...",
+          "score": 0.2222,
+          "author": "api",
+          "sentence_id": "29",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The path to becoming a teacher isn't easy, and the fear of failure often looms large in my mind.",
+          "score": 0.1714,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "But then there are moments when a single breakthrough or positive feedback from a mentor reignites m...",
+          "score": 0.1333,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "keypoint": "\",\n    \"Support from family and friends provides motivation to continue pursuing the teaching dream",
+      "keypoint_index": 3,
+      "best_match_sentence": "My family and friends support me and tell me not to quit.\n\nThis dreams means the world to me.",
+      "best_match_score": 0.3125,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "22",
+      "best_match_filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "top_3_matches": [
+        {
+          "sentence": "My family and friends support me and tell me not to quit.\n\nThis dreams means the world to me.",
+          "score": 0.3125,
+          "author": "user",
+          "sentence_id": "22",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The prospect of influencing young minds and fostering a love for learning drives me to push through ...",
+          "score": 0.1765,
+          "author": "api",
+          "sentence_id": "29",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "I study, ask for help when I need it, and try to stay positive.",
+          "score": 0.1481,
+          "author": "user",
+          "sentence_id": "11",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "keypoint": "\",\n    \"Being a teacher is about making a difference in students' lives and fostering a love for learning",
+      "keypoint_index": 4,
+      "best_match_sentence": "Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of students, shaping their futures, and inspiring them to believe in themselves.",
+      "best_match_score": 0.4255,
+      "best_match_author": "API",
+      "best_match_sentence_id": "23",
+      "best_match_filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Being a teacher isn't just about imparting knowledge; it's about making a difference in the lives of...",
+          "score": 0.4255,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The prospect of influencing young minds and fostering a love for learning drives me to push through ...",
+          "score": 0.3158,
+          "author": "api",
+          "sentence_id": "29",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "I want to make a difference and help kids learn.",
+          "score": 0.2222,
+          "author": "user",
+          "sentence_id": "25",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "keypoint": "\",\n    \"Dedication, hard work, and continuous learning are crucial to turning the dream of teaching into reality",
+      "keypoint_index": 5,
+      "best_match_sentence": "Along the way, I've discovered that passion alone isn't enough; it takes dedication and hard work to turn dreams into reality.",
+      "best_match_score": 0.3077,
+      "best_match_author": "API",
+      "best_match_sentence_id": "30",
+      "best_match_filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Along the way, I've discovered that passion alone isn't enough; it takes dedication and hard work to...",
+          "score": 0.3077,
+          "author": "api",
+          "sentence_id": "30",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "The prospect of influencing young minds and fostering a love for learning drives me to push through ...",
+          "score": 0.2162,
+          "author": "api",
+          "sentence_id": "29",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        },
+        {
+          "sentence": "My family and friends support me and tell me not to quit.\n\nThis dreams means the world to me.",
+          "score": 0.1714,
+          "author": "user",
+          "sentence_id": "22",
+          "filename": "ba2fb5ac4f7c49329aac1a02beb8f56f.csv"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author has a passion for helping others, which led them into medicine",
+    "\",\n    \"They discovered travel entrepreneurship and the concept of wellness retreats as a way to combine their love for medicine and travel",
+    "\",\n    \"Wellness retreats offer a holistic approach to healing, aligning with the author's vision",
+    "\",\n    \"Balancing work, family, and a new business venture is challenging but fuels the author's determination",
+    "\",\n    \"The dream represents financial freedom and setting an example for their children about pursuing dreams"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "keypoint": "```json\n[\n    \"The author has a passion for helping others, which led them into medicine",
+      "keypoint_index": 1,
+      "best_match_sentence": "For as long as i can remember, i've carried a passion for helping others.",
+      "best_match_score": 0.3448,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "For as long as i can remember, i've carried a passion for helping others.",
+          "score": 0.3448,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "it's what led me into medicine.",
+          "score": 0.2857,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "Ofcourse the journey has not been smooth.",
+          "score": 0.1905,
+          "author": "user",
+          "sentence_id": "15",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "keypoint": "\",\n    \"They discovered travel entrepreneurship and the concept of wellness retreats as a way to combine their love for medicine and travel",
+      "keypoint_index": 2,
+      "best_match_sentence": "It wasn't long before I stumbled upon the concept of wellness retreats—unique getaways designed to rejuvenate the mind, body, and soul.",
+      "best_match_score": 0.3182,
+      "best_match_author": "API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It wasn't long before I stumbled upon the concept of wellness retreats—unique getaways designed to r...",
+          "score": 0.3182,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offeri...",
+          "score": 0.2128,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "Not out of worry, but from excitement, from hope the pull of a dream that's slowly reshaping my life...",
+          "score": 0.2069,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "keypoint": "\",\n    \"Wellness retreats offer a holistic approach to healing, aligning with the author's vision",
+      "keypoint_index": 3,
+      "best_match_sentence": "Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offering people a holistic approach to healing and well-being.",
+      "best_match_score": 0.35,
+      "best_match_author": "API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offeri...",
+          "score": 0.35,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "It wasn't long before I stumbled upon the concept of wellness retreats—unique getaways designed to r...",
+          "score": 0.2162,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "The desire to make a difference in people's lives, to heal and bring comfort, is the cornerstone of ...",
+          "score": 0.1714,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "keypoint": "\",\n    \"Balancing work, family, and a new business venture is challenging but fuels the author's determination",
+      "keypoint_index": 4,
+      "best_match_sentence": "Balancing work, school, family and this business can feel like juggling fire while walking a tightrope.\n Yet, every morning, I wake up with a renewed sense of determination, fueled by the vision of what I hope to achieve.",
+      "best_match_score": 0.2222,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Balancing work, school, family and this business can feel like juggling fire while walking a tightro...",
+          "score": 0.2222,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "The desire to make a difference in people's lives, to heal and bring comfort, is the cornerstone of ...",
+          "score": 0.1622,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "But somewhere along the way parenting and preparing to welcome another baby, i realized i needed  so...",
+          "score": 0.1364,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "keypoint": "\",\n    \"The dream represents financial freedom and setting an example for their children about pursuing dreams",
+      "keypoint_index": 5,
+      "best_match_sentence": "it means financial freedom.",
+      "best_match_score": 0.2105,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "41aadad5af2047de8329643ca09b7b3d.csv",
+      "top_3_matches": [
+        {
+          "sentence": "it means financial freedom.",
+          "score": 0.2105,
+          "author": "user",
+          "sentence_id": "19",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "Wellness retreats could be the perfect fusion of my medical expertise and my love for travel, offeri...",
+          "score": 0.1463,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        },
+        {
+          "sentence": "This discovery felt like the missing piece of a` puzzle that had been eluding me for so long.",
+          "score": 0.1212,
+          "author": "user_and_api",
+          "sentence_id": "12",
+          "filename": "41aadad5af2047de8329643ca09b7b3d.csv"
+        }
+      ]
+    }
+  ]
+}

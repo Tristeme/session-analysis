@@ -1,0 +1,177 @@
+{
+  "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Overcame stereotypes about size and endurance in marathon running",
+    "\",\n    \"Passion and dedication fueled daily training and personal growth",
+    "\",\n    \"Running served as meditation and a source of balance and clarity",
+    "\",\n    \"Marathon participation was a personal challenge and proof of capability",
+    "\",\n    \"The experience highlighted resilience and the deceptive nature of appearances"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "keypoint": "```json\n[\n    \"Overcame stereotypes about size and endurance in marathon running",
+      "keypoint_index": 1,
+      "best_match_sentence": "Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",
+      "best_match_score": 0.1026,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance a...",
+          "score": 0.1026,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The marathon became more than just a race for me; it was a testament to the power of resilience and ...",
+          "score": 0.0976,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "They thought I could not compete in the marathon because of my size , assuming that someone of my bu...",
+          "score": 0.0889,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "keypoint": "\",\n    \"Passion and dedication fueled daily training and personal growth",
+      "keypoint_index": 2,
+      "best_match_sentence": "The passion I had for running was something that fueled me every day, pushing me to wake up before sunrise and hit the pavement while most of the world was still asleep.",
+      "best_match_score": 0.1463,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The passion I had for running was something that fueled me every day, pushing me to wake up before s...",
+          "score": 0.1463,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "It was frustrating to be pigeonholed based on appearances alone, especially when they didn't know th...",
+          "score": 0.1176,
+          "author": "user_and_api",
+          "sentence_id": "1",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The whistle blew, and we all surged forward, a collective wave of determination.",
+          "score": 0.0909,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "keypoint": "\",\n    \"Running served as meditation and a source of balance and clarity",
+      "keypoint_index": 3,
+      "best_match_sentence": "Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance and clarity in all aspects of my life.",
+      "best_match_score": 0.3,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Running wasn't just a hobby for me; it was an essential part of who I was, helping me find balance a...",
+          "score": 0.3,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The whistle blew, and we all surged forward, a collective wave of determination.",
+          "score": 0.25,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The first few kilometers   were a blur of adrenaline and energy, with the crowd's cheers propelling ...",
+          "score": 0.2,
+          "author": "user_and_api",
+          "sentence_id": "10",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "keypoint": "\",\n    \"Marathon participation was a personal challenge and proof of capability",
+      "keypoint_index": 4,
+      "best_match_sentence": "Each stride was a testament to the countless early mornings and late nights I had spent honing my skills.",
+      "best_match_score": 0.2069,
+      "best_match_author": "API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Each stride was a testament to the countless early mornings and late nights I had spent honing my sk...",
+          "score": 0.2069,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The marathon became more than just a race for me; it was a testament to the power of resilience and ...",
+          "score": 0.1951,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The cheers from the sidelines became a personal anthem, echoing the support I had always given mysel...",
+          "score": 0.1875,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "keypoint": "\",\n    \"The experience highlighted resilience and the deceptive nature of appearances",
+      "keypoint_index": 5,
+      "best_match_sentence": "The whistle blew, and we all surged forward, a collective wave of determination.",
+      "best_match_score": 0.2609,
+      "best_match_author": "API",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "8673f28f522c4ec7b47870a51d3073bf.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The whistle blew, and we all surged forward, a collective wave of determination.",
+          "score": 0.2609,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "The first few kilometers   were a blur of adrenaline and energy, with the crowd's cheers propelling ...",
+          "score": 0.2069,
+          "author": "user_and_api",
+          "sentence_id": "10",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        },
+        {
+          "sentence": "As the race day approached, I felt a mix of excitement and anxiety, knowing that  I would finally ha...",
+          "score": 0.2,
+          "author": "user_and_api",
+          "sentence_id": "7",
+          "filename": "8673f28f522c4ec7b47870a51d3073bf.csv"
+        }
+      ]
+    }
+  ]
+}

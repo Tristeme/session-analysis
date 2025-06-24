@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+68cedfb070704463a4d9d4748052eef4.csv,1,"```json
+[
+    ""The author felt overwhelmed by social media and decided to take a break to find clarity and balance","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.2927,API,4,68cedfb070704463a4d9d4748052eef4.csv
+68cedfb070704463a4d9d4748052eef4.csv,2,""",
+    ""Disconnecting from social media led to improved mental state and deeper personal relationships","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.2286,API,4,68cedfb070704463a4d9d4748052eef4.csv
+68cedfb070704463a4d9d4748052eef4.csv,3,""",
+    ""The author rediscovered neglected hobbies and found fulfillment away from digital distractions","I started to appreciate the simplicity of life away from the screens, finding solace in morning walks and the quiet moments that often go unnoticed in the rush of digital life.",0.186,API,10,68cedfb070704463a4d9d4748052eef4.csv
+68cedfb070704463a4d9d4748052eef4.csv,4,""",
+    ""The experience led to a balanced perspective on social media, emphasizing intentional use and setting boundaries","Despite the prevailing opinion, I decided to take a step back from social media and observe how it would affect my life.",0.3158,API,4,68cedfb070704463a4d9d4748052eef4.csv
+68cedfb070704463a4d9d4748052eef4.csv,5,""",
+    ""Friends noticed positive changes, sparking discussions on technology use and personal well-being","Initially, my decision was met with skepticism from friends and colleagues who couldn't imagine functioning without their digital networks.",0.1212,API,5,68cedfb070704463a4d9d4748052eef4.csv

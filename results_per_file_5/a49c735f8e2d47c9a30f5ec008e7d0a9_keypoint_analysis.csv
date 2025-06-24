@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,1,"```json
+[
+    ""Instagram initially provided excitement and connection through sharing photos and gaining followers","Instagram is something I got hooked on early on , back when it was a fresh new platform that allowed me to share glimpses of my life through photos.",0.1463,USER_AND_API,0,a49c735f8e2d47c9a30f5ec008e7d0a9.csv
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,2,""",
+    ""Creating a meme page led to creativity and engagement but eventually became stressful due to competition and algorithm changes","We carried this on for a couple years, and eventually the platform became more saturated with similar content vying for attention.",0.2,USER,6,a49c735f8e2d47c9a30f5ec008e7d0a9.csv
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,3,""",
+    ""The pressure to maintain likes and comments negatively impacted mental health and self-esteem","Around the same time our engagement began to decline, my addiction to likes and comments and struggle to maintain them started to have a negative impact on my mental health.",0.3182,USER,12,a49c735f8e2d47c9a30f5ec008e7d0a9.csv
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,4,""",
+    ""Ending the meme page brought relief and allowed for a more intentional use of Instagram","Eventually my friend and I decided to end the page, and with that came a mix of emotions.",0.303,USER,17,a49c735f8e2d47c9a30f5ec008e7d0a9.csv
+a49c735f8e2d47c9a30f5ec008e7d0a9.csv,5,""",
+    ""Instagram's role evolved into a tool for self-improvement, learning, and connecting with meaningful communities","While Instagram remains a prominent part of my life, its role has evolved from a source of stress to a tool for self-improvement and learning.",0.4286,API,23,a49c735f8e2d47c9a30f5ec008e7d0a9.csv

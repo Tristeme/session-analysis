@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+3ba9f76102bf4662a4c2718458183c5d.csv,1,"```json
+[
+    ""Questioning the necessity of college for success led to exploring alternative paths",I remember vividly the time when I found myself at odds with a commonly held belief about the necessity of attending college to be successful.,0.2632,API,0,3ba9f76102bf4662a4c2718458183c5d.csv
+3ba9f76102bf4662a4c2718458183c5d.csv,2,""",
+    ""Stories of successful individuals without degrees inspired a shift in perspective","I realized that questioning widely accepted beliefs is not a sign of rebellion, but a necessary step in finding one’s own direction.",0.1765,USER,11,3ba9f76102bf4662a4c2718458183c5d.csv
+3ba9f76102bf4662a4c2718458183c5d.csv,3,""",
+    ""Pursuing real-world skills and internships provided valuable learning experiences","This perspective shift encouraged me to focus more on developing real-world skills, pursuing internships, and learning through online platforms.",0.3333,USER,6,3ba9f76102bf4662a4c2718458183c5d.csv
+3ba9f76102bf4662a4c2718458183c5d.csv,4,""",
+    ""Mentors and nontraditional paths offered confidence and reassurance",Conversations with mentors who supported nontraditional paths gave me the confidence and reassurance I needed to keep moving forward.,0.4444,USER_AND_API,17,3ba9f76102bf4662a4c2718458183c5d.csv
+3ba9f76102bf4662a4c2718458183c5d.csv,5,""",
+    ""Resisting conformity led to personal growth and a fulfilling, purpose-driven life","It led me to build a life rooted in curiosity, resilience, and self direction.",0.3077,USER,21,3ba9f76102bf4662a4c2718458183c5d.csv

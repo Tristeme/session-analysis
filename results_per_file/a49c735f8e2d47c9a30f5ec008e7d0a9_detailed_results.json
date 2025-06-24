@@ -1,0 +1,183 @@
+{
+  "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Instagram initially provided a creative outlet and connection with new people",
+    "\",\n    \"Running a meme page became stressful due to increased competition and algorithm changes",
+    "\",\n    \"The pressure for likes and validation negatively impacted mental health",
+    "\",\n    \"A shift to intentional use of Instagram improved mental well-being",
+    "\",\n    \"Instagram now serves as a tool for self-improvement and community engagement"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "```json\n[\n    \"Instagram initially provided a creative outlet and connection with new people",
+      "keypoint_index": 1,
+      "best_match_sentence": "Despite this, I still found myself drawn to Instagram's allure, now using it in a more intentional way to follow those who brought value to my inner world.",
+      "best_match_score": 0.5459,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Despite this, I still found myself drawn to Instagram's allure, now using it in a more intentional w...",
+          "score": 0.5459,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "Instagram is something I got hooked on early on , back when it was a fresh new platform that allowed...",
+          "score": 0.531,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "Despite the pressure to keep up, I couldn't deny how much Instagram had enriched my life by connecti...",
+          "score": 0.5093,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"Running a meme page became stressful due to increased competition and algorithm changes",
+      "keypoint_index": 2,
+      "best_match_sentence": "On top of the challenges of maintaining the meme page, it also became less satisfying, and more difficult to maintain the amount of likes we once received.",
+      "best_match_score": 0.6548,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "On top of the challenges of maintaining the meme page, it also became less satisfying, and more diff...",
+          "score": 0.6548,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "As more users flocked to Instagram, the competition grew fiercer, and maintaining our meme page star...",
+          "score": 0.594,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "When the app was still young a friend and I created a meme page, which quickly gained a modest amoun...",
+          "score": 0.5354,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"The pressure for likes and validation negatively impacted mental health",
+      "keypoint_index": 3,
+      "best_match_sentence": "Around the same time our engagement began to decline, my addiction to likes and comments and struggle to maintain them started to have a negative impact on my mental health.",
+      "best_match_score": 0.5247,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Around the same time our engagement began to decline, my addiction to likes and comments and struggl...",
+          "score": 0.5247,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "This constant need for approval began to seep into my personal life, affecting my self-esteem and ho...",
+          "score": 0.4664,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "I became increasingly preoccupied with how my posts were performing, often feeling anxious and stres...",
+          "score": 0.4434,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"A shift to intentional use of Instagram improved mental well-being",
+      "keypoint_index": 4,
+      "best_match_sentence": "This shift in how I used Instagram helped me regain control over my mental well-being and eventually most of my issues with instagram became less impactful.",
+      "best_match_score": 0.7917,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "21",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "This shift in how I used Instagram helped me regain control over my mental well-being and eventually...",
+          "score": 0.7917,
+          "author": "user_and_api",
+          "sentence_id": "21",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "While Instagram remains a prominent part of my life, its role has evolved from a source of stress to...",
+          "score": 0.714,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "Despite this, I still found myself drawn to Instagram's allure, now using it in a more intentional w...",
+          "score": 0.6165,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"Instagram now serves as a tool for self-improvement and community engagement",
+      "keypoint_index": 5,
+      "best_match_sentence": "While Instagram remains a prominent part of my life, its role has evolved from a source of stress to a tool for self-improvement and learning.",
+      "best_match_score": 0.7322,
+      "best_match_author": "API",
+      "best_match_sentence_id": "23",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "While Instagram remains a prominent part of my life, its role has evolved from a source of stress to...",
+          "score": 0.7322,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "This shift in how I used Instagram helped me regain control over my mental well-being and eventually...",
+          "score": 0.6328,
+          "author": "user_and_api",
+          "sentence_id": "21",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "As more users flocked to Instagram, the competition grew fiercer, and maintaining our meme page star...",
+          "score": 0.5947,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

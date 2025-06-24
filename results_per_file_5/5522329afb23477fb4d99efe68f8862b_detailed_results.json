@@ -1,0 +1,177 @@
+{
+  "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Smartphones offer connectivity and convenience, allowing instant communication and access to information",
+    "\",\n    \"Over-reliance on smartphones can negatively impact attention span, social interactions, and productivity",
+    "\",\n    \"Smartphones provide productivity tools that help organize schedules and manage tasks efficiently",
+    "\",\n    \"The convenience of smartphones can diminish natural problem-solving skills and independent thinking",
+    "\",\n    \"Balancing smartphone use is essential to harness benefits while minimizing negative impacts on daily life"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "```json\n[\n    \"Smartphones offer connectivity and convenience, allowing instant communication and access to information",
+      "keypoint_index": 1,
+      "best_match_sentence": "It was my first smartphone, and it felt like a whole new world had opened up to me.",
+      "best_match_score": 0.129,
+      "best_match_author": "API",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It was my first smartphone, and it felt like a whole new world had opened up to me.",
+          "score": 0.129,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "I found myself spending hours exploring apps and social media platforms, marveling at the convenienc...",
+          "score": 0.1224,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "They provided a structured way to tackle my responsibilities, allowing me to feel more in control of...",
+          "score": 0.1111,
+          "author": "user_and_api",
+          "sentence_id": "16",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Over-reliance on smartphones can negatively impact attention span, social interactions, and productivity",
+      "keypoint_index": 2,
+      "best_match_sentence": "It wasn't just my social interactions that suffered; my productivity took a hit as well.",
+      "best_match_score": 0.2069,
+      "best_match_author": "API",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It wasn't just my social interactions that suffered; my productivity took a hit as well.",
+          "score": 0.2069,
+          "author": "api",
+          "sentence_id": "8",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "However, this reliance also meant that I started losing some of my natural problem-solving skills.\n\n...",
+          "score": 0.125,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "My attention span seemed to shrink as I constantly flipped between apps, notifications demanding my ...",
+          "score": 0.125,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Smartphones provide productivity tools that help organize schedules and manage tasks efficiently",
+      "keypoint_index": 3,
+      "best_match_sentence": "However, it wasn't all negative; there were undeniable benefits that made life more convenient.\n\nThe good news was that the smartphone also introduced me to a host of productivity apps, which helped me organize my schedule and manage tasks more efficiently.",
+      "best_match_score": 0.2222,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "top_3_matches": [
+        {
+          "sentence": "However, it wasn't all negative; there were undeniable benefits that made life more convenient.\n\nThe...",
+          "score": 0.2222,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "These tools enabled me to set reminders, track my goals, and even learn new skills through education...",
+          "score": 0.1081,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "As time went on, I realized that my smartphone was not just a tool but an ingrained part of my daily...",
+          "score": 0.0909,
+          "author": "api",
+          "sentence_id": "11",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"The convenience of smartphones can diminish natural problem-solving skills and independent thinking",
+      "keypoint_index": 4,
+      "best_match_sentence": "However, this reliance also meant that I started losing some of my natural problem-solving skills.\n\nFinally, I began to recognize that my dependence on technology was diminishing my ability to think independently and creatively.",
+      "best_match_score": 0.25,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "19",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "top_3_matches": [
+        {
+          "sentence": "However, this reliance also meant that I started losing some of my natural problem-solving skills.\n\n...",
+          "score": 0.25,
+          "author": "user_and_api",
+          "sentence_id": "19",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "I found myself spending hours exploring apps and social media platforms, marveling at the convenienc...",
+          "score": 0.1633,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "Tasks that required deep concentration became increasingly difficult to complete, as the allure of d...",
+          "score": 0.129,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "5522329afb23477fb4d99efe68f8862b.csv",
+      "keypoint": "\",\n    \"Balancing smartphone use is essential to harness benefits while minimizing negative impacts on daily life",
+      "keypoint_index": 5,
+      "best_match_sentence": "The bad on, I started noticing some negative impacts on my daily life.",
+      "best_match_score": 0.3571,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "5522329afb23477fb4d99efe68f8862b.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The bad on, I started noticing some negative impacts on my daily life.",
+          "score": 0.3571,
+          "author": "user_and_api",
+          "sentence_id": "5",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "It was my first smartphone, and it felt like a whole new world had opened up to me.",
+          "score": 0.1212,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        },
+        {
+          "sentence": "The ease with which I could access answers online meant that I rarely took the time to grapple with ...",
+          "score": 0.0976,
+          "author": "api",
+          "sentence_id": "20",
+          "filename": "5522329afb23477fb4d99efe68f8862b.csv"
+        }
+      ]
+    }
+  ]
+}

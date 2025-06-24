@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+728be0e074184b268c1a44a00ead8e4a.csv,1,"```json
+[
+    ""People often assume stereotypes about professions without understanding the full scope of an individual's identity","It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration, and creativity.",0.1622,API,5,728be0e074184b268c1a44a00ead8e4a.csv
+728be0e074184b268c1a44a00ead8e4a.csv,2,""",
+    ""Software development is a diverse field involving creativity, teamwork, and collaboration, not just solitary coding","It's not just about sitting alone in front of a computer screen; it's about teamwork, collaboration, and creativity.",0.1714,API,5,728be0e074184b268c1a44a00ead8e4a.csv
+728be0e074184b268c1a44a00ead8e4a.csv,3,""",
+    ""Judging others without evidence can lead to misunderstandings and undervaluation of individuals","To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and functional out of seemingly nothing.",0.1714,USER_AND_API,3,728be0e074184b268c1a44a00ead8e4a.csv
+728be0e074184b268c1a44a00ead8e4a.csv,4,""",
+    ""Society should focus on making the world a better place rather than competing and humiliating others","To me,doing coding is like painting on a digital canvas; it's about creating something beautiful and functional out of seemingly nothing.",0.1538,USER_AND_API,3,728be0e074184b268c1a44a00ead8e4a.csv
+728be0e074184b268c1a44a00ead8e4a.csv,5,""",
+    ""Leaders and individuals alike should promote equality, fairness, and support for the needy to improve societal welfare","Sometimes I get frustrated by people assuming things about my job or hobby.Maybe they think they know everything about me just because of the label attached to my profession, and it's incredibly irritating.",0.0769,USER_AND_API,0,728be0e074184b268c1a44a00ead8e4a.csv

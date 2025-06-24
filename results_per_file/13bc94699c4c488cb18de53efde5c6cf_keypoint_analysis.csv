@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+13bc94699c4c488cb18de53efde5c6cf.csv,1,"```json
+[
+    ""The author is a Democratic Party member conflicted about the death penalty","In my political party, there is a widespread belief that the death penalty is morally wrong.",0.42,USER,1,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,2,""",
+    ""The author believes the death penalty may be justified in extreme cases like Timothy McVeigh's","For example, when Timothy McVeigh killed so many people in the Oklahoma City bombing of 1995, he most definitely deserved the death penalty.",0.6753,USER,4,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,3,""",
+    ""There is tension between the author's views and the Democratic Party's stance against the death penalty","In my political party, there is a widespread belief that the death penalty is morally wrong.",0.6354,USER,1,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,4,""",
+    ""The author acknowledges the potential for errors in the justice system but argues for a balance between justice and morality","I've often found myself reflecting on the idea that while the judicial system is flawed, there must be some good things that come out of it, and some of those would be executing the worst of our criminals, as that can act as a deterrent to major crimes and stop potential extra attacks from other evil people who were inspired by these terrible acts.",0.5522,USER_AND_API,16,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert
+13bc94699c4c488cb18de53efde5c6cf.csv,5,""",
+    ""Discussions on the death penalty have led the author to further explore and affirm their belief in its necessity for certain crimes","I began reading extensively about the history and effectiveness of the death penalty, hoping to gain a broader perspective.",0.7207,API,19,13bc94699c4c488cb18de53efde5c6cf.csv,sentence-bert

@@ -1,0 +1,177 @@
+{
+  "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Game development involves designing systems, writing code, and collaborating with artists and writers",
+    "\",\n    \"The passion for creating interactive worlds stems from a love of storytelling and creativity",
+    "\",\n    \"There is a stereotype that jobs tied to 'fun' are not serious or valuable",
+    "\",\n    \"The joy of game development comes from launching a game and seeing players engage with it",
+    "\",\n    \"Misunderstandings about one's passion should be used as opportunities to educate others"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "```json\n[\n    \"Game development involves designing systems, writing code, and collaborating with artists and writers",
+      "keypoint_index": 1,
+      "best_match_sentence": "- “Well, not exactly,” I said, trying to explain, “it’s more about designing systems, writing code, collaborating with artists and writers, and constantly testing to make sure things actually work.”\nBut by then, they had already tuned out.",
+      "best_match_score": 0.3462,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "3",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "- “Well, not exactly,” I said, trying to explain, “it’s more about designing systems, writing code, ...",
+          "score": 0.3462,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "They had their idea of what game development was, and it didn’t include long nights fixing bugs or m...",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple ga...",
+          "score": 0.1143,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"The passion for creating interactive worlds stems from a love of storytelling and creativity",
+      "keypoint_index": 2,
+      "best_match_sentence": "For me, it just happens to be in code, pixels, and the thrill of possibility.\nSo to anyone who's ever had their passion misunderstood or belittled: keep doing what you love.",
+      "best_match_score": 0.1304,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "For me, it just happens to be in code, pixels, and the thrill of possibility.\nSo to anyone who's eve...",
+          "score": 0.1304,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "For me, that moment came at a family gathering when someone casually asked what I did for a living.",
+          "score": 0.1212,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple ga...",
+          "score": 0.1143,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"There is a stereotype that jobs tied to 'fun' are not serious or valuable",
+      "keypoint_index": 3,
+      "best_match_sentence": "It’s about building something meaningful within it.\nWhat frustrates me is how quickly people stereotype jobs tied to “fun.” If you say you’re a lawyer or a nurse, people immediately understand the value.",
+      "best_match_score": 0.2857,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "It’s about building something meaningful within it.\nWhat frustrates me is how quickly people stereot...",
+          "score": 0.2857,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "And when someone makes an assumption, use it as a chance to educate, not to retreat.\nBecause at the ...",
+          "score": 0.1017,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "It’s not about escaping reality.",
+          "score": 0.1,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"The joy of game development comes from launching a game and seeing players engage with it",
+      "keypoint_index": 4,
+      "best_match_sentence": "But it’s the judgmental glances, the flippant comments, that stick with you longer than they should.\nStill, I wouldn’t trade my path for anything.- The joy of launching a game and seeing players engage with something I helped bring to life is indescribable.\nIt’s more than a job—it’s a way to tell stories, solve problems, and be endlessly creative.",
+      "best_match_score": 0.3,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "But it’s the judgmental glances, the flippant comments, that stick with you longer than they should....",
+          "score": 0.3,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "They had their idea of what game development was, and it didn’t include long nights fixing bugs or m...",
+          "score": 0.2564,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "Title: “No, I Don’t Just Play Video Games All Day – The Real Story Behind Game Development”\nEver had...",
+          "score": 0.1739,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "keypoint": "\",\n    \"Misunderstandings about one's passion should be used as opportunities to educate others",
+      "keypoint_index": 5,
+      "best_match_sentence": "And when someone makes an assumption, use it as a chance to educate, not to retreat.\nBecause at the end of the day, what matters most isn’t how others see your path, it’s how much you believe in where it’s taking you.",
+      "best_match_score": 0.1379,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "And when someone makes an assumption, use it as a chance to educate, not to retreat.\nBecause at the ...",
+          "score": 0.1379,
+          "author": "user",
+          "sentence_id": "16",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "And for anyone out there who’s been judged for their work or passion, I just want to say: don’t let ...",
+          "score": 0.1224,
+          "author": "user",
+          "sentence_id": "13",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        },
+        {
+          "sentence": "It’s not about escaping reality.",
+          "score": 0.1053,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "615fe44d5a6c40baaa9c9249c9936e3a.csv"
+        }
+      ]
+    }
+  ]
+}

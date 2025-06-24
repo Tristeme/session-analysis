@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+7086f19b8538427298d19fca51447521.csv,1,"```json
+[
+    ""The dream is to create a community learning center blending mentorship, career development, and mental wellness","The community learning center isn't just a dream—it's becoming a testament to resilience, cooperation, and the relentless pursuit of something meaningful.",0.6291,API,38,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,2,""",
+    ""Personal struggles and community observations fuel the vision to prevent others from feeling isolated or hopeless","I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.
+The journey so far?",0.5518,USER,10,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,3,""",
+    ""The journey involves overcoming financial challenges, burnout, and self-doubt while gaining experience and making connections","I dont want others to feel that kind of isolation or hopelessness when their potential is limitless.
+The journey so far?",0.5246,USER,10,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,4,""",
+    ""Patience is crucial as every step and detour teaches valuable lessons, with the dream rooted in love, resilience, and empathy",Patience.,0.5662,USER,18,7086f19b8538427298d19fca51447521.csv,sentence-bert
+7086f19b8538427298d19fca51447521.csv,5,""",
+    ""The vision is communal, involving collaboration and collective action to create pathways and a sense of belonging for others","Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is also communal—it belongs to everyone who believes in a better future.",0.6605,API,35,7086f19b8538427298d19fca51447521.csv,sentence-bert

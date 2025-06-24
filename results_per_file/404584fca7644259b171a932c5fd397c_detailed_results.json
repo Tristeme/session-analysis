@@ -1,0 +1,183 @@
+{
+  "source_file": "404584fca7644259b171a932c5fd397c.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Achieving financial independence allows choices based on personal satisfaction rather than necessity",
+    "\",\n    \"Balancing family care and personal challenges is crucial, with a focus on supporting aging parents",
+    "\",\n    \"Exploring video game development as a creative outlet and potential income source",
+    "\",\n    \"Leaving the workforce offers time to pursue interests and passions deeply",
+    "\",\n    \"Skills and experience in tech provide a foundation for potential reintegration into the industry"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "404584fca7644259b171a932c5fd397c.csv",
+      "keypoint": "```json\n[\n    \"Achieving financial independence allows choices based on personal satisfaction rather than necessity",
+      "keypoint_index": 1,
+      "best_match_sentence": "having achieved financial independence  through my job, I find myself in a unique position where I can make choices based on personal satisfaction rather than financial necessity.",
+      "best_match_score": 0.6355,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "404584fca7644259b171a932c5fd397c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "having achieved financial independence  through my job, I find myself in a unique position where I c...",
+          "score": 0.6355,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "Hence choosing My Family and Myself at this time is of more importance.",
+          "score": 0.4048,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "This could potentially bridge the gap between my need for creativity and my desire to support my fam...",
+          "score": 0.3425,
+          "author": "user_and_api",
+          "sentence_id": "12",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "404584fca7644259b171a932c5fd397c.csv",
+      "keypoint": "\",\n    \"Balancing family care and personal challenges is crucial, with a focus on supporting aging parents",
+      "keypoint_index": 2,
+      "best_match_sentence": "My parents are aging, and their need for support has become more pronounced over the years.",
+      "best_match_score": 0.658,
+      "best_match_author": "API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "404584fca7644259b171a932c5fd397c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "My parents are aging, and their need for support has become more pronounced over the years.",
+          "score": 0.658,
+          "author": "api",
+          "sentence_id": "4",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "I need to find a way to make , the caring for my parents to be a therapeutic way for me  to navigate...",
+          "score": 0.5641,
+          "author": "user_and_api",
+          "sentence_id": "7",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "This could potentially bridge the gap between my need for creativity and my desire to support my fam...",
+          "score": 0.5589,
+          "author": "user_and_api",
+          "sentence_id": "12",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "404584fca7644259b171a932c5fd397c.csv",
+      "keypoint": "\",\n    \"Exploring video game development as a creative outlet and potential income source",
+      "keypoint_index": 3,
+      "best_match_sentence": "Apart from being a hobby, video games when monetized well can be a viable source of income, allowing me to maintain a level of  security without the pressures of a traditional job.",
+      "best_match_score": 0.7014,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "404584fca7644259b171a932c5fd397c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Apart from being a hobby, video games when monetized well can be a viable source of income, allowing...",
+          "score": 0.7014,
+          "author": "user_and_api",
+          "sentence_id": "11",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "One of these passions is making video games, a creative outlet that has always brought me joy and fu...",
+          "score": 0.6809,
+          "author": "api",
+          "sentence_id": "9",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "By focusing on family care and pursuing my passion for video game development, I believe I can forge...",
+          "score": 0.6096,
+          "author": "api",
+          "sentence_id": "20",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "404584fca7644259b171a932c5fd397c.csv",
+      "keypoint": "\",\n    \"Leaving the workforce offers time to pursue interests and passions deeply",
+      "keypoint_index": 4,
+      "best_match_sentence": "While the idea of leaving my career behind is daunting, I recognize that stepping away from the workforce may grant me the time and space to explore my interests and passions more deeply.",
+      "best_match_score": 0.8384,
+      "best_match_author": "API",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "404584fca7644259b171a932c5fd397c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "While the idea of leaving my career behind is daunting, I recognize that stepping away from the work...",
+          "score": 0.8384,
+          "author": "api",
+          "sentence_id": "8",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "This freedom affords me the opportunity to focus on aspects of life that are often pushed aside due ...",
+          "score": 0.5485,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "Additionally, this continuous engagement with the gaming community could offer networking opportunit...",
+          "score": 0.5301,
+          "author": "api",
+          "sentence_id": "17",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "404584fca7644259b171a932c5fd397c.csv",
+      "keypoint": "\",\n    \"Skills and experience in tech provide a foundation for potential reintegration into the industry",
+      "keypoint_index": 5,
+      "best_match_sentence": "Skills in the tech industry are often transferable, and staying engaged with my hobby of game development would help me remain relevant and up-to-date with industry trends.",
+      "best_match_score": 0.6635,
+      "best_match_author": "API",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "404584fca7644259b171a932c5fd397c.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Skills in the tech industry are often transferable, and staying engaged with my hobby of game develo...",
+          "score": 0.6635,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "But the amount of skill I had acquired  in my earlier job  provides a solid foundation that could ma...",
+          "score": 0.6056,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        },
+        {
+          "sentence": "It is reassuring to know that my skills and experience are not only versatile but also valued, which...",
+          "score": 0.4677,
+          "author": "user_and_api",
+          "sentence_id": "18",
+          "filename": "404584fca7644259b171a932c5fd397c.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

@@ -1,0 +1,183 @@
+{
+  "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"The author dreams of traveling, financial freedom, and a fulfilling career",
+    "\",\n    \"Travel is a priority, with a focus on experiences over material possessions",
+    "\",\n    \"Financial freedom is pursued through saving, investing, and financial education",
+    "\",\n    \"Organizing a charity event brought satisfaction despite challenges",
+    "\",\n    \"Personal growth is achieved through self-improvement practices like meditation and workshops"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "```json\n[\n    \"The author dreams of traveling, financial freedom, and a fulfilling career",
+      "keypoint_index": 1,
+      "best_match_sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",
+      "best_match_score": 0.5418,
+      "best_match_author": "API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to ex...",
+          "score": 0.5418,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "I want to travel, be financially free, have actual peace of mind, and pursue a career that brings me...",
+          "score": 0.4765,
+          "author": "user_and_api",
+          "sentence_id": "2",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budge...",
+          "score": 0.4447,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Travel is a priority, with a focus on experiences over material possessions",
+      "keypoint_index": 2,
+      "best_match_sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budget, all while ensuring I prioritize experiences over material possessions.",
+      "best_match_score": 0.6247,
+      "best_match_author": "API",
+      "best_match_sentence_id": "5",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budge...",
+          "score": 0.6247,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "Travel has always been at the forefront; experiencing new cultures and seeing  the world from differ...",
+          "score": 0.5773,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to ex...",
+          "score": 0.5141,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Financial freedom is pursued through saving, investing, and financial education",
+      "keypoint_index": 3,
+      "best_match_sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to explore these destinations without constantly worrying about expenses or being tied down by financial constraints.",
+      "best_match_score": 0.6027,
+      "best_match_author": "API",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Financial freedom is another crucial element of my dream, as it would grant me the flexibility to ex...",
+          "score": 0.6027,
+          "author": "api",
+          "sentence_id": "6",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "To work towards this goal, I've been investing in stocks and educating myself about personal finance...",
+          "score": 0.5524,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "To make this dream a reality, I have been diligently saving money and planning trips within my budge...",
+          "score": 0.3721,
+          "author": "api",
+          "sentence_id": "5",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Organizing a charity event brought satisfaction despite challenges",
+      "keypoint_index": 4,
+      "best_match_sentence": "Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that are essential not just for financial success, but for achieving peace of mind as well.\n Recently, I helped organize a charity event.",
+      "best_match_score": 0.6023,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that ...",
+          "score": 0.6023,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "We were able to raise money, cook food for them, donated some supplies and enjoyed the day playing a...",
+          "score": 0.4246,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "It is all not so inspiring because  sometimes going after your dreams and ambitions feels like you a...",
+          "score": 0.3105,
+          "author": "user",
+          "sentence_id": "14",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "keypoint": "\",\n    \"Personal growth is achieved through self-improvement practices like meditation and workshops",
+      "keypoint_index": 5,
+      "best_match_sentence": "To reach this vision of the future, I am constantly working on improving myself—reading self-help books and attending workshops that build my skills and confidence.",
+      "best_match_score": 0.6755,
+      "best_match_author": "API",
+      "best_match_sentence_id": "23",
+      "best_match_filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "To reach this vision of the future, I am constantly working on improving myself—reading self-help bo...",
+          "score": 0.6755,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "This practice helps me center my thoughts and navigate the inevitable chaos that life throws my way,...",
+          "score": 0.4738,
+          "author": "user_and_api",
+          "sentence_id": "25",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        },
+        {
+          "sentence": "Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that ...",
+          "score": 0.4226,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "cd40ed4c30324a2cbdf9f223b22cbb16.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

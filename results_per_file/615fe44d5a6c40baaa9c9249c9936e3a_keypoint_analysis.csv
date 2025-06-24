@@ -1,0 +1,19 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+615fe44d5a6c40baaa9c9249c9936e3a.csv,1,""",
+    ""The joy of seeing players engage with a game is a significant reward for game developers","But it’s the judgmental glances, the flippant comments, that stick with you longer than they should.
+Still, I wouldn’t trade my path for anything.- The joy of launching a game and seeing players engage with something I helped bring to life is indescribable.
+It’s more than a job—it’s a way to tell stories, solve problems, and be endlessly creative.",0.5341,USER,12,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,2,"```json
+[
+    ""Game development involves designing systems, writing code, and collaborating with artists and writers","I wrote little comic books, built imaginary worlds with LEGO, and later, experimented with simple game-making tools like RPG Maker.",0.5058,USER,6,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,3,""",
+    ""The passion for creating and storytelling drives a career in game development, not just playing games","It stung more than I thought it would, and I couldn’t shake the feeling that my work was being trivialized.
+It’s funny how a single assumption can erase all the effort you’ve put into something.
+- I didn’t get into game development because I wanted to play; I got into it because I wanted to create.
+As a kid, I was obsessed with storytelling.",0.6396,USER,5,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,4,""",
+    ""Stereotypes about jobs tied to 'fun' can trivialize the hard work and creativity involved","It’s about building something meaningful within it.
+What frustrates me is how quickly people stereotype jobs tied to “fun.” If you say you’re a lawyer or a nurse, people immediately understand the value.",0.7136,USER,9,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert
+615fe44d5a6c40baaa9c9249c9936e3a.csv,5,""",
+    ""Misunderstandings about one's work should be met with education rather than retreat","And for anyone out there who’s been judged for their work or passion, I just want to say: don’t let someone else’s misunderstanding diminish your purpose.
+We all find meaning in different places.",0.5328,USER,13,615fe44d5a6c40baaa9c9249c9936e3a.csv,sentence-bert

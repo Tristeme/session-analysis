@@ -1,0 +1,177 @@
+{
+  "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+  "extracted_keypoints": [
+    "\",\n    \"Despite challenges and resistance, community unity and effort led to significant progress for current and future generations",
+    "```json\n[\n    \"Breaking the cycle of poverty involves improving access to basic needs, healthcare, and education",
+    "\",\n    \"An online donation platform was created to support community health and education initiatives, but faced challenges due to insufficient funds",
+    "\",\n    \"Community efforts focused on health education, clean water access, and sanitation improvements, leading to government and private sector support",
+    "\",\n    \"Equipping individuals with knowledge, skills, and opportunities is essential for breaking the poverty cycle and improving economic prospects"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Despite challenges and resistance, community unity and effort led to significant progress for current and future generations",
+      "keypoint_index": 1,
+      "best_match_sentence": "With the unity and effort we were able to add a crucial progress in the community for the current and future generation .",
+      "best_match_score": 0.4615,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "With the unity and effort we were able to add a crucial progress in the community for the current an...",
+          "score": 0.4615,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Despite every effort to push forward, there were times when it felt like progress was at a standstil...",
+          "score": 0.2286,
+          "author": "api",
+          "sentence_id": "7",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Government officials volunteered to provide all that and also help most people have access to higher...",
+          "score": 0.1739,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "```json\n[\n    \"Breaking the cycle of poverty involves improving access to basic needs, healthcare, and education",
+      "keypoint_index": 2,
+      "best_match_sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with thoughts on how to break the poverty cycle in the community by making everyone afford their basic needs and help them keep the health more strong by having the best medical care and educate them on eating healthy foods.",
+      "best_match_score": 0.2222,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with...",
+          "score": 0.2222,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "With the unity and effort we were able to add a crucial progress in the community for the current an...",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "After the hard work, one of the local leaders helped us dig a well to provide clean water to most fa...",
+          "score": 0.1429,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"An online donation platform was created to support community health and education initiatives, but faced challenges due to insufficient funds",
+      "keypoint_index": 3,
+      "best_match_sentence": "With the unity and effort we were able to add a crucial progress in the community for the current and future generation .",
+      "best_match_score": 0.1429,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "With the unity and effort we were able to add a crucial progress in the community for the current an...",
+          "score": 0.1429,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "By prioritizing the best education, its the best way to cut poverty cycle and create best paths for ...",
+          "score": 0.129,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Government officials volunteered to provide all that and also help most people have access to higher...",
+          "score": 0.1224,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Community efforts focused on health education, clean water access, and sanitation improvements, leading to government and private sector support",
+      "keypoint_index": 4,
+      "best_match_sentence": "With the unity and effort we were able to add a crucial progress in the community for the current and future generation .",
+      "best_match_score": 0.1463,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "With the unity and effort we were able to add a crucial progress in the community for the current an...",
+          "score": 0.1463,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "After the hard work, one of the local leaders helped us dig a well to provide clean water to most fa...",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Luck of enough funds caused a lot of pushbacks from members of the community as they thought the pro...",
+          "score": 0.1296,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "7a84644b671144b29973ab0ffe23898a.csv",
+      "keypoint": "\",\n    \"Equipping individuals with knowledge, skills, and opportunities is essential for breaking the poverty cycle and improving economic prospects",
+      "keypoint_index": 5,
+      "best_match_sentence": "With the unity and effort we were able to add a crucial progress in the community for the current and future generation .",
+      "best_match_score": 0.25,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "9",
+      "best_match_filename": "7a84644b671144b29973ab0ffe23898a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "With the unity and effort we were able to add a crucial progress in the community for the current an...",
+          "score": 0.25,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Seeing that my project was moving in the right direction, government, private education and health o...",
+          "score": 0.1616,
+          "author": "user",
+          "sentence_id": "4",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        },
+        {
+          "sentence": "Title; Break the Cycle of Poverty and Improve Health \nEver lie awake at night, your mind filled with...",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "7a84644b671144b29973ab0ffe23898a.csv"
+        }
+      ]
+    }
+  ]
+}

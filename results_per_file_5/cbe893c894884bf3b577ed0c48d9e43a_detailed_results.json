@@ -1,0 +1,177 @@
+{
+  "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Roller skating is a lifelong passion and source of joy for the narrator",
+    "\",\n    \"The narrator feels judged by others who view roller skating as childish or unprofessional",
+    "\",\n    \"Skating has been a lifeline and a form of expression, offering freedom and a way to cope with life's pressures",
+    "\",\n    \"A past experience showed how skating indirectly saved the narrator from a potential allergic reaction",
+    "\",\n    \"The narrator emphasizes the importance of staying true to one's passions despite external judgments"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "```json\n[\n    \"Roller skating is a lifelong passion and source of joy for the narrator",
+      "keypoint_index": 1,
+      "best_match_sentence": "Roller skating has been more than just a hobby for me.",
+      "best_match_score": 0.32,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "4",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.32,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of ...",
+          "score": 0.2162,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "The key is to stay true to yourself and embrace what brings you happiness, regardless of external ju...",
+          "score": 0.1875,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"The narrator feels judged by others who view roller skating as childish or unprofessional",
+      "keypoint_index": 2,
+      "best_match_sentence": "Despite knowing how crucial roller skating has been in my life, I still face judgment from others who see it as childish or attaching an age limit to it.",
+      "best_match_score": 0.2326,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Despite knowing how crucial roller skating has been in my life, I still face judgment from others wh...",
+          "score": 0.2326,
+          "author": "user_and_api",
+          "sentence_id": "13",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "I felt the urge to engage  them in conversation and explain why roller skating means so much to me, ...",
+          "score": 0.1667,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.16,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"Skating has been a lifeline and a form of expression, offering freedom and a way to cope with life's pressures",
+      "keypoint_index": 3,
+      "best_match_sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of life in the literal meaning.",
+      "best_match_score": 0.3636,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Skating became an expression of freedom and creativity—a way for me to escape from the pressures of ...",
+          "score": 0.3636,
+          "author": "user_and_api",
+          "sentence_id": "8",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.25,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "I mean it has been my life , my lifeline.",
+          "score": 0.2,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"A past experience showed how skating indirectly saved the narrator from a potential allergic reaction",
+      "keypoint_index": 4,
+      "best_match_sentence": "Later, I learned that at the party the food served had traces of peanut which could have triggered a severe allergic reaction for me.",
+      "best_match_score": 0.2051,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "11",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Later, I learned that at the party the food served had traces of peanut which could have triggered a...",
+          "score": 0.2051,
+          "author": "user_and_api",
+          "sentence_id": "11",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Instead of confronting them directly, I took a deep breath and decided to let my skating do the talk...",
+          "score": 0.1765,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Roller skating has been more than just a hobby for me.",
+          "score": 0.1538,
+          "author": "user_and_api",
+          "sentence_id": "4",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "keypoint": "\",\n    \"The narrator emphasizes the importance of staying true to one's passions despite external judgments",
+      "keypoint_index": 5,
+      "best_match_sentence": "The key is to stay true to yourself and embrace what brings you happiness, regardless of external judgments.",
+      "best_match_score": 0.303,
+      "best_match_author": "API",
+      "best_match_sentence_id": "25",
+      "best_match_filename": "cbe893c894884bf3b577ed0c48d9e43a.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The key is to stay true to yourself and embrace what brings you happiness, regardless of external ju...",
+          "score": 0.303,
+          "author": "api",
+          "sentence_id": "25",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "Later, I learned that at the party the food served had traces of peanut which could have triggered a...",
+          "score": 0.1538,
+          "author": "user_and_api",
+          "sentence_id": "11",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        },
+        {
+          "sentence": "After all, life is too short to live by the expectations of others.",
+          "score": 0.1429,
+          "author": "user_and_api",
+          "sentence_id": "26",
+          "filename": "cbe893c894884bf3b577ed0c48d9e43a.csv"
+        }
+      ]
+    }
+  ]
+}

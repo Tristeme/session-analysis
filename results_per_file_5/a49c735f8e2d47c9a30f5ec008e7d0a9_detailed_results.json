@@ -1,0 +1,177 @@
+{
+  "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Instagram initially provided excitement and connection through sharing photos and gaining followers",
+    "\",\n    \"Creating a meme page led to creativity and engagement but eventually became stressful due to competition and algorithm changes",
+    "\",\n    \"The pressure to maintain likes and comments negatively impacted mental health and self-esteem",
+    "\",\n    \"Ending the meme page brought relief and allowed for a more intentional use of Instagram",
+    "\",\n    \"Instagram's role evolved into a tool for self-improvement, learning, and connecting with meaningful communities"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "```json\n[\n    \"Instagram initially provided excitement and connection through sharing photos and gaining followers",
+      "keypoint_index": 1,
+      "best_match_sentence": "Instagram is something I got hooked on early on , back when it was a fresh new platform that allowed me to share glimpses of my life through photos.",
+      "best_match_score": 0.1463,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Instagram is something I got hooked on early on , back when it was a fresh new platform that allowed...",
+          "score": 0.1463,
+          "author": "user_and_api",
+          "sentence_id": "0",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "Eventually my friend and I decided to end the page, and with that came a mix of emotions.",
+          "score": 0.129,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "It was thrilling to see likes and comments roll in, and the app quickly became a part of my daily ro...",
+          "score": 0.1176,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"Creating a meme page led to creativity and engagement but eventually became stressful due to competition and algorithm changes",
+      "keypoint_index": 2,
+      "best_match_sentence": "We carried this on for a couple years, and eventually the platform became more saturated with similar content vying for attention.",
+      "best_match_score": 0.2,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "6",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "We carried this on for a couple years, and eventually the platform became more saturated with simila...",
+          "score": 0.2,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "On top of the challenges of maintaining the meme page, it also became less satisfying, and more diff...",
+          "score": 0.1739,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "Eventually my friend and I decided to end the page, and with that came a mix of emotions.",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"The pressure to maintain likes and comments negatively impacted mental health and self-esteem",
+      "keypoint_index": 3,
+      "best_match_sentence": "Around the same time our engagement began to decline, my addiction to likes and comments and struggle to maintain them started to have a negative impact on my mental health.",
+      "best_match_score": 0.3182,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "12",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Around the same time our engagement began to decline, my addiction to likes and comments and struggl...",
+          "score": 0.3182,
+          "author": "user",
+          "sentence_id": "12",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "It was thrilling to see likes and comments roll in, and the app quickly became a part of my daily ro...",
+          "score": 0.2857,
+          "author": "api",
+          "sentence_id": "1",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "The algorithm changes introduced by Instagram seemed to favor larger accounts, making it harder for ...",
+          "score": 0.2105,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"Ending the meme page brought relief and allowed for a more intentional use of Instagram",
+      "keypoint_index": 4,
+      "best_match_sentence": "Eventually my friend and I decided to end the page, and with that came a mix of emotions.",
+      "best_match_score": 0.303,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "Eventually my friend and I decided to end the page, and with that came a mix of emotions.",
+          "score": 0.303,
+          "author": "user",
+          "sentence_id": "17",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "On top of the challenges of maintaining the meme page, it also became less satisfying, and more diff...",
+          "score": 0.2857,
+          "author": "user",
+          "sentence_id": "9",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "When the app was still young a friend and I created a meme page, which quickly gained a modest amoun...",
+          "score": 0.2703,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "keypoint": "\",\n    \"Instagram's role evolved into a tool for self-improvement, learning, and connecting with meaningful communities",
+      "keypoint_index": 5,
+      "best_match_sentence": "While Instagram remains a prominent part of my life, its role has evolved from a source of stress to a tool for self-improvement and learning.",
+      "best_match_score": 0.4286,
+      "best_match_author": "API",
+      "best_match_sentence_id": "23",
+      "best_match_filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv",
+      "top_3_matches": [
+        {
+          "sentence": "While Instagram remains a prominent part of my life, its role has evolved from a source of stress to...",
+          "score": 0.4286,
+          "author": "api",
+          "sentence_id": "23",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "This constant need for approval began to seep into my personal life, affecting my self-esteem and ho...",
+          "score": 0.1951,
+          "author": "user_and_api",
+          "sentence_id": "14",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        },
+        {
+          "sentence": "We carried this on for a couple years, and eventually the platform became more saturated with simila...",
+          "score": 0.1622,
+          "author": "user",
+          "sentence_id": "6",
+          "filename": "a49c735f8e2d47c9a30f5ec008e7d0a9.csv"
+        }
+      ]
+    }
+  ]
+}

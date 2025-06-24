@@ -1,0 +1,16 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+9008171846a64bddb019c06cfc482c35.csv,1,"```json
+[
+    ""The author became obsessed with their first smartphone, a Samsung S10 plus, during high school","It was a very nice Samsung phone, the S10 plus.",0.3077,USER,2,9008171846a64bddb019c06cfc482c35.csv
+9008171846a64bddb019c06cfc482c35.csv,2,""",
+    ""Their phone addiction led to a decline in academic performance, causing concern for their parents",After i got the phone my grades started deteriorating to the point my parents got concerned.,0.1935,USER,12,9008171846a64bddb019c06cfc482c35.csv
+9008171846a64bddb019c06cfc482c35.csv,3,""",
+    ""Parents intervened and taught the author to use the phone as a tool for productivity and education","Eventually my parents found out, sat me down and we came to an understanding.
+ 
+My parents showed me how to use my phone for good, like setting reminders and using educational apps that could complement my studies.",0.2593,USER_AND_API,15,9008171846a64bddb019c06cfc482c35.csv
+9008171846a64bddb019c06cfc482c35.csv,4,""",
+    ""Despite improvements in academics, the author became isolated due to excessive phone use",After i got the phone my grades started deteriorating to the point my parents got concerned.,0.1379,USER,12,9008171846a64bddb019c06cfc482c35.csv
+9008171846a64bddb019c06cfc482c35.csv,5,""",
+    ""The author is currently seeking to balance phone use with real-life interactions and experiences","I would like to hear your experiences with the same and maybe pick a few solutions from there.
+ 
+cheers!",0.1765,USER,24,9008171846a64bddb019c06cfc482c35.csv

@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+e664806e36564ca89520fd69a80beb1a.csv,1,"```json
+[
+    ""Standing up for personal beliefs requires courage, especially against societal and peer pressure","It takes courage to stand up for what you believe in even in the face of pressure from society, family and friends.",0.6145,USER,0,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,2,""",
+    ""The author believed women should not officiate men's basketball games due to safety and fairness concerns","For me, there was a time at work where I felt it wasn't right that women should officiate men's basketball games.",0.761,USER,2,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,3,""",
+    ""Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues","I implemented a policy allowing women to officiate in youth leagues, believing that this was an appropriate step toward inclusivity while maintaining safety.",0.8481,API,14,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,4,""",
+    ""The decision sparked debate but was ultimately accepted, proving less controversial than expected","To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehemently supporting it, a few questioning it but I felt overall most people were understanding or didn't really see it as an issue.",0.5795,USER_AND_API,15,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert
+e664806e36564ca89520fd69a80beb1a.csv,5,""",
+    ""Social media can amplify perceived issues, but practical outcomes often matter more to people","This is where social media makes things seem to be a bigger issue when in fact, most people aren't that worried about it.",0.6393,USER,20,e664806e36564ca89520fd69a80beb1a.csv,sentence-bert

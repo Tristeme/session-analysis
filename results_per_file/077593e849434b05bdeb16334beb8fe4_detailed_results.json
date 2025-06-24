@@ -1,0 +1,183 @@
+{
+  "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Reached financial independence but facing a life crossroad",
+    "\",\n    \"Considering leaving the workforce to pursue personal fulfillment",
+    "\",\n    \"Balancing passion for video game development with family responsibilities",
+    "\",\n    \"Exploring part-time work or freelance for flexibility",
+    "\",\n    \"Seeking advice on balancing personal passions, family, and career"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+      "keypoint": "```json\n[\n    \"Reached financial independence but facing a life crossroad",
+      "keypoint_index": 1,
+      "best_match_sentence": "At last I've reached financial independence, only to reach a crossroad in my life.",
+      "best_match_score": 0.4223,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "077593e849434b05bdeb16334beb8fe4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "At last I've reached financial independence, only to reach a crossroad in my life.",
+          "score": 0.4223,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "I worked so incredibly hard to get where I am with my career- achieving financial independence is no...",
+          "score": 0.3701,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "On one hand, I have a deep desire to focus on my own well-being, to finally take a step to becoming ...",
+          "score": 0.2753,
+          "author": "user_and_api",
+          "sentence_id": "3",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+      "keypoint": "\",\n    \"Considering leaving the workforce to pursue personal fulfillment",
+      "keypoint_index": 2,
+      "best_match_sentence": "My parents are aging, I'm experiencing some challenges of my own, and to top it all off I'm seriously considering leaving the workforce.",
+      "best_match_score": 0.5678,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "1",
+      "best_match_filename": "077593e849434b05bdeb16334beb8fe4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "My parents are aging, I'm experiencing some challenges of my own, and to top it all off I'm seriousl...",
+          "score": 0.5678,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "This way, I wouldn't be completely stepping away from my career, but rather adjusting it to suit my ...",
+          "score": 0.5637,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "If I choose to step back from my career, it might be an opportunity for personal growth that I’ve be...",
+          "score": 0.5314,
+          "author": "api",
+          "sentence_id": "26",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+      "keypoint": "\",\n    \"Balancing passion for video game development with family responsibilities",
+      "keypoint_index": 3,
+      "best_match_sentence": "Maybe the key lies in finding a middle ground—where I can dedicate time to developing video games, while still having an adequate amount of time to also spend with my parents.",
+      "best_match_score": 0.7115,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "17",
+      "best_match_filename": "077593e849434b05bdeb16334beb8fe4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "Maybe the key lies in finding a middle ground—where I can dedicate time to developing video games, w...",
+          "score": 0.7115,
+          "author": "user_and_api",
+          "sentence_id": "17",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "With that in mind, the thought of sharing my passion for video games with them could be a special wa...",
+          "score": 0.5945,
+          "author": "api",
+          "sentence_id": "34",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "By exploring my passion for creating video games, I'm sure to be a much happier and pleasant person ...",
+          "score": 0.5705,
+          "author": "user_and_api",
+          "sentence_id": "27",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+      "keypoint": "\",\n    \"Exploring part-time work or freelance for flexibility",
+      "keypoint_index": 4,
+      "best_match_sentence": "To make this possible, I could consider working part-time or taking on freelance projects that allow me the flexibility to juggle both responsibilities.",
+      "best_match_score": 0.7327,
+      "best_match_author": "API",
+      "best_match_sentence_id": "18",
+      "best_match_filename": "077593e849434b05bdeb16334beb8fe4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "To make this possible, I could consider working part-time or taking on freelance projects that allow...",
+          "score": 0.7327,
+          "author": "api",
+          "sentence_id": "18",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "I worked so incredibly hard to get where I am with my career- achieving financial independence is no...",
+          "score": 0.4088,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "This way, I wouldn't be completely stepping away from my career, but rather adjusting it to suit my ...",
+          "score": 0.3712,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "077593e849434b05bdeb16334beb8fe4.csv",
+      "keypoint": "\",\n    \"Seeking advice on balancing personal passions, family, and career",
+      "keypoint_index": 5,
+      "best_match_sentence": "I'm eager to hear your experiences and advice, as I navigate these tough decisions about balancing my personal passions, family responsibilities, and professional life.",
+      "best_match_score": 0.72,
+      "best_match_author": "API",
+      "best_match_sentence_id": "39",
+      "best_match_filename": "077593e849434b05bdeb16334beb8fe4.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I'm eager to hear your experiences and advice, as I navigate these tough decisions about balancing m...",
+          "score": 0.72,
+          "author": "api",
+          "sentence_id": "39",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "I often wonder if it's possible to create a life where I can prioritize my own passions, care for my...",
+          "score": 0.6487,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        },
+        {
+          "sentence": "This way, I wouldn't be completely stepping away from my career, but rather adjusting it to suit my ...",
+          "score": 0.5295,
+          "author": "api",
+          "sentence_id": "19",
+          "filename": "077593e849434b05bdeb16334beb8fe4.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

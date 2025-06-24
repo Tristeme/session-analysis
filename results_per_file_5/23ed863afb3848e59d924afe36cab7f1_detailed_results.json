@@ -1,0 +1,177 @@
+{
+  "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Technology, including AI and blockchain, fascinates older generations but also raises concerns",
+    "\",\n    \"AI tools can map emotions by analyzing tones, sparking discussions about privacy and technology's impact",
+    "\",\n    \"Technology offers convenience but can lead to a loss of genuine human connections",
+    "\",\n    \"Constant connectivity can result in loneliness and a sense of disconnection from reality",
+    "\",\n    \"Online comparison can cause insecurity and pressure to maintain a perfect persona"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "```json\n[\n    \"Technology, including AI and blockchain, fascinates older generations but also raises concerns",
+      "keypoint_index": 1,
+      "best_match_sentence": "The students were quiet for a minute and I told them that technology gave me the world sure but it took pieces of my presence.",
+      "best_match_score": 0.1053,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "8",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "top_3_matches": [
+        {
+          "sentence": "The students were quiet for a minute and I told them that technology gave me the world sure but it t...",
+          "score": 0.1053,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "This young man continues to say that the AI tool listens to your tones and gives a result on the typ...",
+          "score": 0.1,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "I also was left at a standstill.",
+          "score": 0.1,
+          "author": "user",
+          "sentence_id": "5",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"AI tools can map emotions by analyzing tones, sparking discussions about privacy and technology's impact",
+      "keypoint_index": 2,
+      "best_match_sentence": "This young man continues to say that the AI tool listens to your tones and gives a result on the type of emotion someone might be encountering.",
+      "best_match_score": 0.1395,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "top_3_matches": [
+        {
+          "sentence": "This young man continues to say that the AI tool listens to your tones and gives a result on the typ...",
+          "score": 0.1395,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "And  we fought a lot about that and never recovered from that situation really.",
+          "score": 0.1333,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.1053,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"Technology offers convenience but can lead to a loss of genuine human connections",
+      "keypoint_index": 3,
+      "best_match_sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",
+      "best_match_score": 0.2857,
+      "best_match_author": "API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.2857,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "Now I'm more mindful of how I use it, trying to strike a balance between the convenience it offers a...",
+          "score": 0.2439,
+          "author": "user_and_api",
+          "sentence_id": "9",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "The students were quiet for a minute and I told them that technology gave me the world sure but it t...",
+          "score": 0.1579,
+          "author": "user",
+          "sentence_id": "8",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"Constant connectivity can result in loneliness and a sense of disconnection from reality",
+      "keypoint_index": 4,
+      "best_match_sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, even when we're surrounded by people.",
+      "best_match_score": 0.3429,
+      "best_match_author": "API",
+      "best_match_sentence_id": "13",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "top_3_matches": [
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.3429,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "And  we fought a lot about that and never recovered from that situation really.",
+          "score": 0.2222,
+          "author": "user",
+          "sentence_id": "7",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "This young man continues to say that the AI tool listens to your tones and gives a result on the typ...",
+          "score": 0.15,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "keypoint": "\",\n    \"Online comparison can cause insecurity and pressure to maintain a perfect persona",
+      "keypoint_index": 5,
+      "best_match_sentence": "One of the students chimed in, sharing their own experience of feeling pressured to maintain a perfect online persona, which often left them feeling exhausted and inauthentic.",
+      "best_match_score": 0.2564,
+      "best_match_author": "API",
+      "best_match_sentence_id": "16",
+      "best_match_filename": "23ed863afb3848e59d924afe36cab7f1.csv",
+      "top_3_matches": [
+        {
+          "sentence": "One of the students chimed in, sharing their own experience of feeling pressured to maintain a perfe...",
+          "score": 0.2564,
+          "author": "api",
+          "sentence_id": "16",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "They nodded as I mentioned how easy it is to fall into the trap of comparing oneself to others onlin...",
+          "score": 0.2381,
+          "author": "api",
+          "sentence_id": "15",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        },
+        {
+          "sentence": "I continued, expressing how the constant connectivity can sometimes lead to a sense of loneliness, e...",
+          "score": 0.1765,
+          "author": "api",
+          "sentence_id": "13",
+          "filename": "23ed863afb3848e59d924afe36cab7f1.csv"
+        }
+      ]
+    }
+  ]
+}

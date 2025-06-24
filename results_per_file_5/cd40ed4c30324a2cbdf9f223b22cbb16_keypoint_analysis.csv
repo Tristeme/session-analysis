@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,1,"```json
+[
+    ""The pursuit of travel, financial freedom, and a fulfilling career are intertwined dreams","I want to travel, be financially free, have actual peace of mind, and pursue a career that brings me genuine joy.",0.2286,USER_AND_API,2,cd40ed4c30324a2cbdf9f223b22cbb16.csv
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,2,""",
+    ""Travel is prioritized by saving money and valuing experiences over material possessions","To make this dream a reality, I have been diligently saving money and planning trips within my budget, all while ensuring I prioritize experiences over material possessions.",0.359,API,5,cd40ed4c30324a2cbdf9f223b22cbb16.csv
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,3,""",
+    ""Financial freedom is pursued through investing in stocks and learning personal finance","To work towards this goal, I've been investing in stocks and educating myself about personal finance, gradually building a diverse portfolio that promises long-term wealth accumulation.",0.3,API,7,cd40ed4c30324a2cbdf9f223b22cbb16.csv
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,4,""",
+    ""Organizing a charity event was chaotic yet fulfilling, highlighting the importance of perseverance","These dreams are interwoven like threads of a colorful tapestry, each strand contributing to the bigger picture of my ideal life.",0.1765,API,3,cd40ed4c30324a2cbdf9f223b22cbb16.csv
+cd40ed4c30324a2cbdf9f223b22cbb16.csv,5,""",
+    ""Self-improvement through meditation and workshops is essential for achieving long-term goals","Yet, each challenge has taught me valuable lessons about perseverance and adaptability, skills that are essential not just for financial success, but for achieving peace of mind as well.
+ Recently, I helped organize a charity event.",0.1633,USER_AND_API,9,cd40ed4c30324a2cbdf9f223b22cbb16.csv

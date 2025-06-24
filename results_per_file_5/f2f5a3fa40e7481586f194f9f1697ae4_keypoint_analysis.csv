@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+f2f5a3fa40e7481586f194f9f1697ae4.csv,1,"```json
+[
+    ""Balancing personal life and career becomes challenging as we and our parents age",We need to take care of ourselves and practice diligent self-care as we age.,0.2759,USER,6,f2f5a3fa40e7481586f194f9f1697ae4.csv
+f2f5a3fa40e7481586f194f9f1697ae4.csv,2,""",
+    ""Retirement is not always a stress-free period due to emotional and financial concerns",Some think getting older and closer to retirement age should be LESS of a burden on our emotional and financial stability.,0.2857,USER,7,f2f5a3fa40e7481586f194f9f1697ae4.csv
+f2f5a3fa40e7481586f194f9f1697ae4.csv,3,""",
+    ""Caring for aging parents can lead to sacrificing personal hobbies and free time",What happens to my free time and extra spending money?,0.2609,USER,18,f2f5a3fa40e7481586f194f9f1697ae4.csv
+f2f5a3fa40e7481586f194f9f1697ae4.csv,4,""",
+    ""Guilt arises from juggling between caring for loved ones and personal self-care","We question whether we are doing enough for our loved ones, yet feel guilty about neglecting our own needs and passions.",0.2353,API,27,f2f5a3fa40e7481586f194f9f1697ae4.csv
+f2f5a3fa40e7481586f194f9f1697ae4.csv,5,""",
+    ""Self-care, including rest and socialization, is crucial despite caregiving responsibilities","The body needs  rest, relaxation, proper nutrition and hydration.",0.2,USER,30,f2f5a3fa40e7481586f194f9f1697ae4.csv

@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,1,"```json
+[
+    ""Technology initially enhanced my life by making communication and creative expression more convenient",I'm sharing my story to show how tech swooped into my life and changed it in ways I never expected.,0.1714,USER_AND_API,0,6e0b5951a39a42cbbbbd0457ba0ac149.csv
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,2,""",
+    ""Social media expanded my social circle and sparked an interest in photography","Initially, this was exhilarating as my social circle seemed to expand overnight.",0.25,API,4,6e0b5951a39a42cbbbbd0457ba0ac149.csv
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,3,""",
+    ""Excessive phone use led to sleep issues and hindered face-to-face communication","I could check emails on the phone anytime i felt like.
+Social media introduction to my friends , taught me about interesting events 
+ and helped me stay connected with people I hadn't spoken to in years.",0.1633,USER_AND_API,3,6e0b5951a39a42cbbbbd0457ba0ac149.csv
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,4,""",
+    ""Conscious efforts to limit notifications and screen time helped regain focus and attention",The main difference today involves conscious attention.,0.2,USER,15,6e0b5951a39a42cbbbbd0457ba0ac149.csv
+6e0b5951a39a42cbbbbd0457ba0ac149.csv,5,""",
+    ""A balanced relationship with technology requires awareness and effort to avoid being overwhelmed","There was a day when I sat at dinner with my family, and instead of participating in conversation, my attention was glued to Instagram stories.",0.2105,API,22,6e0b5951a39a42cbbbbd0457ba0ac149.csv

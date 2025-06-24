@@ -1,0 +1,13 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+85e2c8cc775e4b1c99e28ecdec8db933.csv,1,"```json
+[
+    ""The author is transitioning from a successful career to focus on video game development and family responsibilities","I want to focus on my hobby for making video games as this will allow me  more free time to attend to my aging parents, my family and personal issues.",0.4943,USER,1,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,2,""",
+    ""They plan to balance personal fulfillment with professional obligations by setting up a home office for game development","I'm considering setting up a home office dedicated to game development, where I can immerse myself in creativity while still being available for any family emergencies.
+Besides proper planning and setting up a home office, there are other important things that i need to do as well.",0.6816,USER_AND_API,6,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,3,""",
+    ""The author intends to discuss their transition plans with their wife and enroll in an online refresher course on video game development","Secondly, i need to enroll for an online refresher class on video game development.",0.681,USER,9,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,4,""",
+    ""A one-month notice will be given to their current employer once they are ready to pursue their hobby full-time",The policy at my current  work place requires me to give a one month notice.,0.6961,USER,12,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert
+85e2c8cc775e4b1c99e28ecdec8db933.csv,5,""",
+    ""The author is excited about the prospect of integrating their passions with family life, despite anticipating challenges",The prospect of waking up every morning with the freedom to create worlds in video games while having the flexibility to support my elderly parents.,0.4557,USER_AND_API,14,85e2c8cc775e4b1c99e28ecdec8db933.csv,sentence-bert

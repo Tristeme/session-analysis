@@ -1,0 +1,18 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+615fe44d5a6c40baaa9c9249c9936e3a.csv,1,"```json
+[
+    ""Game development involves designing systems, writing code, and collaborating with artists and writers","- “Well, not exactly,” I said, trying to explain, “it’s more about designing systems, writing code, collaborating with artists and writers, and constantly testing to make sure things actually work.”
+But by then, they had already tuned out.",0.3462,USER,3,615fe44d5a6c40baaa9c9249c9936e3a.csv
+615fe44d5a6c40baaa9c9249c9936e3a.csv,2,""",
+    ""The passion for creating interactive worlds stems from a love of storytelling and creativity","For me, it just happens to be in code, pixels, and the thrill of possibility.
+So to anyone who's ever had their passion misunderstood or belittled: keep doing what you love.",0.1304,USER,14,615fe44d5a6c40baaa9c9249c9936e3a.csv
+615fe44d5a6c40baaa9c9249c9936e3a.csv,3,""",
+    ""There is a stereotype that jobs tied to 'fun' are not serious or valuable","It’s about building something meaningful within it.
+What frustrates me is how quickly people stereotype jobs tied to “fun.” If you say you’re a lawyer or a nurse, people immediately understand the value.",0.2857,USER,9,615fe44d5a6c40baaa9c9249c9936e3a.csv
+615fe44d5a6c40baaa9c9249c9936e3a.csv,4,""",
+    ""The joy of game development comes from launching a game and seeing players engage with it","But it’s the judgmental glances, the flippant comments, that stick with you longer than they should.
+Still, I wouldn’t trade my path for anything.- The joy of launching a game and seeing players engage with something I helped bring to life is indescribable.
+It’s more than a job—it’s a way to tell stories, solve problems, and be endlessly creative.",0.3,USER,12,615fe44d5a6c40baaa9c9249c9936e3a.csv
+615fe44d5a6c40baaa9c9249c9936e3a.csv,5,""",
+    ""Misunderstandings about one's passion should be used as opportunities to educate others","And when someone makes an assumption, use it as a chance to educate, not to retreat.
+Because at the end of the day, what matters most isn’t how others see your path, it’s how much you believe in where it’s taking you.",0.1379,USER,16,615fe44d5a6c40baaa9c9249c9936e3a.csv

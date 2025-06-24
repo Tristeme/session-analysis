@@ -1,0 +1,15 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+feb18913afc846e39d7e233423b67bd0.csv,1,"```json
+[
+    ""Judgment based on past drug use led to family estrangement despite personal recovery",I've never had someone judge me based on my job.,0.16,USER,0,feb18913afc846e39d7e233423b67bd0.csv
+feb18913afc846e39d7e233423b67bd0.csv,2,""",
+    ""Consistent negative labeling and criticism from family created a sense of being the 'black sheep","I was always treated like a junkie and less of a person because of this, and to this day, even after turning my life around and quitting the weed and the pills, my family are still standoffish about having anything to do with me.
+
+2) Family Drama
+My whole life I have always been the black sheep in the family.",0.16,USER,3,feb18913afc846e39d7e233423b67bd0.csv
+feb18913afc846e39d7e233423b67bd0.csv,3,"'"",
+    ""Family criticism of weight led to unhealthy eating habits and body image issues","I started to start myself, and was shamed for that too.",0.1667,USER,11,feb18913afc846e39d7e233423b67bd0.csv
+feb18913afc846e39d7e233423b67bd0.csv,4,""",
+    ""Persistent blame for skin issues despite known medical conditions caused frustration","The thing is they know I have hormonal issues and high cortisol, in addition to thyroid problems, but they still try to place blame on me for my skin issues.",0.1951,USER,18,feb18913afc846e39d7e233423b67bd0.csv
+feb18913afc846e39d7e233423b67bd0.csv,5,""",
+    ""Political views and artistic expression were met with harsh criticism, leading to self-doubt and isolation",I find myself constantly questioning if the things that bring me joy and fulfillment are worth the criticism and judgment I often receive.,0.1538,API,25,feb18913afc846e39d7e233423b67bd0.csv

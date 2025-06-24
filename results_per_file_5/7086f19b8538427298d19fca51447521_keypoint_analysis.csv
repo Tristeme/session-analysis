@@ -1,0 +1,14 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename
+7086f19b8538427298d19fca51447521.csv,1,"```json
+[
+    ""The dream is to create a community learning center that combines mentorship, career development, and mental wellness","To create a community learning center that blenda mentorship, career development, and mental wellness, a safe space where people, especially young adults, feel seen, supported, and empowered to grow.",0.5532,USER,3,7086f19b8538427298d19fca51447521.csv
+7086f19b8538427298d19fca51447521.csv,2,""",
+    ""The vision is driven by personal struggles and a desire to prevent others from feeling isolated or hopeless","And yes, sometimes that dream keeps me wide awake at 2a.m.
+The vision has een with me for years, shaped by personal struggles and community obseravations.",0.2667,USER,5,7086f19b8538427298d19fca51447521.csv
+7086f19b8538427298d19fca51447521.csv,3,""",
+    ""The journey involves overcoming financial challenges, burnout, and self-doubt, while gaining experience and making connections","I network constantly, pitch my idea wherever i can, and  volunteer with nonprofits to gain experience and make connections.",0.2286,USER,15,7086f19b8538427298d19fca51447521.csv
+7086f19b8538427298d19fca51447521.csv,4,""",
+    ""The mission is deeply personal, rooted in healing, empathy, and creating access to opportunities","This mission is rooted in love, reselience, and the unshakable belief that change begins with empathy.
+ So yeah, I lie awake alot.",0.2778,USER,26,7086f19b8538427298d19fca51447521.csv
+7086f19b8538427298d19fca51447521.csv,5,""",
+    ""The dream is communal, involving collaboration and collective action to achieve a better future","Those moments of collaboration have reinforced the idea that this dream, while deeply personal, is also communal—it belongs to everyone who believes in a better future.",0.3902,API,35,7086f19b8538427298d19fca51447521.csv

@@ -1,0 +1,19 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+feb18913afc846e39d7e233423b67bd0.csv,1,"```json
+[
+    ""Judgment from family due to past drug use despite not using hard drugs","However, I've had people judge me for a variety of other reasons such as...
+
+1) Past Drug Use
+I've had family practically shun me and stop talking to me all because of one person in my family portraying me as this terrible person due to my use of drugs.",0.4825,USER,1,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,2,""",
+    ""Consistent negative treatment from family, being labeled as the black sheep","I was always treated like a junkie and less of a person because of this, and to this day, even after turning my life around and quitting the weed and the pills, my family are still standoffish about having anything to do with me.
+
+2) Family Drama
+My whole life I have always been the black sheep in the family.",0.5514,USER,3,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,3,""",
+    ""Criticism about weight and eating habits, leading to unhealthy behaviors",When I actually was healthy (before becoming anorexic) I was always told I was too skinny and I needed to gain weight.,0.4939,USER,12,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,4,""",
+    ""Blame for skin issues despite known medical conditions","Despite the fact that my family knows this, I get blamed for my bad skin because I ""wear makeup, touch my face, don't clean my face enough,"" etc.",0.6211,USER,17,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert
+feb18913afc846e39d7e233423b67bd0.csv,5,""",
+    ""Insults and judgment based on political views and personal art","5) My Political Views
+I stopped posting my political views on social media circa 2017 when people started to insult me based on them.",0.545,USER,19,feb18913afc846e39d7e233423b67bd0.csv,sentence-bert

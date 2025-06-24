@@ -1,0 +1,183 @@
+{
+  "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+  "extracted_keypoints": [
+    "```json\n[\n    \"Standing up for personal beliefs requires courage, especially against societal and peer pressure",
+    "\",\n    \"The author believed women should not officiate men's basketball games due to safety and fairness concerns",
+    "\",\n    \"Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues",
+    "\",\n    \"The decision sparked debate but was ultimately accepted, proving less controversial than expected",
+    "\",\n    \"Social media can amplify perceived issues, but practical outcomes often matter more to people"
+  ],
+  "analysis_results": [
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "```json\n[\n    \"Standing up for personal beliefs requires courage, especially against societal and peer pressure",
+      "keypoint_index": 1,
+      "best_match_sentence": "It takes courage to stand up for what you believe in even in the face of pressure from society, family and friends.",
+      "best_match_score": 0.6145,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "0",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "It takes courage to stand up for what you believe in even in the face of pressure from society, fami...",
+          "score": 0.6145,
+          "author": "user",
+          "sentence_id": "0",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult f...",
+          "score": 0.4843,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "During a team meeting, I gathered the courage to express my viewpoint, emphasizing that my stance wa...",
+          "score": 0.3526,
+          "author": "user_and_api",
+          "sentence_id": "6",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"The author believed women should not officiate men's basketball games due to safety and fairness concerns",
+      "keypoint_index": 2,
+      "best_match_sentence": "For me, there was a time at work where I felt it wasn't right that women should officiate men's basketball games.",
+      "best_match_score": 0.761,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "2",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "For me, there was a time at work where I felt it wasn't right that women should officiate men's bask...",
+          "score": 0.761,
+          "author": "user",
+          "sentence_id": "2",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "I implemented a policy allowing women to officiate in youth leagues, believing that this was an appr...",
+          "score": 0.684,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "Most at work felt it didn't matter, but to me, while I feel there are plenty of places women can off...",
+          "score": 0.6806,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"Despite initial resistance, the author implemented a policy allowing women to officiate youth leagues",
+      "keypoint_index": 3,
+      "best_match_sentence": "I implemented a policy allowing women to officiate in youth leagues, believing that this was an appropriate step toward inclusivity while maintaining safety.",
+      "best_match_score": 0.8481,
+      "best_match_author": "API",
+      "best_match_sentence_id": "14",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "I implemented a policy allowing women to officiate in youth leagues, believing that this was an appr...",
+          "score": 0.8481,
+          "author": "api",
+          "sentence_id": "14",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "Determined not to let my voice be drowned out, I decided to back up my perspective with research and...",
+          "score": 0.7627,
+          "author": "user_and_api",
+          "sentence_id": "11",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "Most at work felt it didn't matter, but to me, while I feel there are plenty of places women can off...",
+          "score": 0.6355,
+          "author": "user",
+          "sentence_id": "3",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"The decision sparked debate but was ultimately accepted, proving less controversial than expected",
+      "keypoint_index": 4,
+      "best_match_sentence": "To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehemently supporting it, a few questioning it but I felt overall most people were understanding or didn't really see it as an issue.",
+      "best_match_score": 0.5795,
+      "best_match_author": "USER_AND_API",
+      "best_match_sentence_id": "15",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "To my surprise, the decision sparked an intense debate among staff and parents alike, with some vehe...",
+          "score": 0.5795,
+          "author": "user_and_api",
+          "sentence_id": "15",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "I realized that sometimes, we get caught up in what we perceive as public opinion when, in reality, ...",
+          "score": 0.4433,
+          "author": "user_and_api",
+          "sentence_id": "22",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "The discussion seemed to quickly shift towards ensuring gender equality and embracing diversity, whi...",
+          "score": 0.4217,
+          "author": "api",
+          "sentence_id": "10",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    },
+    {
+      "source_file": "e664806e36564ca89520fd69a80beb1a.csv",
+      "keypoint": "\",\n    \"Social media can amplify perceived issues, but practical outcomes often matter more to people",
+      "keypoint_index": 5,
+      "best_match_sentence": "This is where social media makes things seem to be a bigger issue when in fact, most people aren't that worried about it.",
+      "best_match_score": 0.6393,
+      "best_match_author": "USER",
+      "best_match_sentence_id": "20",
+      "best_match_filename": "e664806e36564ca89520fd69a80beb1a.csv",
+      "similarity_method": "sentence-bert",
+      "top_3_matches": [
+        {
+          "sentence": "This is where social media makes things seem to be a bigger issue when in fact, most people aren't t...",
+          "score": 0.6393,
+          "author": "user",
+          "sentence_id": "20",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "These days, the addition of social media, increases that pressure and makes it even more difficult f...",
+          "score": 0.6289,
+          "author": "user",
+          "sentence_id": "1",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        },
+        {
+          "sentence": "I realized that sometimes, we get caught up in what we perceive as public opinion when, in reality, ...",
+          "score": 0.6106,
+          "author": "user_and_api",
+          "sentence_id": "22",
+          "filename": "e664806e36564ca89520fd69a80beb1a.csv"
+        }
+      ]
+    }
+  ],
+  "similarity_method": "sentence-bert"
+}

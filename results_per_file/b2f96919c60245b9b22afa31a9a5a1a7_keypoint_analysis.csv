@@ -1,0 +1,12 @@
+source_file,keypoint_index,keypoint,best_match_sentence,best_match_score,best_match_author,best_match_sentence_id,best_match_filename,similarity_method
+b2f96919c60245b9b22afa31a9a5a1a7.csv,1,"```json
+[
+    ""Challenging universally accepted beliefs can lead to valuable insights",What this experience taught me is the importance of distinguishing between opinions and facts.,0.3701,USER,18,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,2,""",
+    ""Real estate is not always a guaranteed appreciating asset; renting can be a better option in some cases","In the end, my view on this issue is that, like so many other financial decisions, whether to rent or buy is an individual one.",0.6734,USER,25,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,3,""",
+    ""Financial decisions should be based on individual circumstances rather than broad assumptions",I also argued from the standpoint that financial decisions should always be based on individual circumstances rather than broad assumptions.,0.9114,USER,17,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,4,""",
+    ""Distinguishing between opinions and facts is crucial for making informed decisions",What this experience taught me is the importance of distinguishing between opinions and facts.,0.7159,USER,18,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
+b2f96919c60245b9b22afa31a9a5a1a7.csv,5,""",
+    ""Engaging in constructive conversations and being open-minded can lead to deeper understanding","Engaging in constructive conversations, where both parties are willing to listen and share insights, often leads to a deeper understanding.",0.759,USER_AND_API,32,b2f96919c60245b9b22afa31a9a5a1a7.csv,sentence-bert
